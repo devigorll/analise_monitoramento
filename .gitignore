@@ -1,0 +1,43 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Banco de Dados
+*.bak
+*.mdf
+*.ldf
+
+# Dados grandes (opcional)
+dados/bruto/*.csv
+dados/bruto/*.xlsx
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Arquivos de ambiente
+.env
