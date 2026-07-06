@@ -1,100 +1,629 @@
-NOME,Quantidade
-Sr. Rafael Silva,23
-Luiz Gustavo Viana,19
-Dra. Aurora Fonseca,17
-Valentina Moraes,17
-Vitor Andrade,15
-Dra. Maria Liz Andrade,15
-Olívia Moura,14
-Erick Andrade,14
-Dra. Mariane da Rosa,13
-Alícia Jesus,13
-Gustavo Henrique Cardoso,13
-Théo Pires,13
-Mirella Barros,13
-Leonardo da Mata,13
-Bruno Oliveira,13
-Yago da Costa,13
-Nicole Moura,13
-Ravy Oliveira,13
-Vitor Pinto,13
-Vicente Fogaça,13
-Thiago Farias,13
-Maria Sophia Nascimento,12
-Melina Almeida,12
-Pietro Gonçalves,12
-Rafael Brito,12
-Yuri Viana,12
-Pedro Lucas Gomes,12
-Mariana Marques,12
-Dr. Ryan Novaes,11
-Enrico Lopes,11
-Dra. Maria Eduarda da Cruz,11
-Eloah Martins,11
-Ana Vitória da Mota,11
-Dr. Davi Porto,11
-Bianca Costa,11
-Maitê Caldeira,11
-Sra. Julia Almeida,11
-Sr. Pedro Henrique Cirino,11
-Gabrielly Melo,11
-Enzo Gabriel Pires,11
-Ravy da Rosa,11
-Luiz Fernando Guerra,11
-João Guilherme Sá,11
-Sra. Elisa Santos,10
-Sr. Francisco Casa Grande,10
-Otto Sousa,10
-Maria Sophia Vasconcelos,10
-João Guilherme Fonseca,10
-Ester Nogueira,10
-Gabriel Sá,10
-Gustavo Sá,10
-Diogo Garcia,10
-Cauã Costa,10
-Dr. Asafe Moraes,10
-Sr. João Gabriel Peixoto,10
-Pedro Lucas Albuquerque,10
-Lucas Carvalho,10
-Lavínia da Paz,10
-José Brito,10
-Bernardo Correia,9
-Diego Novaes,9
-Daniela Camargo,9
-Breno Cardoso,9
-Felipe Araújo,9
-Laís Casa Grande,9
-Joana da Rosa,9
-Helena Cassiano,9
-Maria Cecília Silva,9
-Lara Barros,9
-Sophie da Mata,9
-Natália Cavalcanti,8
-Dr. Anthony Gabriel Albuquerque,8
-Asafe Souza,8
-Diego Montenegro,8
-Matteo Correia,8
-Sr. João Miguel Nascimento,8
-Lívia Jesus,8
-Luiz Gustavo Ferreira,8
-Luigi Nascimento,8
-Maria Flor Rios,8
-Liz Jesus,7
-Ágatha Martins,7
-Emanuella Moraes,7
-Pietro Vieira,7
-Paulo Peixoto,6
-Ana Julia Gonçalves,6
-Eduarda Farias,6
-Luiza Aragão,6
-Heloísa Casa Grande,6
-Júlia da Luz,6
-Luiz Miguel Viana,6
-Maria Clara Cardoso,6
-Ágatha Vasconcelos,6
-Matteo Novaes,6
-Sarah Pimenta,5
-Hellena Pires,5
-Maria Cecília Siqueira,4
-Nicole Costela,4
-Bella Correia,3
+cliente,QUANTIDADE
+Ana Julia Albuquerque,7
+Sr. Vinícius Andrade,5
+Stephany Nascimento,5
+Sr. Bruno Leão,5
+Dra. Ísis Carvalho,5
+Luiza Vieira,5
+Dr. Asafe Marques,5
+Dra. Julia Melo,5
+Luiz Henrique Gonçalves,5
+Ana Vitória Lima,4
+Paulo Vieira,4
+Léo Jesus,4
+Ian da Rocha,4
+João Felipe Rodrigues,4
+Igor Caldeira,4
+Dr. Bryan Freitas,4
+Dr. Breno Moura,4
+Dra. Daniela Teixeira,4
+Enrico Novaes,4
+Maria Flor Rios,4
+Maria Fernanda Fernandes,4
+Beatriz da Mota,4
+Ana Liz Aparecida,4
+Ana Júlia da Cruz,4
+Stella Ribeiro,3
+Ana Laura Novais,3
+Thiago Vieira,3
+Mirella Castro,3
+Nicolas Santos,3
+Paulo Macedo,3
+Paulo Azevedo,3
+Otto da Rocha,3
+Paulo Abreu,3
+Ryan Melo,3
+Apollo Nascimento,3
+Sra. Carolina Barros,3
+Sr. João Miguel Fogaça,3
+Rhavi Abreu,3
+Sarah Costa,3
+Thomas Campos,3
+Srta. Kamilly Monteiro,3
+Sra. Sarah da Conceição,3
+Sra. Brenda da Cruz,3
+Luiz Otávio Dias,3
+Luiz Gustavo Lopes,3
+Luiz Fernando Jesus,3
+Lunna Porto,3
+Luara Abreu,3
+Lavínia da Rosa,3
+Levi Viana,3
+Liam Siqueira,3
+Maria Flor da Conceição,3
+Maria Laura da Paz,3
+André Viana,3
+Beatriz Sampaio,3
+Lívia Macedo,3
+Maria Luiza Montenegro,3
+Maria Clara Oliveira,3
+Murilo Sousa,3
+Isadora Brito,3
+João Felipe Pinto,3
+Júlia Montenegro,3
+João Felipe Pastor,3
+Juliana Pimenta,3
+Juan Campos,3
+João Peixoto,3
+Benjamim Pastor,3
+Bruno Peixoto,3
+Gael Henrique Duarte,3
+Gabrielly Marques,3
+Caleb Câmara,3
+Fernando Rodrigues,3
+Gael Pacheco,3
+Giovanna Costa,3
+Gustavo Freitas,3
+Eduarda da Rosa,3
+Emanuella Costa,3
+Benicio Cassiano,3
+Erick Sá,3
+Dra. Eloá Pastor,3
+Dra. Allana da Mota,3
+Dr. Pedro Lucas Montenegro,3
+Dr. Bruno Guerra,3
+Dr. Cauê Cirino,3
+Camila Peixoto,3
+Breno Sales,3
+Bruna Cassiano,3
+Cecilia da Rocha,3
+Clarice Macedo,3
+Clarice Souza,3
+Allana Campos,3
+Ana Clara Ferreira,2
+Stella Pacheco,2
+Ana Cecília Mendonça,2
+Ana Cecília Camargo,2
+Ana Liz das Neves,2
+Ana Liz Garcia,2
+Srta. Letícia Macedo,2
+Srta. Isabelly Campos,2
+Calebe Nunes,2
+Calebe Farias,2
+Danilo Guerra,2
+Daniel Ribeiro,2
+Daniel Novais,2
+Zoe Gonçalves,2
+Srta. Carolina Campos,2
+Théo da Rocha,2
+Theo Souza,2
+Theo Correia,2
+Stephany Souza,2
+Sra. Liz Brito,2
+Sra. Liz Azevedo,2
+Diogo Borges,2
+Diogo Araújo,2
+Diogo Abreu,2
+Davi Luiz Teixeira,2
+Vitor Gabriel Almeida,2
+Stella Monteiro,2
+Srta. Melina Casa Grande,2
+Srta. Maria Luísa Ramos,2
+Sra. Alana Andrade,2
+Sra. Zoe Montenegro,2
+Sra. Natália Lima,2
+Sra. Mariane Pinto,2
+Sra. Maria Flor Fogaça,2
+Sr. José Pedro Rodrigues,2
+Sr. Josué Cardoso,2
+Sr. Joaquim da Cunha,2
+Sr. Eduardo Ramos,2
+Sra. Elisa da Cruz,2
+Sra. Bianca Viana,2
+Sr. Arthur Aparecida,2
+Sophie Marques,2
+Sophie Albuquerque,2
+Catarina Caldeira,2
+Caroline Sales,2
+Caroline Barbosa,2
+Camila Monteiro,2
+Sofia da Cruz,2
+Samuel Lima,2
+Sr. Miguel Leão,2
+Sr. Luiz Gustavo Barbosa,2
+Sabrina Alves,2
+Rodrigo Viana,2
+Dr. Igor Sales,2
+Dr. Henry Gabriel Moura,2
+Dr. Carlos Eduardo Borges,2
+Dr. Anthony Correia,2
+Dra. Catarina Fernandes,2
+Davi Luiz Ribeiro,2
+Bruna Dias,2
+Breno da Paz,2
+Ravi Lucca Sousa,2
+Sr. Asafe Barbosa,2
+Ana Gomes,2
+Antônio Fernandes,2
+Antônio Dias,2
+Antony da Rocha,2
+Pietra Brito,2
+Otto Cavalcanti,2
+Dr. Pedro Henrique Gomes,2
+Dr. Luigi Sampaio,2
+Dra. Sofia Carvalho,2
+Dra. Maria Laura Duarte,2
+Danilo Sales,2
+Nicolas Freitas,2
+Pedro Henrique Nogueira,2
+Pedro Henrique Machado,2
+Mateus Pinto,2
+Mateus Dias,2
+Maria Moreira,2
+Maria Luísa da Costa,2
+Maria Luísa Nogueira,2
+Maria Luiza Abreu,2
+Maria Júlia Porto,2
+Maria Júlia Gonçalves,2
+Maria Helena das Neves,2
+Melina da Cunha,2
+Maysa Caldeira,2
+Luísa Pimenta,2
+Maria Flor da Paz,2
+Dra. Maria Flor da Paz,2
+Emilly Almeida,2
+Emanuel Teixeira,2
+Dra. Camila Garcia,2
+Maria Eduarda Oliveira,2
+Maria Eduarda Borges,2
+Maria Luísa Caldeira,2
+Augusto Pastor,2
+Asafe da Mata,2
+Asafe Ramos,2
+Arthur Oliveira,2
+Luiz Miguel Silva,2
+Luiz Miguel Pereira,2
+Fernanda da Rocha,2
+Ester da Paz,2
+Dra. Maria Laura Costela,2
+Luiz Gustavo Albuquerque,2
+Manuella Aragão,2
+Manuela Leão,2
+Manuela Guerra,2
+Luiz Felipe da Conceição,2
+Lucas Gabriel Martins,2
+Liam Pacheco,2
+Liam Cavalcante,2
+Levi Martins,2
+Luna Pacheco,2
+João Pedro Camargo,2
+Leonardo Ribeiro,2
+Leonardo Brito,2
+Leandro Silveira,2
+Bruno da Rosa,2
+Bruno Sá,2
+Bruno Caldeira,2
+Arthur Miguel Fogaça,2
+Breno Ramos,2
+Bianca Duarte,2
+Bernardo Machado,2
+João Guilherme Ramos,2
+José Rios,2
+Juliana Moraes,2
+Jade Almeida,2
+Isis Cassiano,2
+João Miguel da Cruz,2
+João Lucas da Rocha,2
+Isabel Ferreira,2
+Igor da Mota,2
+Igor Pacheco,2
+Francisco Pinto,2
+Enzo Gabriel Gonçalves,2
+Benjamim Cardoso,2
+Benicio Oliveira,2
+Josué da Conceição,2
+Josué Cunha,2
+Heitor da Mota,2
+Gael Henrique Pereira,2
+Gael Henrique Novais,2
+Gael Henrique Martins,2
+Gabrielly Pinto,2
+Gabrielly Lopes,2
+Ana Carolina Ferreira,2
+Ana Beatriz Oliveira,2
+Valentim da Paz,2
+Yago Silveira,2
+Vitor Hugo Teixeira,2
+Zoe da Cruz,2
+Ísis Castro,1
+Yago Pires,1
+Yago Pimenta,1
+Allana Abreu,1
+Ágatha Jesus,1
+Vitor Pereira,1
+Vitória Rios,1
+Yago Cassiano,1
+Yago Nunes,1
+Alexia Nascimento,1
+Alice Moura,1
+Alícia Andrade,1
+Alícia Macedo,1
+Amanda Pacheco,1
+Srta. Fernanda Rezende,1
+Vinícius Fogaça,1
+Caleb Sampaio,1
+Caleb Nascimento,1
+Daniel Fernandes,1
+Clarice Alves,1
+Clara Guerra,1
+Yuri Alves,1
+Yasmin Porto,1
+Yasmin Novaes,1
+Yasmin Castro,1
+Srta. Fernanda Costa,1
+Thomas Moura,1
+Thomas Cirino,1
+Thiago Cavalcanti,1
+Thales Rezende,1
+Henrique Monteiro,1
+José Pedro Sá,1
+José Pedro Dias,1
+José Miguel Cardoso,1
+José Lima,1
+Heloisa Mendes,1
+Hellena da Mota,1
+Hellena Cunha,1
+Helena Sampaio,1
+Helena Nogueira,1
+Hadassa Moreira,1
+Gustavo Jesus,1
+Guilherme Lopes,1
+Gael Henrique Teixeira,1
+Isabelly Souza,1
+Isabelly Moura,1
+Gabrielly Aparecida,1
+Gabriela Leão,1
+Gabriel Vasconcelos,1
+Francisco Nunes,1
+Francisco Lima,1
+Francisco Dias,1
+Fernando da Mata,1
+Fernando Novaes,1
+Fernando Duarte,1
+Henrique Cirino,1
+Bella Sales,1
+Caio da Cruz,1
+Igor Gomes,1
+Henry Gabriel Novaes,1
+Henrique Rios,1
+Henrique Nogueira,1
+Juan Abreu,1
+Arthur Miguel Pimenta,1
+Joaquim Marques,1
+Joana Carvalho,1
+Isis Barbosa,1
+Isaque Pimenta,1
+Isaque Mendes,1
+Isadora Nunes,1
+Isadora Casa Grande,1
+João Miguel Santos,1
+João Miguel Ramos,1
+João Miguel Castro,1
+João Lucas Lima,1
+João Lucas Cunha,1
+Isaac Azevedo,1
+Igor Vieira,1
+Benjamim Vargas,1
+Benjamim Monteiro,1
+Benjamim Fonseca,1
+João Pedro Rezende,1
+João Pedro Cardoso,1
+João Lucas Alves,1
+João Guilherme Duarte,1
+João Guilherme Casa Grande,1
+João Gabriel Cavalcanti,1
+Júlia Ferreira,1
+Juliana Siqueira,1
+Juliana Sampaio,1
+Juliana Garcia,1
+Juliana Freitas,1
+Juliana Almeida,1
+Juan Rocha,1
+Laura da Cruz,1
+Larissa Pimenta,1
+Lara Carvalho,1
+Kevin da Costa,1
+Kevin Albuquerque,1
+Kamilly Novaes,1
+Kamilly Monteiro,1
+Júlia Pastor,1
+Júlia Oliveira,1
+Arthur Gabriel Nascimento,1
+Arthur Correia,1
+Brayan Viana,1
+Bianca Mendonça,1
+Bernardo Guerra,1
+Benício Sampaio,1
+Bento Pimenta,1
+Leonardo da Mota,1
+Caio Viana,1
+Bryan da Mata,1
+Bryan Sampaio,1
+Bryan Nunes,1
+Bryan Nogueira,1
+Bryan Jesus,1
+Enzo Gabriel Casa Grande,1
+Enzo Cavalcanti,1
+Eloah Oliveira,1
+Eloah Castro,1
+Eloah Barbosa,1
+Dra. Ágatha Cavalcanti,1
+Dra. Vitória Sá,1
+Leandro Pinto,1
+Laís Monteiro,1
+Marcelo Lopes,1
+Manuella Dias,1
+Manuela Aragão,1
+Maitê Sampaio,1
+Maitê Porto,1
+Maitê Cavalcante,1
+Luiz Felipe Duarte,1
+Lucca Cassiano,1
+Lucas Gabriel Rocha,1
+Luara Lopes,1
+Lorenzo Pacheco,1
+Lorenzo Barros,1
+Liz Nogueira,1
+Levi Andrade,1
+Luísa Fernandes,1
+Luísa Azevedo,1
+Luiz Henrique Fernandes,1
+Luiz Henrique Abreu,1
+Dra. Valentina Sá,1
+Fernando Aragão,1
+Evelyn Moraes,1
+Evelyn Almeida,1
+Esther Porto,1
+Esther Casa Grande,1
+Erick da Mota,1
+Erick Alves,1
+Enzo Sampaio,1
+Dra. Maria Julia Ferreira,1
+Dra. Maria Julia Cardoso,1
+Dra. Maria Isis Alves,1
+Dra. Maria Helena Gonçalves,1
+Luiz Gustavo Aparecida,1
+Maria Cecília Castro,1
+Marcos Vinicius Cavalcanti,1
+Maria Luiza Pacheco,1
+Maitê Borges,1
+Lívia Lima,1
+Antonella Barbosa,1
+Anthony Gabriel Camargo,1
+Anna Liz Pastor,1
+Bella Macedo,1
+Ayla Farias,1
+Ayla Cirino,1
+Augusto Rodrigues,1
+Asafe Pereira,1
+Arthur Miguel da Cruz,1
+Léo Vieira,1
+Luna Casa Grande,1
+Dra. Liz Lopes,1
+Dra. Kamilly Andrade,1
+Dra. Hellena Moreira,1
+Emanuelly Rodrigues,1
+Emanuel da Conceição,1
+Eloá Pastor,1
+Eloá Cardoso,1
+Dra. Ana Julia Souza,1
+Dra. Ana Gomes,1
+Dra. Allana Nunes,1
+Dr. Vitor Rodrigues,1
+Maria Eduarda Moura,1
+Maria Clara Martins,1
+Maria Cecília das Neves,1
+Maria Cecília Freitas,1
+Maria Cecília Fonseca,1
+Olivia da Cunha,1
+Olivia Porto,1
+Maria Luiza Macedo,1
+Maria Luiza Duarte,1
+Maria Laura Sá,1
+Maria Júlia Borges,1
+Maria Julia Fonseca,1
+Maria Isis Sampaio,1
+Maria Helena Rezende,1
+Maria Helena Pacheco,1
+Mirella Barbosa,1
+Melina Montenegro,1
+Luísa Porto,1
+Maria Flor Moraes,1
+Maria Fernanda da Cruz,1
+Dra. Maitê Garcia,1
+Natália da Paz,1
+Natália Rodrigues,1
+Pedro Lucas da Conceição,1
+Pedro Lucas Aparecida,1
+Pedro Henrique da Cruz,1
+Pedro Henrique Alves,1
+Pedro Almeida,1
+Matteo da Mota,1
+Matteo Lopes,1
+Mateus Silveira,1
+Marina Pimenta,1
+Maria Sophia Pimenta,1
+Otto Andrade,1
+Olívia Novais,1
+Olívia Moraes,1
+Olívia Borges,1
+Raquel Pastor,1
+Raquel Castro,1
+Rafael Barros,1
+Rael Teixeira,1
+Rael Siqueira,1
+Rael Rios,1
+Rael Andrade,1
+Pietro Abreu,1
+Pietra Pires,1
+Pietra Dias,1
+Olivia Caldeira,1
+Oliver Pastor,1
+Nicole Santos,1
+Nicole Carvalho,1
+Nicolas Pacheco,1
+Nicolas Alves,1
+Otávio Mendes,1
+Otto Vargas,1
+Otto Sales,1
+Raul Silveira,1
+Dr. Vitor Hugo Barbosa,1
+Dr. Vinicius Camargo,1
+Dr. Thales Silva,1
+Dr. Matheus Novaes,1
+Dra. Maysa Gomes,1
+Dra. Mariana Gomes,1
+Dra. Maria Sophia Cunha,1
+Dante Vasconcelos,1
+Dante Pastor,1
+Danilo Vieira,1
+Dr. Lucas Gabriel Rocha,1
+Raquel da Cunha,1
+Ravy da Conceição,1
+Ravi Pimenta,1
+Ravi Lucca Pires,1
+Ravi Lucca Castro,1
+Ravi Duarte,1
+Ana Cunha,1
+Apollo da Mota,1
+Apollo Rocha,1
+Apollo Fonseca,1
+Apollo Correia,1
+Antony Novais,1
+Antony Gomes,1
+Antonella Oliveira,1
+Antonella Correia,1
+Pietra Cavalcanti,1
+Pedro Montenegro,1
+Sr. Marcos Vinicius Rocha,1
+Pedro Miguel Martins,1
+Rodrigo Moraes,1
+Rhavi Andrade,1
+Dr. José Miguel da Costa,1
+Dr. Felipe Pires,1
+Dr. Enrico da Cunha,1
+Dr. Calebe Moreira,1
+Dom Teixeira,1
+Dom Silva,1
+Davi Luiz Casa Grande,1
+Davi Ferreira,1
+Renan Mendes,1
+Rebeca Fernandes,1
+Rebeca Cavalcanti,1
+Rebeca Azevedo,1
+Caroline Sá,1
+Caroline Macedo,1
+Carolina Cardoso,1
+Camila Machado,1
+Calebe Sousa,1
+Clara Cardoso,1
+Cecília Sampaio,1
+Cecília Rios,1
+Cecília Barros,1
+Cecilia Caldeira,1
+Sophia Gomes,1
+Sofia das Neves,1
+Sarah Pacheco,1
+Sarah Andrade,1
+Sabrina Vasconcelos,1
+Sabrina Dias,1
+Sra. Maria Eduarda Ferreira,1
+Sra. Luiza Correia,1
+Sr. Lucca Ramos,1
+Sr. João Lucas Ferreira,1
+Sr. Josué Nogueira,1
+Sr. Gustavo Henrique Vieira,1
+Sr. Francisco Vasconcelos,1
+Sr. Davi Lucca Martins,1
+Sr. Davi Lucca Duarte,1
+Sr. Danilo da Costa,1
+Sra. Carolina Montenegro,1
+Sra. Amanda Leão,1
+Sr. Apollo Cavalcante,1
+Sophie Siqueira,1
+Cauê Azevedo,1
+Catarina Cirino,1
+Sra. Gabrielly Costa,1
+Sra. Evelyn Fernandes,1
+Stella Novaes,1
+Stella Cirino,1
+Stella Aragão,1
+Srta. Sophie Ferreira,1
+Srta. Maya Farias,1
+Sra. Alexia Castro,1
+Sr. Vinícius Fonseca,1
+Sr. Ravy Monteiro,1
+Sr. Ravy Andrade,1
+Sr. Raul Caldeira,1
+Sr. Rafael Almeida,1
+Sr. Pietro Nunes,1
+Sr. Oliver Lima,1
+Sra. Pietra Andrade,1
+Stephany Fernandes,1
+Sra. Luara Aragão,1
+Sra. Joana da Mata,1
+Sra. Isabella da Rocha,1
+Cauê da Conceição,1
+Cauê Duarte,1
+Dom Carvalho,1
+Diogo Cavalcanti,1
+Diego Carvalho,1
+Davi Novais,1
+Davi Miguel Rocha,1
+Vitor Hugo Campos,1
+Vitor Gabriel Mendes,1
+Vinícius Nogueira,1
+Vinícius Fonseca,1
+Sra. Giovanna Marques,1
+Yasmin Campos,1
+Yuri Ribeiro,1
+Ana Cecília Vieira,1
+Valentim Cunha,1
+Ana Clara Leão,1
+Ana Vitória Marques,1
+Ana Silveira,1
+Ana Lívia Moura,1
+Ana Lívia Campos,1
+Ana Luiza Moura,1
+Ana Liz Cardoso,1
+Stephany Cavalcanti,1
+Stephany Campos,1
+Zoe Teixeira,1
+Srta. Maria Julia Barros,1
+Srta. Isabela Andrade,1
+Isabelly Marques,1
+Isabel Sampaio,1
+Enrico Vieira,1
+Enrico Novais,1
+Ana Carolina Viana,1
+Ana Carolina Lima,1
+Ana Carolina Garcia,1
+Ana Beatriz Jesus,1
+Ana Barbosa,1
+Valentina Nascimento,1
+Valentim Moraes,1
+Yuri Rodrigues,1
+Yago Siqueira,1
+Yago Sampaio,1
+Agatha Andrade,1
+Ana Vitória da Rocha,1

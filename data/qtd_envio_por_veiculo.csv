@@ -1,31 +1,31 @@
-modelo,id_envio
-Toyota Hilux,107
-Volkswagen Amarok,97
-Ford Ranger,87
-Chevrolet S10,85
-Fiat Toro,85
-DAF XF 480,58
-Scania P320,56
-Mercedes-Benz Atego 1719,53
-Renault Master,51
-Mercedes-Benz Sprinter,49
-Iveco Tector 240E30,47
-Volkswagen Constellation 24.280,47
-Fiat Ducato,45
-Volkswagen Delivery 11.180,43
-Volvo VM 270,38
-Toyota Corolla,7
-Hyundai HB20,7
-Fiat Uno,6
-Fiat Mobi,5
-Chevrolet Prisma,4
-Honda Civic,3
-Ford Ka,3
-Volkswagen Polo,3
-Nissan Versa,3
-Volkswagen Gol,3
-Citroen C3,2
-Peugeot 208,2
-Renault Kwid,2
-Chevrolet Onix,1
-Jeep Renegade,1
+,veiculo,QUANTIDADE
+0,Fiat Toro,98
+1,Volkswagen Amarok,95
+2,Ford Ranger,83
+3,Chevrolet S10,79
+4,Toyota Hilux,69
+5,Fiat Ducato,63
+6,Mercedes-Benz Sprinter,56
+7,Scania P320,55
+8,Volvo VM 270,55
+9,Volkswagen Delivery 11.180,54
+10,DAF XF 480,52
+11,Renault Master,47
+12,Iveco Tector 240E30,47
+13,Volkswagen Constellation 24.280,45
+14,Mercedes-Benz Atego 1719,43
+15,Nissan Versa,8
+16,Renault Kwid,7
+17,Hyundai HB20,6
+18,Fiat Mobi,5
+19,Fiat Uno,5
+20,Peugeot 208,5
+21,Chevrolet Onix,4
+22,Volkswagen Polo,4
+23,Jeep Renegade,3
+24,Chevrolet Prisma,3
+25,Citroen C3,2
+26,Toyota Corolla,2
+27,Honda Civic,2
+28,Volkswagen Gol,2
+29,Ford Ka,1

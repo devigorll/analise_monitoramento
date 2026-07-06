@@ -1,11 +1,102 @@
-nome_hub,id_envio
-CD Goiânia,419
-CD Recife,410
-CD Salvador,408
-CD Fortaleza,408
-CD Manaus,397
-CD Campinas,394
-CD São Paulo,393
-CD Curitiba,386
-CD Porto Alegre,384
-CD Rio,374
+,NOME CD,QUANTIDADE
+0,CD São Carlos,55
+1,CD Feira de Santana,54
+2,CD Boa Vista,50
+3,CD Guarulhos,50
+4,CD Uberaba,50
+5,CD Aracaju,49
+6,CD Palmas,47
+7,CD Arapiraca,47
+8,CD Limeira,45
+9,CD Linhares,45
+10,CD Nova Iguaçu,44
+11,CD Imperatriz,44
+12,CD Campinas,44
+13,CD Campo Grande,43
+14,CD Joinville,43
+15,CD Ribeirão Preto,43
+16,CD Rondonópolis,43
+17,CD Jaboatão dos Guararapes,43
+18,CD Uberlândia,42
+19,CD Vitória da Conquista,42
+20,CD Montes Claros,42
+21,CD Pelotas,41
+22,CD Araçatuba,41
+23,CD Caxias do Sul,41
+24,CD Sinop,41
+25,CD Presidente Prudente,41
+26,CD João Pessoa,41
+27,CD Criciúma,40
+28,CD Ananindeua,40
+29,CD Vila Velha,40
+30,CD Vitória,40
+31,CD Goiânia,40
+32,CD Itajaí,40
+33,CD Mossoró,40
+34,CD Belém,40
+35,CD Aparecida de Goiânia,40
+36,CD Dourados,39
+37,CD Niterói,39
+38,CD Maringá,39
+39,CD Camaçari,39
+40,CD Contagem,38
+41,CD Cuiabá,38
+42,CD Canoas,38
+43,CD Anápolis,38
+44,CD Campina Grande,38
+45,CD Bauru,38
+46,CD Curitiba,38
+47,CD Porto Alegre,38
+48,CD São Luís,38
+49,CD Volta Redonda,38
+50,CD Juazeiro,37
+51,CD Parnaíba,37
+52,CD Brasília,36
+53,CD Chapecó,36
+54,CD Campos dos Goytacazes,36
+55,CD Marabá,36
+56,CD Foz do Iguaçu,35
+57,CD Juazeiro do Norte,34
+58,CD Salvador,34
+59,CD Sobral,34
+60,CD Ponta Grossa,34
+61,CD Belo Horizonte,34
+62,CD Barueri,34
+63,CD Duque de Caxias,33
+64,CD Florianópolis,33
+65,CD São José dos Campos,33
+66,CD Rio de Janeiro,33
+67,CD Taubaté,33
+68,CD Betim,32
+69,CD São Paulo,32
+70,CD Jundiaí,32
+71,CD Maceió,32
+72,CD Governador Valadares,32
+73,CD Santos,32
+74,CD Serra,32
+75,CD Araguaína,31
+76,CD Franca,31
+77,CD Três Lagoas,31
+78,CD Juiz de Fora,31
+79,CD Santarém,31
+80,CD Macapá,31
+81,CD Cascavel,30
+82,CD Recife,30
+83,CD Novo Hamburgo,30
+84,CD Rio Verde,30
+85,CD Rio Branco,29
+86,CD Osasco,29
+87,CD Araraquara,29
+88,CD Fortaleza,29
+89,CD Manaus,29
+90,CD Natal,29
+91,CD Sorocaba,29
+92,CD Teresina,28
+93,CD Petrolina,28
+94,CD Caruaru,26
+95,CD Porto Velho,26
+96,CD Marília,26
+97,CD Blumenau,24
+98,CD Santa Maria,24
+99,CD Piracicaba,24
+100,CD Londrina,22
