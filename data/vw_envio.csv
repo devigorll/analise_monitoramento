@@ -1,0 +1,1001 @@
+id_envio,id_cliente,cliente,cidade_cliente,estado_cliente,id_veiculo,veiculo,placa,categoria_veiculo,cd_origem,cidade_origem,estado_origem,cd_destino,cidade_destino,estado_destino,data_postagem,data_previsao_entrega,data_entrega_real,valor_frete,peso_carga
+159,3,Sr. João Lucas Ferreira,Souza do Norte,SP,19,Ford Ranger,YTU8726,2,CD Macapá,Macapá,AP,CD Belém,Belém,PA,2026-02-10 03:40:33,2026-02-14 03:40:33,2026-02-22 03:40:33,430.77,402.094
+328,4,Oliver Pastor,Cassiano,DF,18,Chevrolet S10,HFY7172,2,CD Palmas,Palmas,TO,CD Bauru,Bauru,SP,2026-06-24 05:23:53,2026-07-09 05:23:53,,387.5,341.564
+899,5,Dra. Maitê Garcia,Abreu,AL,20,Volkswagen Amarok,LDU5797,2,CD Camaçari,Camaçari,BA,CD Presidente Prudente,Presidente Prudente,SP,2026-02-09 08:31:09,2026-02-11 08:31:09,2026-02-18 08:31:09,234.15,341.303
+164,9,Dra. Allana Nunes,Nunes,PB,23,Fiat Ducato,AUR0775,3,CD Uberlândia,Uberlândia,MG,CD Volta Redonda,Volta Redonda,RJ,2026-03-05 11:22:58,2026-03-10 11:22:58,2026-03-23 11:22:58,1203.97,1077.407
+58,10,Valentim Moraes,Monteiro das Flores,AP,26,Volkswagen Constellation 24.280,AEV8053,3,CD Taubaté,Taubaté,SP,CD Uberaba,Uberaba,MG,2026-03-13 09:02:51,2026-03-26 09:02:51,2026-03-17 09:02:51,1544.11,1424.363
+966,14,Melina Montenegro,Santos do Amparo,BA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Sorocaba,Sorocaba,SP,CD Parnaíba,Parnaíba,PI,2026-04-17 07:54:43,2026-04-26 07:54:43,2026-04-19 07:54:43,1708.39,1572.406
+768,17,Ana Lívia Campos,Vasconcelos,BA,22,Renault Master,JVZ8251,3,CD Maceió,Maceió,AL,CD Araçatuba,Araçatuba,SP,2026-01-04 21:41:12,2026-01-07 21:41:12,,1847.9,1667.705
+778,19,Stephany Cavalcanti,Costa de Minas,MG,20,Volkswagen Amarok,LDU5797,2,CD Ponta Grossa,Ponta Grossa,PR,CD Uberlândia,Uberlândia,MG,2026-03-07 11:24:18,2026-03-18 11:24:18,,628.76,513.356
+402,20,Levi Martins,Dias,PI,20,Volkswagen Amarok,LDU5797,2,CD Volta Redonda,Volta Redonda,RJ,CD Santos,Santos,SP,2026-05-28 14:39:58,2026-06-03 14:39:58,2026-06-08 14:39:58,497.48,859.855
+653,20,Levi Martins,Dias,PI,16,Fiat Toro,COX0501,2,CD Guarulhos,Guarulhos,SP,CD Mossoró,Mossoró,RN,2026-04-24 17:52:53,2026-05-01 17:52:53,,263.94,238.618
+499,21,Rael Andrade,Sousa,PB,20,Volkswagen Amarok,LDU5797,2,CD Araçatuba,Araçatuba,SP,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-02-18 17:48:25,2026-02-20 17:48:25,2026-02-21 17:48:25,508.03,575.407
+438,23,Sophie Marques,Farias,AL,19,Ford Ranger,YTU8726,2,CD Belo Horizonte,Belo Horizonte,MG,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-03-18 16:16:59,2026-03-28 16:16:59,2026-03-27 16:16:59,598.46,727.631
+774,23,Sophie Marques,Farias,AL,19,Ford Ranger,YTU8726,2,CD Rondonópolis,Rondonópolis,MT,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-03-16 10:33:03,2026-03-17 10:33:03,2026-03-26 10:33:03,254.68,317.38
+454,25,Nicole Carvalho,Lopes,PA,20,Volkswagen Amarok,LDU5797,2,CD Marabá,Marabá,PA,CD Palmas,Palmas,TO,2026-06-13 10:13:44,2026-06-26 10:13:44,2026-06-17 10:13:44,244.72,367.753
+804,26,Emanuel da Conceição,Pacheco,DF,29,Iveco Tector 240E30,KIW4424,3,CD Parnaíba,Parnaíba,PI,CD Maceió,Maceió,AL,2026-02-13 09:11:08,2026-02-28 09:11:08,,1929.98,1678.49
+8,28,Hellena Cunha,da Luz de Fernandes,AM,24,Volkswagen Delivery 11.180,SBS6419,3,CD Joinville,Joinville,SC,CD Porto Alegre,Porto Alegre,RS,2026-03-03 09:30:51,2026-03-16 09:30:51,,2038.53,1979.742
+488,29,Apollo da Mota,Ribeiro,ES,17,Toyota Hilux,XHD6644,2,CD Santos,Santos,SP,CD Camaçari,Camaçari,BA,2026-04-22 09:58:27,2026-04-26 09:58:27,2026-05-01 09:58:27,248.09,512.141
+71,31,Sr. Miguel Leão,Correia,DF,21,Mercedes-Benz Sprinter,WDM2991,3,CD Anápolis,Anápolis,GO,CD Curitiba,Curitiba,PR,2026-05-26 15:45:00,2026-06-07 15:45:00,,1652.5,1476.072
+427,31,Sr. Miguel Leão,Correia,DF,22,Renault Master,JVZ8251,3,CD Natal,Natal,RN,CD Contagem,Contagem,MG,2026-05-02 18:57:41,2026-05-12 18:57:41,2026-05-18 18:57:41,1782.48,1482.905
+632,32,Diogo Cavalcanti,Ribeiro de Pimenta,MG,18,Chevrolet S10,HFY7172,2,CD Uberaba,Uberaba,MG,CD Pelotas,Pelotas,RS,2026-04-02 14:14:58,2026-04-05 14:14:58,2026-04-06 14:14:58,621.69,672.359
+145,35,Allana Abreu,da Luz,RN,27,Scania P320,DCB9288,3,CD Juiz de Fora,Juiz de Fora,MG,CD Araraquara,Araraquara,SP,2026-05-11 07:05:57,2026-05-19 07:05:57,2026-05-14 07:05:57,1646.41,1669.466
+295,37,Allana Campos,Ribeiro,AM,21,Mercedes-Benz Sprinter,WDM2991,3,CD Sinop,Sinop,MT,CD Vila Velha,Vila Velha,ES,2026-03-01 00:14:15,2026-03-07 00:14:15,2026-03-19 00:14:15,1374.6,1196.098
+432,37,Allana Campos,Ribeiro,AM,1,Fiat Mobi,NCM2438,1,CD Vila Velha,Vila Velha,ES,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-02-18 03:40:13,2026-02-22 03:40:13,2026-03-05 03:40:13,134.16,97.308
+554,37,Allana Campos,Ribeiro,AM,20,Volkswagen Amarok,LDU5797,2,CD Presidente Prudente,Presidente Prudente,SP,CD Serra,Serra,ES,2026-05-12 10:19:13,2026-05-25 10:19:13,2026-05-21 10:19:13,178.1,207.746
+131,39,Stephany Souza,Oliveira de Moura,GO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Florianópolis,Florianópolis,SC,CD Uberaba,Uberaba,MG,2026-05-25 01:32:28,2026-05-28 01:32:28,2026-05-26 01:32:28,1252.98,1060.28
+178,39,Stephany Souza,Oliveira de Moura,GO,27,Scania P320,DCB9288,3,CD Uberaba,Uberaba,MG,CD Feira de Santana,Feira de Santana,BA,2026-01-11 03:55:33,2026-01-12 03:55:33,,1453.73,1759.13
+268,40,Raquel Castro,Araújo,ES,30,DAF XF 480,KSZ8486,3,CD Belo Horizonte,Belo Horizonte,MG,CD Santos,Santos,SP,2026-02-18 07:08:57,2026-03-04 07:08:57,2026-03-04 07:08:57,1128.9,1465.838
+420,41,Pedro Henrique da Cruz,Castro da Mata,PR,19,Ford Ranger,YTU8726,2,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Recife,Recife,PE,2026-01-05 10:24:50,2026-01-17 10:24:50,,346.24,360.915
+318,43,Danilo Guerra,Costa do Campo,RJ,29,Iveco Tector 240E30,KIW4424,3,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Parnaíba,Parnaíba,PI,2026-02-08 17:36:35,2026-02-21 17:36:35,2026-02-23 17:36:35,1352.19,1120.982
+791,43,Danilo Guerra,Costa do Campo,RJ,24,Volkswagen Delivery 11.180,SBS6419,3,CD Criciúma,Criciúma,SC,CD Juazeiro,Juazeiro,BA,2026-01-23 03:38:29,2026-01-28 03:38:29,2026-01-24 03:38:29,1669.69,1781.26
+872,46,Olivia Caldeira,Viana do Amparo,AP,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Macapá,Macapá,AP,CD Boa Vista,Boa Vista,RR,2026-01-22 10:38:40,2026-02-01 10:38:40,,1967.64,1769.514
+34,47,Caroline Sales,Mendes,RS,19,Ford Ranger,YTU8726,2,CD Maringá,Maringá,PR,CD Vitória da Conquista,Vitória da Conquista,BA,2026-06-01 14:53:17,2026-06-11 14:53:17,2026-06-10 14:53:17,1061.16,993.41
+974,47,Caroline Sales,Mendes,RS,24,Volkswagen Delivery 11.180,SBS6419,3,CD Juiz de Fora,Juiz de Fora,MG,CD Campina Grande,Campina Grande,PB,2026-05-20 19:52:38,2026-05-27 19:52:38,,1098.83,1834.66
+492,49,Kevin da Costa,Borges,PA,27,Scania P320,DCB9288,3,CD Uberlândia,Uberlândia,MG,CD São Carlos,São Carlos,SP,2026-03-28 05:00:35,2026-04-09 05:00:35,2026-04-14 05:00:35,1189.55,1979.427
+2,51,Lavínia da Rosa,Barros das Pedras,MG,17,Toyota Hilux,XHD6644,2,CD Curitiba,Curitiba,PR,CD Sinop,Sinop,MT,2026-05-09 13:30:11,2026-05-16 13:30:11,,353.65,303.792
+190,51,Lavínia da Rosa,Barros das Pedras,MG,20,Volkswagen Amarok,LDU5797,2,CD Presidente Prudente,Presidente Prudente,SP,CD Ananindeua,Ananindeua,PA,2026-03-07 00:18:47,2026-03-22 00:18:47,2026-03-19 00:18:47,562.31,626.036
+708,51,Lavínia da Rosa,Barros das Pedras,MG,20,Volkswagen Amarok,LDU5797,2,CD Uberaba,Uberaba,MG,CD Presidente Prudente,Presidente Prudente,SP,2026-01-27 06:15:58,2026-02-02 06:15:58,2026-02-03 06:15:58,448.31,438.012
+667,54,Alexia Nascimento,Nunes,PB,29,Iveco Tector 240E30,KIW4424,3,CD Macapá,Macapá,AP,CD Vila Velha,Vila Velha,ES,2026-04-14 16:22:35,2026-04-18 16:22:35,2026-04-18 16:22:35,983.71,1753.52
+258,56,Antony Novais,Moura,GO,29,Iveco Tector 240E30,KIW4424,3,CD Salvador,Salvador,BA,CD Marabá,Marabá,PA,2026-04-21 12:34:45,2026-05-01 12:34:45,2026-05-01 12:34:45,1952.74,1760.604
+543,57,Dra. Ágatha Cavalcanti,Marques das Flores,PE,16,Fiat Toro,COX0501,2,CD Campo Grande,Campo Grande,MS,CD Limeira,Limeira,SP,2026-05-20 11:00:35,2026-05-31 11:00:35,2026-05-28 11:00:35,156.03,175.474
+301,58,Dra. Daniela Teixeira,Freitas do Campo,PI,17,Toyota Hilux,XHD6644,2,CD Franca,Franca,SP,CD Jundiaí,Jundiaí,SP,2026-04-04 03:30:02,2026-04-15 03:30:02,,393.73,749.931
+473,58,Dra. Daniela Teixeira,Freitas do Campo,PI,16,Fiat Toro,COX0501,2,CD Uberlândia,Uberlândia,MG,CD Palmas,Palmas,TO,2026-03-06 20:22:07,2026-03-15 20:22:07,2026-03-18 20:22:07,412.18,430.352
+770,58,Dra. Daniela Teixeira,Freitas do Campo,PI,18,Chevrolet S10,HFY7172,2,CD Curitiba,Curitiba,PR,CD Barueri,Barueri,SP,2026-03-14 07:05:16,2026-03-27 07:05:16,2026-03-24 07:05:16,134.9,165.074
+978,58,Dra. Daniela Teixeira,Freitas do Campo,PI,20,Volkswagen Amarok,LDU5797,2,CD Barueri,Barueri,SP,CD Itajaí,Itajaí,SC,2026-04-23 16:51:08,2026-05-05 16:51:08,2026-04-26 16:51:08,404.1,370.009
+436,60,Benicio Oliveira,Ramos das Pedras,CE,18,Chevrolet S10,HFY7172,2,CD Rondonópolis,Rondonópolis,MT,CD Guarulhos,Guarulhos,SP,2026-04-05 09:43:01,2026-04-07 09:43:01,,190.21,329.234
+875,60,Benicio Oliveira,Ramos das Pedras,CE,19,Ford Ranger,YTU8726,2,CD Duque de Caxias,Duque de Caxias,RJ,CD Volta Redonda,Volta Redonda,RJ,2026-02-17 03:17:08,2026-02-26 03:17:08,2026-03-07 03:17:08,321.29,445.009
+181,61,José Pedro Sá,Ramos,MT,28,Volvo VM 270,NOG4159,3,CD Sinop,Sinop,MT,CD Palmas,Palmas,TO,2026-01-03 20:19:28,2026-01-07 20:19:28,2026-01-05 20:19:28,1073.89,1379.868
+469,62,Anna Liz Pastor,Câmara de Souza,PR,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Petrolina,Petrolina,PE,CD São Luís,São Luís,MA,2026-02-05 13:52:01,2026-02-18 13:52:01,2026-02-19 13:52:01,852.58,1913.512
+806,63,Ravy da Conceição,Leão,PA,23,Fiat Ducato,AUR0775,3,CD Caxias do Sul,Caxias do Sul,RS,CD Vitória da Conquista,Vitória da Conquista,BA,2026-04-04 07:46:08,2026-04-07 07:46:08,2026-04-13 07:46:08,628.75,1011.253
+390,66,Sofia da Cruz,Jesus Alegre,RR,24,Volkswagen Delivery 11.180,SBS6419,3,CD Contagem,Contagem,MG,CD Juiz de Fora,Juiz de Fora,MG,2026-06-18 01:38:15,2026-06-23 01:38:15,,928.67,1407.119
+656,66,Sofia da Cruz,Jesus Alegre,RR,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Ananindeua,Ananindeua,PA,CD Belém,Belém,PA,2026-06-23 22:18:45,2026-07-08 22:18:45,2026-06-25 22:18:45,1212.03,1955.991
+160,67,Srta. Isabelly Campos,Ribeiro de Nascimento,SE,28,Volvo VM 270,NOG4159,3,CD Duque de Caxias,Duque de Caxias,RJ,CD São Carlos,São Carlos,SP,2026-02-10 10:43:46,2026-02-18 10:43:46,2026-02-11 10:43:46,1814.2,1707.429
+925,67,Srta. Isabelly Campos,Ribeiro de Nascimento,SE,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Araguaína,Araguaína,TO,CD Canoas,Canoas,RS,2026-03-04 22:28:01,2026-03-19 22:28:01,2026-03-14 22:28:01,1415.25,1601.26
+525,68,Sra. Alana Andrade,Sá,RS,17,Toyota Hilux,XHD6644,2,CD Santarém,Santarém,PA,CD Dourados,Dourados,MS,2026-06-25 18:29:15,2026-07-08 18:29:15,,478.93,492.656
+911,68,Sra. Alana Andrade,Sá,RS,21,Mercedes-Benz Sprinter,WDM2991,3,CD São Carlos,São Carlos,SP,CD Manaus,Manaus,AM,2026-05-11 12:43:29,2026-05-12 12:43:29,2026-05-28 12:43:29,716.85,1585.027
+600,69,Lívia Macedo,Araújo do Oeste,GO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-01-13 03:15:39,2026-01-22 03:15:39,2026-01-26 03:15:39,727.7,1169.033
+685,69,Lívia Macedo,Araújo do Oeste,GO,17,Toyota Hilux,XHD6644,2,CD Campinas,Campinas,SP,CD Feira de Santana,Feira de Santana,BA,2026-06-17 08:26:16,2026-06-25 08:26:16,2026-06-26 08:26:16,162.23,292.402
+917,69,Lívia Macedo,Araújo do Oeste,GO,18,Chevrolet S10,HFY7172,2,CD Porto Alegre,Porto Alegre,RS,CD Guarulhos,Guarulhos,SP,2026-05-02 03:48:49,2026-05-06 03:48:49,2026-05-12 03:48:49,260.68,259.338
+684,70,Liam Pacheco,Machado do Campo,RR,20,Volkswagen Amarok,LDU5797,2,CD Cascavel,Cascavel,PR,CD Jundiaí,Jundiaí,SP,2026-05-31 08:53:58,2026-06-07 08:53:58,,304.61,324.139
+738,70,Liam Pacheco,Machado do Campo,RR,18,Chevrolet S10,HFY7172,2,CD Betim,Betim,MG,CD Santarém,Santarém,PA,2026-02-13 19:26:15,2026-02-15 19:26:15,2026-02-14 19:26:15,124.74,232.514
+952,72,Evelyn Almeida,Farias das Flores,SE,20,Volkswagen Amarok,LDU5797,2,CD Caxias do Sul,Caxias do Sul,RS,CD Santa Maria,Santa Maria,RS,2026-05-22 07:26:37,2026-05-27 07:26:37,2026-06-05 07:26:37,755.6,856.967
+38,73,Eduarda da Rosa,Lopes do Norte,RO,26,Volkswagen Constellation 24.280,AEV8053,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Três Lagoas,Três Lagoas,MS,2026-05-12 17:05:08,2026-05-13 17:05:08,2026-05-18 17:05:08,1284.31,1160.473
+479,73,Eduarda da Rosa,Lopes do Norte,RO,19,Ford Ranger,YTU8726,2,CD Presidente Prudente,Presidente Prudente,SP,CD Imperatriz,Imperatriz,MA,2026-01-26 13:18:03,2026-02-10 13:18:03,2026-01-31 13:18:03,410.03,331.004
+577,73,Eduarda da Rosa,Lopes do Norte,RO,27,Scania P320,DCB9288,3,CD Blumenau,Blumenau,SC,CD Anápolis,Anápolis,GO,2026-04-14 21:53:20,2026-04-18 21:53:20,,982.71,1184.382
+55,75,Enrico Vieira,Rezende,RR,21,Mercedes-Benz Sprinter,WDM2991,3,CD São José dos Campos,São José dos Campos,SP,CD São Paulo,São Paulo,SP,2026-02-22 11:22:51,2026-03-07 11:22:51,2026-03-11 11:22:51,987.92,1498.386
+95,76,Sra. Liz Azevedo,Lopes,AL,23,Fiat Ducato,AUR0775,3,CD Fortaleza,Fortaleza,CE,CD Rio Branco,Rio Branco,AC,2026-01-04 16:30:13,2026-01-13 16:30:13,,1339.23,1477.724
+861,76,Sra. Liz Azevedo,Lopes,AL,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Campo Grande,Campo Grande,MS,CD Porto Alegre,Porto Alegre,RS,2026-05-26 00:40:10,2026-05-27 00:40:10,,748.85,1024.421
+109,77,Maria Luiza Duarte,Lopes,RR,18,Chevrolet S10,HFY7172,2,CD João Pessoa,João Pessoa,PB,CD Piracicaba,Piracicaba,SP,2026-02-09 14:43:29,2026-02-15 14:43:29,2026-02-21 14:43:29,896.35,815.749
+244,78,Igor da Mota,Barbosa do Norte,AM,27,Scania P320,DCB9288,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-03-12 16:01:11,2026-03-16 16:01:11,2026-03-20 16:01:11,647.94,1526.177
+663,78,Igor da Mota,Barbosa do Norte,AM,27,Scania P320,DCB9288,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Arapiraca,Arapiraca,AL,2026-03-06 22:39:36,2026-03-15 22:39:36,,895.57,1147.874
+475,82,Vinícius Nogueira,Lima dos Dourados,AM,11,Nissan Versa,BGU2133,1,CD Araguaína,Araguaína,TO,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-01-07 14:40:47,2026-01-14 14:40:47,,107.57,79.459
+457,85,Sr. Danilo da Costa,Pires da Praia,RJ,29,Iveco Tector 240E30,KIW4424,3,CD Araçatuba,Araçatuba,SP,CD João Pessoa,João Pessoa,PB,2026-05-02 00:56:06,2026-05-03 00:56:06,,1799.96,1815.148
+117,86,Srta. Maya Farias,Pimenta do Sul,RO,6,Chevrolet Prisma,VTX3790,1,CD Duque de Caxias,Duque de Caxias,RJ,CD Caxias do Sul,Caxias do Sul,RS,2026-06-26 09:03:07,2026-06-27 09:03:07,,83.1,59.996
+991,88,Stella Novaes,Oliveira,SP,16,Fiat Toro,COX0501,2,CD Campo Grande,Campo Grande,MS,CD Marília,Marília,SP,2026-01-19 08:28:06,2026-01-28 08:28:06,2026-01-31 08:28:06,159.73,224.468
+238,91,Catarina Caldeira,Silveira,PE,18,Chevrolet S10,HFY7172,2,CD Maceió,Maceió,AL,CD Marília,Marília,SP,2026-03-12 08:55:09,2026-03-18 08:55:09,,341.76,721.647
+779,91,Catarina Caldeira,Silveira,PE,21,Mercedes-Benz Sprinter,WDM2991,3,CD Curitiba,Curitiba,PR,CD Mossoró,Mossoró,RN,2026-04-21 23:04:27,2026-05-02 23:04:27,2026-05-04 23:04:27,1473.64,1400.889
+937,93,Sr. Pietro Nunes,da Costa,RJ,26,Volkswagen Constellation 24.280,AEV8053,3,CD Itajaí,Itajaí,SC,CD Santa Maria,Santa Maria,RS,2026-02-19 21:14:14,2026-02-21 21:14:14,,1702.23,1896.254
+80,95,Camila Machado,Teixeira,MA,16,Fiat Toro,COX0501,2,CD Marília,Marília,SP,CD Marabá,Marabá,PA,2026-01-26 23:18:12,2026-02-04 23:18:12,,275.62,444.436
+127,96,Enzo Gabriel Gonçalves,Barros Verde,PR,29,Iveco Tector 240E30,KIW4424,3,CD Recife,Recife,PE,CD Anápolis,Anápolis,GO,2026-02-20 04:53:47,2026-02-24 04:53:47,,2037.85,1808.248
+555,96,Enzo Gabriel Gonçalves,Barros Verde,PR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Brasília,Brasília,DF,CD Ananindeua,Ananindeua,PA,2026-04-17 13:45:33,2026-04-26 13:45:33,2026-04-20 13:45:33,2100.82,1784.45
+541,97,Liam Siqueira,Garcia,BA,19,Ford Ranger,YTU8726,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Natal,Natal,RN,2026-03-08 20:04:35,2026-03-14 20:04:35,2026-03-10 20:04:35,790.06,737.377
+793,97,Liam Siqueira,Garcia,BA,28,Volvo VM 270,NOG4159,3,CD Rondonópolis,Rondonópolis,MT,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-04-30 03:07:49,2026-05-02 03:07:49,2026-05-02 03:07:49,756.81,1239.168
+982,97,Liam Siqueira,Garcia,BA,20,Volkswagen Amarok,LDU5797,2,CD Brasília,Brasília,DF,CD Porto Alegre,Porto Alegre,RS,2025-12-30 11:16:03,2026-01-14 11:16:03,2026-01-04 11:16:03,485.84,409.35
+583,100,Léo Vieira,Pastor de Carvalho,PA,16,Fiat Toro,COX0501,2,CD Taubaté,Taubaté,SP,CD João Pessoa,João Pessoa,PB,2026-06-15 18:49:07,2026-06-28 18:49:07,2026-06-24 18:49:07,232.18,448.728
+819,102,Isaque Pimenta,Farias da Mata,AM,19,Ford Ranger,YTU8726,2,CD Rondonópolis,Rondonópolis,MT,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-05-14 12:46:32,2026-05-16 12:46:32,2026-05-19 12:46:32,614.38,737.912
+625,103,Juan Campos,Sousa,AL,20,Volkswagen Amarok,LDU5797,2,CD Natal,Natal,RN,CD Vitória,Vitória,ES,2026-06-10 06:07:11,2026-06-18 06:07:11,2026-06-19 06:07:11,136.56,137.617
+675,103,Juan Campos,Sousa,AL,27,Scania P320,DCB9288,3,CD Limeira,Limeira,SP,CD Barueri,Barueri,SP,2026-02-24 06:30:50,2026-02-26 06:30:50,2026-03-10 06:30:50,1659.06,1498.916
+831,103,Juan Campos,Sousa,AL,20,Volkswagen Amarok,LDU5797,2,CD Juazeiro,Juazeiro,BA,CD Porto Velho,Porto Velho,RO,2026-02-17 07:42:34,2026-03-01 07:42:34,2026-02-24 07:42:34,580.29,737.113
+407,104,Renan Mendes,Peixoto das Pedras,SC,29,Iveco Tector 240E30,KIW4424,3,CD Barueri,Barueri,SP,CD Osasco,Osasco,SP,2026-01-15 05:34:05,2026-01-26 05:34:05,2026-01-19 05:34:05,1014.43,1076.626
+396,105,Júlia Oliveira,Rezende,RN,19,Ford Ranger,YTU8726,2,CD Três Lagoas,Três Lagoas,MS,CD Chapecó,Chapecó,SC,2026-02-27 16:44:09,2026-03-13 16:44:09,2026-03-07 16:44:09,225.11,367.856
+526,109,Valentina Nascimento,Melo,BA,28,Volvo VM 270,NOG4159,3,CD Bauru,Bauru,SP,CD Governador Valadares,Governador Valadares,MG,2026-04-20 06:21:02,2026-04-24 06:21:02,2026-04-24 06:21:02,1113.24,1050.051
+703,111,Sofia das Neves,Vargas,DF,22,Renault Master,JVZ8251,3,CD Arapiraca,Arapiraca,AL,CD São Luís,São Luís,MA,2026-04-01 07:41:47,2026-04-03 07:41:47,2026-04-16 07:41:47,1445.17,1351.141
+749,112,Isabelly Moura,Moura da Prata,AL,30,DAF XF 480,KSZ8486,3,CD Brasília,Brasília,DF,CD Limeira,Limeira,SP,2026-04-12 19:52:17,2026-04-19 19:52:17,2026-04-13 19:52:17,984.56,1530.846
+184,113,Luiz Gustavo Lopes,Rocha,SE,30,DAF XF 480,KSZ8486,3,CD Uberlândia,Uberlândia,MG,CD Blumenau,Blumenau,SC,2026-06-23 11:34:30,2026-07-04 11:34:30,,639.85,1425.408
+304,113,Luiz Gustavo Lopes,Rocha,SE,11,Nissan Versa,BGU2133,1,CD Três Lagoas,Três Lagoas,MS,CD Anápolis,Anápolis,GO,2026-05-07 11:58:50,2026-05-18 11:58:50,2026-05-08 11:58:50,95.59,94.087
+769,113,Luiz Gustavo Lopes,Rocha,SE,20,Volkswagen Amarok,LDU5797,2,CD Taubaté,Taubaté,SP,CD Porto Velho,Porto Velho,RO,2026-05-27 16:59:47,2026-06-05 16:59:47,2026-06-13 16:59:47,353.59,529.111
+88,114,Dante Pastor,Almeida das Flores,CE,28,Volvo VM 270,NOG4159,3,CD Recife,Recife,PE,CD Vitória,Vitória,ES,2026-01-13 21:53:29,2026-01-23 21:53:29,2026-01-17 21:53:29,1004.1,1540.78
+468,115,Manuela Guerra,Garcia do Norte,ES,28,Volvo VM 270,NOG4159,3,CD São José dos Campos,São José dos Campos,SP,CD Vitória da Conquista,Vitória da Conquista,BA,2026-04-07 06:00:08,2026-04-11 06:00:08,2026-04-10 06:00:08,1564.03,1513.349
+848,115,Manuela Guerra,Garcia do Norte,ES,21,Mercedes-Benz Sprinter,WDM2991,3,CD Londrina,Londrina,PR,CD Ribeirão Preto,Ribeirão Preto,SP,2026-03-24 04:15:49,2026-03-26 04:15:49,,1894.18,1904.292
+256,116,João Gabriel Cavalcanti,Cirino de Câmara,AL,27,Scania P320,DCB9288,3,CD São Carlos,São Carlos,SP,CD Aracaju,Aracaju,SE,2026-05-29 07:23:41,2026-06-01 07:23:41,2026-06-15 07:23:41,1263.31,1492.963
+817,117,Manuela Aragão,Vieira,SC,29,Iveco Tector 240E30,KIW4424,3,CD Uberlândia,Uberlândia,MG,CD Salvador,Salvador,BA,2026-06-15 19:48:29,2026-06-23 19:48:29,,1492.81,1309.553
+855,119,Thiago Cavalcanti,Caldeira Grande,MG,17,Toyota Hilux,XHD6644,2,CD Itajaí,Itajaí,SC,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-03-17 11:27:39,2026-04-01 11:27:39,,201.45,303.402
+57,121,Breno da Paz,Farias,SE,16,Fiat Toro,COX0501,2,CD São Carlos,São Carlos,SP,CD Uberaba,Uberaba,MG,2026-02-06 10:22:30,2026-02-07 10:22:30,,265.73,313.62
+830,121,Breno da Paz,Farias,SE,20,Volkswagen Amarok,LDU5797,2,CD Brasília,Brasília,DF,CD Osasco,Osasco,SP,2026-04-28 09:13:00,2026-05-10 09:13:00,2026-05-08 09:13:00,463.93,633.162
+946,122,Antonella Barbosa,Guerra de Minas,SC,24,Volkswagen Delivery 11.180,SBS6419,3,CD Belém,Belém,PA,CD Três Lagoas,Três Lagoas,MS,2026-03-28 04:24:01,2026-04-05 04:24:01,,678.15,1101.464
+574,126,Pietro Abreu,Nunes,AL,20,Volkswagen Amarok,LDU5797,2,CD Boa Vista,Boa Vista,RR,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-02-22 11:34:40,2026-02-26 11:34:40,2026-03-08 11:34:40,582.39,544.848
+305,127,Luiz Miguel Pereira,Gonçalves,PI,18,Chevrolet S10,HFY7172,2,CD Rio Branco,Rio Branco,AC,CD Feira de Santana,Feira de Santana,BA,2026-04-23 02:06:04,2026-05-01 02:06:04,,860.31,784.141
+573,127,Luiz Miguel Pereira,Gonçalves,PI,20,Volkswagen Amarok,LDU5797,2,CD Dourados,Dourados,MS,CD Fortaleza,Fortaleza,CE,2026-04-01 05:21:04,2026-04-11 05:21:04,2026-04-17 05:21:04,296.92,430.165
+5,128,Maria Sophia Pimenta,da Luz das Pedras,SE,17,Toyota Hilux,XHD6644,2,CD Linhares,Linhares,ES,CD Vitória,Vitória,ES,2026-05-17 08:42:46,2026-05-19 08:42:46,2026-05-22 08:42:46,225.43,192.71
+115,129,Eloah Castro,Freitas das Pedras,AC,22,Renault Master,JVZ8251,3,CD Bauru,Bauru,SP,CD Imperatriz,Imperatriz,MA,2026-06-23 08:42:55,2026-06-25 08:42:55,,1957.34,1747.836
+155,130,Sr. Luiz Gustavo Barbosa,Cunha do Sul,RR,18,Chevrolet S10,HFY7172,2,CD Camaçari,Camaçari,BA,CD Feira de Santana,Feira de Santana,BA,2026-01-24 06:30:21,2026-01-27 06:30:21,2026-02-02 06:30:21,479.28,750.024
+718,130,Sr. Luiz Gustavo Barbosa,Cunha do Sul,RR,28,Volvo VM 270,NOG4159,3,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Arapiraca,Arapiraca,AL,2026-03-25 16:33:59,2026-04-08 16:33:59,2026-03-26 16:33:59,875.89,1415.114
+285,132,Levi Viana,Vargas,TO,27,Scania P320,DCB9288,3,CD Blumenau,Blumenau,SC,CD Araguaína,Araguaína,TO,2026-03-21 11:21:47,2026-03-30 11:21:47,2026-03-30 11:21:47,1002.27,1392.762
+491,132,Levi Viana,Vargas,TO,26,Volkswagen Constellation 24.280,AEV8053,3,CD Curitiba,Curitiba,PR,CD Novo Hamburgo,Novo Hamburgo,RS,2026-03-27 02:26:18,2026-04-07 02:26:18,2026-04-13 02:26:18,1123.43,1524.002
+944,132,Levi Viana,Vargas,TO,23,Fiat Ducato,AUR0775,3,CD São Paulo,São Paulo,SP,CD Osasco,Osasco,SP,2026-02-09 23:00:22,2026-02-21 23:00:22,2026-02-19 23:00:22,1346.32,1831.471
+296,133,Sr. Francisco Vasconcelos,Ramos de Aparecida,RO,17,Toyota Hilux,XHD6644,2,CD Imperatriz,Imperatriz,MA,CD Santarém,Santarém,PA,2026-03-13 09:47:53,2026-03-24 09:47:53,2026-03-14 09:47:53,906.94,866.437
+610,137,Sr. Eduardo Ramos,Vasconcelos,BA,29,Iveco Tector 240E30,KIW4424,3,CD Vitória,Vitória,ES,CD Campinas,Campinas,SP,2026-06-14 08:46:57,2026-06-22 08:46:57,,596.74,1202.195
+789,137,Sr. Eduardo Ramos,Vasconcelos,BA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Rio Verde,Rio Verde,GO,CD Palmas,Palmas,TO,2026-06-06 07:57:03,2026-06-19 07:57:03,2026-06-07 07:57:03,1335.47,1134.283
+128,138,Maysa Caldeira,Campos,MG,24,Volkswagen Delivery 11.180,SBS6419,3,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD João Pessoa,João Pessoa,PB,2026-02-22 00:17:13,2026-03-05 00:17:13,2026-02-24 00:17:13,1408.52,1396.516
+246,138,Maysa Caldeira,Campos,MG,24,Volkswagen Delivery 11.180,SBS6419,3,CD Caruaru,Caruaru,PE,CD Joinville,Joinville,SC,2026-05-07 15:48:08,2026-05-17 15:48:08,2026-05-13 15:48:08,1656.93,1773.854
+90,140,Pedro Henrique Nogueira,Dias,AM,21,Mercedes-Benz Sprinter,WDM2991,3,CD Maringá,Maringá,PR,CD Campina Grande,Campina Grande,PB,2026-03-30 14:47:05,2026-04-08 14:47:05,2026-04-14 14:47:05,802.61,1000.632
+209,140,Pedro Henrique Nogueira,Dias,AM,24,Volkswagen Delivery 11.180,SBS6419,3,CD Blumenau,Blumenau,SC,CD Palmas,Palmas,TO,2026-04-26 23:25:18,2026-05-04 23:25:18,,693.69,1615.593
+370,142,Juliana Freitas,Vieira Paulista,PI,30,DAF XF 480,KSZ8486,3,CD Campina Grande,Campina Grande,PB,CD Goiânia,Goiânia,GO,2026-02-01 18:12:45,2026-02-09 18:12:45,2026-02-12 18:12:45,1493.27,1637.869
+198,143,Pedro Henrique Machado,Vargas,MG,23,Fiat Ducato,AUR0775,3,CD Itajaí,Itajaí,SC,CD Petrolina,Petrolina,PE,2026-05-04 17:41:06,2026-05-15 17:41:06,2026-05-09 17:41:06,669.9,1505.292
+530,143,Pedro Henrique Machado,Vargas,MG,27,Scania P320,DCB9288,3,CD Taubaté,Taubaté,SP,CD Sobral,Sobral,CE,2026-03-01 18:15:10,2026-03-03 18:15:10,,982.43,1667.504
+254,145,Manuella Aragão,das Neves,MT,16,Fiat Toro,COX0501,2,CD Teresina,Teresina,PI,CD Anápolis,Anápolis,GO,2026-04-27 04:31:53,2026-04-30 04:31:53,2026-05-08 04:31:53,628.34,761.598
+538,145,Manuella Aragão,das Neves,MT,7,Hyundai HB20,EOY4603,1,CD Sinop,Sinop,MT,CD Imperatriz,Imperatriz,MA,2026-02-01 13:09:17,2026-02-13 13:09:17,2026-02-18 13:09:17,43.03,31.985
+93,147,Gabrielly Marques,Câmara Alegre,ES,30,DAF XF 480,KSZ8486,3,CD Boa Vista,Boa Vista,RR,CD Volta Redonda,Volta Redonda,RJ,2026-04-29 15:23:58,2026-05-12 15:23:58,2026-05-16 15:23:58,860.15,1692.269
+801,147,Gabrielly Marques,Câmara Alegre,ES,8,Toyota Corolla,QGI6546,1,CD Cuiabá,Cuiabá,MT,CD São Carlos,São Carlos,SP,2026-06-18 02:37:59,2026-07-03 02:37:59,2026-06-25 02:37:59,26.97,2.314
+897,147,Gabrielly Marques,Câmara Alegre,ES,19,Ford Ranger,YTU8726,2,CD Teresina,Teresina,PI,CD Araçatuba,Araçatuba,SP,2026-02-26 16:09:01,2026-02-27 16:09:01,2026-03-06 16:09:01,598.36,786.791
+280,148,Diogo Borges,Vasconcelos,RN,19,Ford Ranger,YTU8726,2,CD Bauru,Bauru,SP,CD Araraquara,Araraquara,SP,2026-05-15 10:29:30,2026-05-29 10:29:30,,304.28,318.148
+732,148,Diogo Borges,Vasconcelos,RN,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Cuiabá,Cuiabá,MT,CD São Paulo,São Paulo,SP,2026-04-15 17:18:46,2026-04-19 17:18:46,2026-04-17 17:18:46,713.99,1122.708
+986,149,Davi Luiz Casa Grande,Camargo da Praia,DF,29,Iveco Tector 240E30,KIW4424,3,CD Campo Grande,Campo Grande,MS,CD Guarulhos,Guarulhos,SP,2026-01-17 07:39:36,2026-01-27 07:39:36,2026-01-21 07:39:36,1733.36,1497.241
+223,150,Hellena da Mota,Rios de Vieira,RN,22,Renault Master,JVZ8251,3,CD Dourados,Dourados,MS,CD Araçatuba,Araçatuba,SP,2026-02-15 04:55:38,2026-02-23 04:55:38,2026-02-21 04:55:38,1282.07,1418.71
+388,152,Rodrigo Viana,das Neves,PB,29,Iveco Tector 240E30,KIW4424,3,CD Barueri,Barueri,SP,CD Santarém,Santarém,PA,2026-02-12 06:17:37,2026-02-19 06:17:37,2026-02-17 06:17:37,1869.87,1808.851
+864,152,Rodrigo Viana,das Neves,PB,22,Renault Master,JVZ8251,3,CD São Carlos,São Carlos,SP,CD Rondonópolis,Rondonópolis,MT,2026-04-03 20:53:58,2026-04-09 20:53:58,2026-04-11 20:53:58,1175.06,1408.332
+157,154,Sra. Carolina Montenegro,Vargas Paulista,PE,20,Volkswagen Amarok,LDU5797,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD São Carlos,São Carlos,SP,2026-04-07 02:50:36,2026-04-21 02:50:36,2026-04-20 02:50:36,167.16,273.819
+522,155,Asafe da Mata,Brito,TO,7,Hyundai HB20,EOY4603,1,CD Feira de Santana,Feira de Santana,BA,CD Campo Grande,Campo Grande,MS,2026-03-11 15:18:10,2026-03-12 15:18:10,2026-03-13 15:18:10,88.62,69.872
+760,155,Asafe da Mata,Brito,TO,28,Volvo VM 270,NOG4159,3,CD Rondonópolis,Rondonópolis,MT,CD Imperatriz,Imperatriz,MA,2026-05-17 13:54:50,2026-05-24 13:54:50,2026-05-28 13:54:50,1313.39,1277.795
+930,156,Gabriel Vasconcelos,Peixoto,RJ,27,Scania P320,DCB9288,3,CD Dourados,Dourados,MS,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-05-15 00:35:28,2026-05-28 00:35:28,2026-05-19 00:35:28,990.44,1316.232
+221,159,Bruna Dias,Cavalcante,SE,19,Ford Ranger,YTU8726,2,CD Linhares,Linhares,ES,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-01-24 02:13:47,2026-01-27 02:13:47,,392.09,326.511
+777,159,Bruna Dias,Cavalcante,SE,30,DAF XF 480,KSZ8486,3,CD Blumenau,Blumenau,SC,CD Itajaí,Itajaí,SC,2026-04-03 17:07:39,2026-04-09 17:07:39,2026-04-18 17:07:39,1519.84,1691.666
+882,160,Dom Teixeira,Jesus,SE,23,Fiat Ducato,AUR0775,3,CD São Luís,São Luís,MA,CD São José dos Campos,São José dos Campos,SP,2026-06-26 21:20:59,2026-06-29 21:20:59,,1121.22,1457.13
+655,164,Francisco Nunes,Lopes,GO,2,Fiat Uno,PLK0996,1,CD Duque de Caxias,Duque de Caxias,RJ,CD Florianópolis,Florianópolis,SC,2026-04-21 01:41:25,2026-05-02 01:41:25,2026-04-24 01:41:25,51.81,61.298
+528,167,Daniel Fernandes,Teixeira Alegre,PB,26,Volkswagen Constellation 24.280,AEV8053,3,CD Canoas,Canoas,RS,CD Maringá,Maringá,PR,2026-04-09 08:17:53,2026-04-10 08:17:53,2026-04-21 08:17:53,588.71,1004.538
+77,169,Caio Viana,Camargo de Ribeiro,MS,27,Scania P320,DCB9288,3,CD Criciúma,Criciúma,SC,CD Salvador,Salvador,BA,2026-02-06 23:22:12,2026-02-12 23:22:12,2026-02-09 23:22:12,1078.71,1310.692
+61,170,Stephany Fernandes,Nascimento do Norte,DF,26,Volkswagen Constellation 24.280,AEV8053,3,CD Teresina,Teresina,PI,CD Aracaju,Aracaju,SE,2026-05-23 10:57:36,2026-05-25 10:57:36,2026-06-09 10:57:36,819.79,1083.614
+68,171,Juliana Pimenta,Nogueira,PA,19,Ford Ranger,YTU8726,2,CD Chapecó,Chapecó,SC,CD Sorocaba,Sorocaba,SP,2026-02-28 04:09:57,2026-03-03 04:09:57,,482.01,395.211
+463,171,Juliana Pimenta,Nogueira,PA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Uberlândia,Uberlândia,MG,CD Ananindeua,Ananindeua,PA,2026-06-26 16:02:28,2026-07-08 16:02:28,,1792.93,1632.103
+553,171,Juliana Pimenta,Nogueira,PA,18,Chevrolet S10,HFY7172,2,CD Belo Horizonte,Belo Horizonte,MG,CD Novo Hamburgo,Novo Hamburgo,RS,2026-02-15 18:34:29,2026-02-24 18:34:29,2026-03-05 18:34:29,111.04,212.987
+715,172,Manuella Dias,Viana,ES,16,Fiat Toro,COX0501,2,CD Camaçari,Camaçari,BA,CD São José dos Campos,São José dos Campos,SP,2026-06-06 16:56:50,2026-06-14 16:56:50,,306.94,317.097
+535,173,Maria Flor Moraes,Albuquerque do Oeste,RJ,19,Ford Ranger,YTU8726,2,CD Araçatuba,Araçatuba,SP,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-01-11 22:24:18,2026-01-26 22:24:18,2026-01-14 22:24:18,136.88,170.721
+98,174,Gael Henrique Martins,Barros de Cavalcanti,DF,11,Nissan Versa,BGU2133,1,CD Sorocaba,Sorocaba,SP,CD Ponta Grossa,Ponta Grossa,PR,2026-03-18 09:09:19,2026-03-26 09:09:19,,51.29,65.054
+490,174,Gael Henrique Martins,Barros de Cavalcanti,DF,17,Toyota Hilux,XHD6644,2,CD Pelotas,Pelotas,RS,CD Montes Claros,Montes Claros,MG,2026-04-27 06:02:40,2026-05-01 06:02:40,2026-05-12 06:02:40,660.42,682.708
+437,176,Caleb Nascimento,Carvalho,PE,23,Fiat Ducato,AUR0775,3,CD Cascavel,Cascavel,PR,CD Salvador,Salvador,BA,2026-04-26 01:30:35,2026-05-06 01:30:35,2026-04-28 01:30:35,1714.7,1819.305
+39,177,Antônio Dias,Novaes,RR,16,Fiat Toro,COX0501,2,CD Betim,Betim,MG,CD Niterói,Niterói,RJ,2026-04-05 02:21:47,2026-04-09 02:21:47,2026-04-20 02:21:47,574.53,465.103
+189,177,Antônio Dias,Novaes,RR,16,Fiat Toro,COX0501,2,CD Feira de Santana,Feira de Santana,BA,CD Chapecó,Chapecó,SC,2026-02-24 19:45:36,2026-03-02 19:45:36,2026-03-02 19:45:36,664.51,880.483
+217,178,Rebeca Cavalcanti,Macedo dos Dourados,AL,23,Fiat Ducato,AUR0775,3,CD Curitiba,Curitiba,PR,CD Londrina,Londrina,PR,2026-01-02 08:20:15,2026-01-09 08:20:15,2026-01-07 08:20:15,713.11,1690.137
+168,179,Melina da Cunha,Rezende,ES,26,Volkswagen Constellation 24.280,AEV8053,3,CD Joinville,Joinville,SC,CD Brasília,Brasília,DF,2026-03-06 05:59:32,2026-03-16 05:59:32,2026-03-18 05:59:32,1532.49,1419.69
+796,179,Melina da Cunha,Rezende,ES,16,Fiat Toro,COX0501,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Florianópolis,Florianópolis,SC,2026-01-29 21:32:59,2026-02-11 21:32:59,,504.34,431.143
+909,181,Dante Vasconcelos,Caldeira da Praia,MT,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Contagem,Contagem,MG,CD Sinop,Sinop,MT,2026-01-29 01:37:54,2026-02-04 01:37:54,,1109.44,1851.637
+706,183,Ana Carolina Lima,Silva,RO,26,Volkswagen Constellation 24.280,AEV8053,3,CD Campo Grande,Campo Grande,MS,CD Ponta Grossa,Ponta Grossa,PR,2026-06-10 09:46:45,2026-06-20 09:46:45,2026-06-27 09:46:45,647.59,1439.21
+450,185,Juan Abreu,Moura,AC,18,Chevrolet S10,HFY7172,2,CD Taubaté,Taubaté,SP,CD Criciúma,Criciúma,SC,2026-06-11 00:48:53,2026-06-25 00:48:53,2026-06-16 00:48:53,322.55,496.189
+138,186,Yuri Alves,Guerra Verde,SE,16,Fiat Toro,COX0501,2,CD Campina Grande,Campina Grande,PB,CD Piracicaba,Piracicaba,SP,2026-04-14 07:34:33,2026-04-18 07:34:33,2026-04-24 07:34:33,231.8,250.202
+200,187,Mateus Pinto,Casa Grande da Serra,BA,19,Ford Ranger,YTU8726,2,CD Itajaí,Itajaí,SC,CD Londrina,Londrina,PR,2026-04-24 20:36:08,2026-05-01 20:36:08,,225.23,196.38
+970,187,Mateus Pinto,Casa Grande da Serra,BA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Caruaru,Caruaru,PE,CD João Pessoa,João Pessoa,PB,2026-01-21 00:38:34,2026-01-24 00:38:34,2026-02-03 00:38:34,1204.38,1832.103
+742,190,Amanda Pacheco,Alves,RN,9,Honda Civic,EPY9357,1,CD João Pessoa,João Pessoa,PB,CD Presidente Prudente,Presidente Prudente,SP,2026-05-02 12:47:46,2026-05-17 12:47:46,,80.6,71.077
+108,191,João Lucas Lima,Mendes,DF,19,Ford Ranger,YTU8726,2,CD Belo Horizonte,Belo Horizonte,MG,CD Rio Verde,Rio Verde,GO,2026-06-26 06:04:17,2026-07-07 06:04:17,,562.19,542.314
+510,192,Sophia Gomes,Pastor,PI,18,Chevrolet S10,HFY7172,2,CD Barueri,Barueri,SP,CD Boa Vista,Boa Vista,RR,2026-06-05 20:22:18,2026-06-15 20:22:18,2026-06-17 20:22:18,229.52,253.977
+149,196,Luísa Pimenta,Rodrigues da Prata,GO,28,Volvo VM 270,NOG4159,3,CD Rondonópolis,Rondonópolis,MT,CD Maringá,Maringá,PR,2026-01-30 22:08:06,2026-02-07 22:08:06,2026-02-01 22:08:06,814.87,1801.053
+762,196,Luísa Pimenta,Rodrigues da Prata,GO,30,DAF XF 480,KSZ8486,3,CD Criciúma,Criciúma,SC,CD Itajaí,Itajaí,SC,2026-01-31 06:06:19,2026-02-10 06:06:19,2026-02-04 06:06:19,1213.62,1757.242
+927,197,Francisco Dias,das Neves da Praia,SP,20,Volkswagen Amarok,LDU5797,2,CD Canoas,Canoas,RS,CD Araraquara,Araraquara,SP,2026-05-31 12:29:46,2026-06-15 12:29:46,2026-06-18 12:29:46,512.28,533.592
+693,198,Calebe Nunes,Siqueira das Pedras,SP,11,Nissan Versa,BGU2133,1,CD Caruaru,Caruaru,PE,CD Boa Vista,Boa Vista,RR,2026-05-23 16:16:29,2026-05-26 16:16:29,2026-06-03 16:16:29,90.35,70.152
+921,198,Calebe Nunes,Siqueira das Pedras,SP,20,Volkswagen Amarok,LDU5797,2,CD Goiânia,Goiânia,GO,CD Brasília,Brasília,DF,2026-05-21 21:38:02,2026-06-01 21:38:02,,386.36,652.207
+106,199,Isaque Mendes,Siqueira,MT,28,Volvo VM 270,NOG4159,3,CD Blumenau,Blumenau,SC,CD Mossoró,Mossoró,RN,2026-05-08 19:02:28,2026-05-13 19:02:28,2026-05-21 19:02:28,1131.87,1485.507
+787,200,Ágatha Jesus,Vasconcelos da Praia,PB,20,Volkswagen Amarok,LDU5797,2,CD Governador Valadares,Governador Valadares,MG,CD Sobral,Sobral,CE,2026-03-27 15:16:08,2026-03-29 15:16:08,,112.61,139.358
+580,201,Sophie Albuquerque,Fonseca de Minas,MT,22,Renault Master,JVZ8251,3,CD Ananindeua,Ananindeua,PA,CD Teresina,Teresina,PI,2026-06-06 11:56:38,2026-06-13 11:56:38,,1383.15,1729.366
+905,201,Sophie Albuquerque,Fonseca de Minas,MT,28,Volvo VM 270,NOG4159,3,CD Santa Maria,Santa Maria,RS,CD Juazeiro,Juazeiro,BA,2026-02-16 20:25:37,2026-03-02 20:25:37,2026-02-20 20:25:37,861.72,1087.417
+152,204,Sra. Carolina Barros,Aragão,CE,20,Volkswagen Amarok,LDU5797,2,CD Araçatuba,Araçatuba,SP,CD Anápolis,Anápolis,GO,2026-04-30 10:26:57,2026-05-06 10:26:57,,209.53,188.608
+498,204,Sra. Carolina Barros,Aragão,CE,27,Scania P320,DCB9288,3,CD Porto Alegre,Porto Alegre,RS,CD Itajaí,Itajaí,SC,2026-01-01 00:09:57,2026-01-12 00:09:57,,903.83,1017.391
+832,204,Sra. Carolina Barros,Aragão,CE,20,Volkswagen Amarok,LDU5797,2,CD João Pessoa,João Pessoa,PB,CD Itajaí,Itajaí,SC,2026-06-17 23:41:27,2026-06-29 23:41:27,,514.02,872.482
+744,205,Nicolas Alves,Siqueira,RS,19,Ford Ranger,YTU8726,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Uberlândia,Uberlândia,MG,2026-02-27 11:23:05,2026-03-11 11:23:05,2026-03-10 11:23:05,367.99,587.444
+112,207,Juliana Sampaio,Ferreira,MG,17,Toyota Hilux,XHD6644,2,CD Curitiba,Curitiba,PR,CD Campinas,Campinas,SP,2026-01-10 09:52:08,2026-01-24 09:52:08,2026-01-12 09:52:08,936.42,871.434
+62,209,Ana Vitória Lima,Porto de Ribeiro,AP,16,Fiat Toro,COX0501,2,CD Imperatriz,Imperatriz,MA,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-01-27 09:17:39,2026-02-07 09:17:39,,518.27,413.93
+220,209,Ana Vitória Lima,Porto de Ribeiro,AP,16,Fiat Toro,COX0501,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Belo Horizonte,Belo Horizonte,MG,2026-03-08 09:13:44,2026-03-14 09:13:44,2026-03-26 09:13:44,243.21,378.813
+273,209,Ana Vitória Lima,Porto de Ribeiro,AP,26,Volkswagen Constellation 24.280,AEV8053,3,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Vila Velha,Vila Velha,ES,2026-05-30 03:42:32,2026-06-05 03:42:32,2026-06-04 03:42:32,866.7,1568.068
+426,209,Ana Vitória Lima,Porto de Ribeiro,AP,23,Fiat Ducato,AUR0775,3,CD Salvador,Salvador,BA,CD Feira de Santana,Feira de Santana,BA,2026-06-15 18:27:55,2026-06-17 18:27:55,,1770.3,1838.422
+327,210,João Peixoto,Cavalcanti de Farias,PB,20,Volkswagen Amarok,LDU5797,2,CD Mossoró,Mossoró,RN,CD Jundiaí,Jundiaí,SP,2026-06-15 10:57:15,2026-06-25 10:57:15,,279.91,620.24
+384,210,João Peixoto,Cavalcanti de Farias,PB,19,Ford Ranger,YTU8726,2,CD Dourados,Dourados,MS,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-02-07 01:09:18,2026-02-22 01:09:18,2026-02-13 01:09:18,244.83,510.716
+922,210,João Peixoto,Cavalcanti de Farias,PB,27,Scania P320,DCB9288,3,CD Caxias do Sul,Caxias do Sul,RS,CD Curitiba,Curitiba,PR,2026-01-08 22:40:41,2026-01-09 22:40:41,2026-01-26 22:40:41,1120.05,1037.431
+378,211,Dr. Pedro Henrique Gomes,Sampaio de Jesus,DF,28,Volvo VM 270,NOG4159,3,CD São Luís,São Luís,MA,CD São Carlos,São Carlos,SP,2026-06-02 14:16:35,2026-06-09 14:16:35,2026-06-06 14:16:35,1796.64,1946.509
+794,211,Dr. Pedro Henrique Gomes,Sampaio de Jesus,DF,23,Fiat Ducato,AUR0775,3,CD Imperatriz,Imperatriz,MA,CD Sinop,Sinop,MT,2026-05-28 00:17:00,2026-06-07 00:17:00,2026-06-10 00:17:00,1057.33,1026.354
+385,213,Dom Carvalho,Novaes,PE,26,Volkswagen Constellation 24.280,AEV8053,3,CD Marabá,Marabá,PA,CD São Carlos,São Carlos,SP,2026-02-22 19:50:58,2026-03-08 19:50:58,2026-03-12 19:50:58,1455.56,1855.855
+471,214,Sra. Giovanna Marques,Aragão das Pedras,PA,27,Scania P320,DCB9288,3,CD Sobral,Sobral,CE,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-06-08 22:11:41,2026-06-12 22:11:41,,1034.91,1838.7
+879,215,Yago Siqueira,Costela,RR,19,Ford Ranger,YTU8726,2,CD Marília,Marília,SP,CD São Luís,São Luís,MA,2026-05-01 18:45:33,2026-05-08 18:45:33,2026-05-04 18:45:33,867.43,884.028
+964,218,Sra. Isabella da Rocha,Cirino,MT,27,Scania P320,DCB9288,3,CD Sorocaba,Sorocaba,SP,CD Santarém,Santarém,PA,2026-04-13 02:26:36,2026-04-15 02:26:36,,959.13,1052.334
+615,219,Cecília Barros,Rodrigues de Moura,CE,16,Fiat Toro,COX0501,2,CD Imperatriz,Imperatriz,MA,CD Rondonópolis,Rondonópolis,MT,2026-04-26 03:59:07,2026-04-27 03:59:07,2026-05-12 03:59:07,440.93,889.681
+689,220,Ana Luiza Moura,Farias,MT,19,Ford Ranger,YTU8726,2,CD Dourados,Dourados,MS,CD Arapiraca,Arapiraca,AL,2026-05-23 00:12:22,2026-06-06 00:12:22,2026-06-09 00:12:22,195.49,160.427
+132,222,José Rios,Vasconcelos da Praia,MA,16,Fiat Toro,COX0501,2,CD Cuiabá,Cuiabá,MT,CD Piracicaba,Piracicaba,SP,2026-05-10 09:45:38,2026-05-11 09:45:38,,439.61,520.557
+416,222,José Rios,Vasconcelos da Praia,MA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Vitória,Vitória,ES,CD Vitória da Conquista,Vitória da Conquista,BA,2026-01-03 13:43:44,2026-01-07 13:43:44,2026-01-08 13:43:44,1502.87,1322.019
+948,224,José Pedro Dias,Cunha,MT,16,Fiat Toro,COX0501,2,CD Ananindeua,Ananindeua,PA,CD Camaçari,Camaçari,BA,2026-05-06 22:25:39,2026-05-08 22:25:39,,492.94,607.846
+576,227,Yuri Rodrigues,da Cruz de Novais,TO,27,Scania P320,DCB9288,3,CD Boa Vista,Boa Vista,RR,CD Macapá,Macapá,AP,2025-12-30 07:01:30,2026-01-10 07:01:30,2026-01-16 07:01:30,1048.48,1832.655
+241,228,Cecília Rios,da Cruz de Câmara,SE,20,Volkswagen Amarok,LDU5797,2,CD Macapá,Macapá,AP,CD Sobral,Sobral,CE,2026-01-24 15:44:58,2026-02-02 15:44:58,,370.32,733.527
+129,230,Josué Cunha,Novais de Minas,MG,23,Fiat Ducato,AUR0775,3,CD Aracaju,Aracaju,SE,CD Maceió,Maceió,AL,2026-05-19 13:24:53,2026-05-30 13:24:53,,1380.52,1931.052
+518,230,Josué Cunha,Novais de Minas,MG,17,Toyota Hilux,XHD6644,2,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Feira de Santana,Feira de Santana,BA,2026-05-18 09:47:29,2026-05-21 09:47:29,2026-06-03 09:47:29,294.5,298.404
+265,232,Dra. Julia Melo,Santos do Campo,MA,22,Renault Master,JVZ8251,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Aracaju,Aracaju,SE,2026-03-12 11:53:35,2026-03-16 11:53:35,,753.98,1295.086
+570,232,Dra. Julia Melo,Santos do Campo,MA,19,Ford Ranger,YTU8726,2,CD Araguaína,Araguaína,TO,CD Belém,Belém,PA,2026-02-12 13:25:23,2026-02-14 13:25:23,2026-03-02 13:25:23,838.7,772.926
+590,232,Dra. Julia Melo,Santos do Campo,MA,20,Volkswagen Amarok,LDU5797,2,CD São José dos Campos,São José dos Campos,SP,CD Campina Grande,Campina Grande,PB,2026-04-28 00:07:09,2026-05-11 00:07:09,2026-05-01 00:07:09,471.28,721.103
+721,232,Dra. Julia Melo,Santos do Campo,MA,29,Iveco Tector 240E30,KIW4424,3,CD Dourados,Dourados,MS,CD Montes Claros,Montes Claros,MG,2026-01-16 05:16:08,2026-01-29 05:16:08,2026-01-31 05:16:08,2057.76,1780.6
+740,232,Dra. Julia Melo,Santos do Campo,MA,16,Fiat Toro,COX0501,2,CD Criciúma,Criciúma,SC,CD Ananindeua,Ananindeua,PA,2026-04-21 21:54:59,2026-04-24 21:54:59,,120.68,129.502
+329,234,Maria Helena das Neves,Pastor Alegre,PE,18,Chevrolet S10,HFY7172,2,CD São Luís,São Luís,MA,CD Dourados,Dourados,MS,2026-03-30 14:00:54,2026-04-10 14:00:54,2026-04-10 14:00:54,197.39,367.817
+906,234,Maria Helena das Neves,Pastor Alegre,PE,21,Mercedes-Benz Sprinter,WDM2991,3,CD São José dos Campos,São José dos Campos,SP,CD Ananindeua,Ananindeua,PA,2026-02-09 15:26:28,2026-02-24 15:26:28,2026-02-17 15:26:28,577.69,1009.546
+281,236,Otto da Rocha,Moreira,DF,29,Iveco Tector 240E30,KIW4424,3,CD Chapecó,Chapecó,SC,CD Vitória,Vitória,ES,2026-06-07 21:06:34,2026-06-10 21:06:34,2026-06-18 21:06:34,1477.39,1602.769
+451,236,Otto da Rocha,Moreira,DF,19,Ford Ranger,YTU8726,2,CD Presidente Prudente,Presidente Prudente,SP,CD Bauru,Bauru,SP,2026-06-10 22:54:32,2026-06-20 22:54:32,,505.47,529.347
+759,236,Otto da Rocha,Moreira,DF,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Feira de Santana,Feira de Santana,BA,CD Montes Claros,Montes Claros,MG,2026-06-22 23:47:26,2026-07-03 23:47:26,,1394.89,1472.355
+780,237,Matteo Lopes,Cavalcante,DF,20,Volkswagen Amarok,LDU5797,2,CD Caxias do Sul,Caxias do Sul,RS,CD Contagem,Contagem,MG,2026-01-26 19:20:20,2026-02-10 19:20:20,2026-02-03 19:20:20,462.82,874.264
+230,238,Benjamim Pastor,Fonseca,CE,14,Peugeot 208,IKO3579,1,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Bauru,Bauru,SP,2026-02-19 22:13:28,2026-02-25 22:13:28,,73.62,48.969
+274,238,Benjamim Pastor,Fonseca,CE,26,Volkswagen Constellation 24.280,AEV8053,3,CD Rondonópolis,Rondonópolis,MT,CD Arapiraca,Arapiraca,AL,2026-06-01 21:54:12,2026-06-09 21:54:12,2026-06-04 21:54:12,852.0,1762.648
+700,238,Benjamim Pastor,Fonseca,CE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Juiz de Fora,Juiz de Fora,MG,CD Sinop,Sinop,MT,2026-06-26 06:29:07,2026-06-29 06:29:07,,1501.17,1526.811
+901,239,Nicolas Pacheco,Araújo,RR,30,DAF XF 480,KSZ8486,3,CD Caxias do Sul,Caxias do Sul,RS,CD Curitiba,Curitiba,PR,2026-06-17 21:33:16,2026-06-24 21:33:16,,761.03,1574.296
+17,240,Dra. Allana da Mota,Cirino,AP,27,Scania P320,DCB9288,3,CD Brasília,Brasília,DF,CD Aracaju,Aracaju,SE,2026-04-07 11:28:51,2026-04-17 11:28:51,2026-04-20 11:28:51,748.63,1234.395
+104,240,Dra. Allana da Mota,Cirino,AP,16,Fiat Toro,COX0501,2,CD Niterói,Niterói,RJ,CD Bauru,Bauru,SP,2026-01-21 05:52:26,2026-02-04 05:52:26,,555.62,527.389
+687,240,Dra. Allana da Mota,Cirino,AP,22,Renault Master,JVZ8251,3,CD Maceió,Maceió,AL,CD Dourados,Dourados,MS,2026-06-21 01:50:33,2026-06-26 01:50:33,,1210.42,1612.899
+208,241,Zoe da Cruz,Silveira Alegre,MT,22,Renault Master,JVZ8251,3,CD Brasília,Brasília,DF,CD Belo Horizonte,Belo Horizonte,MG,2026-02-20 18:05:27,2026-03-04 18:05:27,2026-02-28 18:05:27,833.27,1206.543
+486,241,Zoe da Cruz,Silveira Alegre,MT,22,Renault Master,JVZ8251,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Cuiabá,Cuiabá,MT,2026-06-19 18:55:13,2026-06-23 18:55:13,2026-06-28 18:55:13,1122.46,1384.304
+314,245,Olivia da Cunha,Gonçalves,SE,8,Toyota Corolla,QGI6546,1,CD Uberlândia,Uberlândia,MG,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-02-10 04:56:18,2026-02-17 04:56:18,2026-02-11 04:56:18,76.86,74.783
+509,246,Samuel Lima,da Mata,PR,23,Fiat Ducato,AUR0775,3,CD Ananindeua,Ananindeua,PA,CD Pelotas,Pelotas,RS,2026-01-13 10:53:12,2026-01-21 10:53:12,2026-01-18 10:53:12,1114.17,1527.964
+799,246,Samuel Lima,da Mata,PR,23,Fiat Ducato,AUR0775,3,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Blumenau,Blumenau,SC,2026-06-26 03:51:39,2026-07-06 03:51:39,,861.78,1006.251
+470,247,Maria Luiza Macedo,Castro,AP,21,Mercedes-Benz Sprinter,WDM2991,3,CD Feira de Santana,Feira de Santana,BA,CD Anápolis,Anápolis,GO,2026-01-12 19:40:45,2026-01-16 19:40:45,2026-01-22 19:40:45,588.04,1368.18
+969,248,Sr. Gustavo Henrique Vieira,Cavalcanti,ES,27,Scania P320,DCB9288,3,CD Uberlândia,Uberlândia,MG,CD Fortaleza,Fortaleza,CE,2026-04-12 08:35:22,2026-04-24 08:35:22,,2253.11,1911.858
+147,250,Giovanna Costa,Cavalcante de Mendonça,DF,16,Fiat Toro,COX0501,2,CD Feira de Santana,Feira de Santana,BA,CD Vitória,Vitória,ES,2026-03-01 13:35:39,2026-03-08 13:35:39,2026-03-19 13:35:39,159.15,179.249
+764,250,Giovanna Costa,Cavalcante de Mendonça,DF,19,Ford Ranger,YTU8726,2,CD Itajaí,Itajaí,SC,CD Uberlândia,Uberlândia,MG,2026-04-12 16:19:10,2026-04-26 16:19:10,2026-04-26 16:19:10,484.77,724.348
+880,250,Giovanna Costa,Cavalcante de Mendonça,DF,16,Fiat Toro,COX0501,2,CD Sobral,Sobral,CE,CD Ananindeua,Ananindeua,PA,2026-02-12 10:05:13,2026-02-27 10:05:13,2026-02-21 10:05:13,758.58,926.06
+993,252,João Guilherme Casa Grande,Vasconcelos,PB,24,Volkswagen Delivery 11.180,SBS6419,3,CD Florianópolis,Florianópolis,SC,CD Fortaleza,Fortaleza,CE,2026-04-17 21:55:28,2026-04-30 21:55:28,,742.27,1271.039
+156,253,João Lucas Alves,Sales da Prata,RN,23,Fiat Ducato,AUR0775,3,CD Campina Grande,Campina Grande,PB,CD Contagem,Contagem,MG,2026-01-24 20:38:13,2026-02-01 20:38:13,,872.09,1319.237
+617,254,Otto Sales,Pastor de Cunha,AL,30,DAF XF 480,KSZ8486,3,CD Uberaba,Uberaba,MG,CD Vila Velha,Vila Velha,ES,2026-02-03 16:16:19,2026-02-17 16:16:19,2026-02-20 16:16:19,1314.24,1102.957
+531,255,Sr. Ravy Monteiro,Sousa dos Dourados,ES,16,Fiat Toro,COX0501,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Criciúma,Criciúma,SC,2026-01-04 07:07:08,2026-01-18 07:07:08,2026-01-22 07:07:08,143.7,175.432
+195,256,Breno Ramos,da Conceição do Campo,RN,27,Scania P320,DCB9288,3,CD Sinop,Sinop,MT,CD Vila Velha,Vila Velha,ES,2026-01-22 03:24:30,2026-02-02 03:24:30,2026-01-27 03:24:30,1632.85,1609.999
+382,256,Breno Ramos,da Conceição do Campo,RN,19,Ford Ranger,YTU8726,2,CD Campo Grande,Campo Grande,MS,CD Araraquara,Araraquara,SP,2026-05-11 15:03:28,2026-05-20 15:03:28,2026-05-17 15:03:28,623.48,521.294
+348,260,Ana Beatriz Oliveira,Macedo de Barros,MS,16,Fiat Toro,COX0501,2,CD Três Lagoas,Três Lagoas,MS,CD Franca,Franca,SP,2026-06-21 20:33:14,2026-07-06 20:33:14,,471.49,419.672
+638,260,Ana Beatriz Oliveira,Macedo de Barros,MS,17,Toyota Hilux,XHD6644,2,CD Limeira,Limeira,SP,CD Novo Hamburgo,Novo Hamburgo,RS,2026-03-31 05:58:37,2026-04-13 05:58:37,,155.85,276.381
+59,261,Maria Flor Rios,Câmara de Araújo,GO,30,DAF XF 480,KSZ8486,3,CD Maceió,Maceió,AL,CD Guarulhos,Guarulhos,SP,2026-06-02 20:09:23,2026-06-03 20:09:23,2026-06-05 20:09:23,1366.52,1480.032
+581,261,Maria Flor Rios,Câmara de Araújo,GO,3,Volkswagen Gol,VLJ1682,1,CD Governador Valadares,Governador Valadares,MG,CD Anápolis,Anápolis,GO,2026-05-23 01:13:50,2026-05-28 01:13:50,2026-06-06 01:13:50,55.15,29.56
+722,261,Maria Flor Rios,Câmara de Araújo,GO,28,Volvo VM 270,NOG4159,3,CD Bauru,Bauru,SP,CD Rondonópolis,Rondonópolis,MT,2026-02-12 23:33:52,2026-02-26 23:33:52,2026-02-14 23:33:52,1333.92,1486.414
+914,261,Maria Flor Rios,Câmara de Araújo,GO,27,Scania P320,DCB9288,3,CD Marabá,Marabá,PA,CD Goiânia,Goiânia,GO,2026-04-13 23:31:26,2026-04-14 23:31:26,,1387.68,1457.815
+977,262,Raquel Pastor,Freitas dos Dourados,CE,27,Scania P320,DCB9288,3,CD Ponta Grossa,Ponta Grossa,PR,CD Boa Vista,Boa Vista,RR,2026-04-13 21:36:31,2026-04-28 21:36:31,2026-04-17 21:36:31,1530.72,1505.713
+10,263,Ravi Lucca Sousa,Brito de Andrade,MT,21,Mercedes-Benz Sprinter,WDM2991,3,CD Caxias do Sul,Caxias do Sul,RS,CD Vitória da Conquista,Vitória da Conquista,BA,2026-05-15 14:01:37,2026-05-24 14:01:37,,1671.85,1455.384
+125,263,Ravi Lucca Sousa,Brito de Andrade,MT,20,Volkswagen Amarok,LDU5797,2,CD Taubaté,Taubaté,SP,CD Marabá,Marabá,PA,2026-04-25 19:18:45,2026-05-05 19:18:45,2026-05-07 19:18:45,345.7,616.144
+261,264,Maria Clara Martins,Cardoso da Serra,SC,22,Renault Master,JVZ8251,3,CD Canoas,Canoas,RS,CD São Paulo,São Paulo,SP,2026-06-08 12:09:10,2026-06-09 12:09:10,2026-06-12 12:09:10,830.85,1119.061
+47,268,João Felipe Pastor,Camargo dos Dourados,RJ,28,Volvo VM 270,NOG4159,3,CD Barueri,Barueri,SP,CD Serra,Serra,ES,2026-03-17 15:56:32,2026-03-24 15:56:32,2026-04-03 15:56:32,974.46,1018.37
+544,268,João Felipe Pastor,Camargo dos Dourados,RJ,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Uberaba,Uberaba,MG,CD Londrina,Londrina,PR,2026-05-02 05:07:40,2026-05-17 05:07:40,,704.43,1405.163
+710,268,João Felipe Pastor,Camargo dos Dourados,RJ,24,Volkswagen Delivery 11.180,SBS6419,3,CD Volta Redonda,Volta Redonda,RJ,CD Vila Velha,Vila Velha,ES,2025-12-31 16:08:58,2026-01-04 16:08:58,2026-01-04 16:08:58,927.76,1664.544
+635,271,Cecilia da Rocha,Borges,ES,18,Chevrolet S10,HFY7172,2,CD São Paulo,São Paulo,SP,CD Mossoró,Mossoró,RN,2026-03-10 13:18:21,2026-03-15 13:18:21,2026-03-26 13:18:21,539.73,940.988
+811,271,Cecilia da Rocha,Borges,ES,28,Volvo VM 270,NOG4159,3,CD João Pessoa,João Pessoa,PB,CD São Carlos,São Carlos,SP,2026-03-22 09:37:16,2026-03-27 09:37:16,2026-03-25 09:37:16,1382.66,1436.534
+836,271,Cecilia da Rocha,Borges,ES,20,Volkswagen Amarok,LDU5797,2,CD São José dos Campos,São José dos Campos,SP,CD Cuiabá,Cuiabá,MT,2026-06-01 17:44:33,2026-06-08 17:44:33,2026-06-10 17:44:33,180.99,323.998
+174,273,Gabrielly Pinto,Abreu Alegre,AC,16,Fiat Toro,COX0501,2,CD Presidente Prudente,Presidente Prudente,SP,CD Vitória da Conquista,Vitória da Conquista,BA,2026-01-02 06:42:47,2026-01-13 06:42:47,2026-01-11 06:42:47,322.4,401.88
+624,273,Gabrielly Pinto,Abreu Alegre,AC,26,Volkswagen Constellation 24.280,AEV8053,3,CD Juazeiro,Juazeiro,BA,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-05-26 01:22:44,2026-06-06 01:22:44,,1069.79,1286.462
+542,275,Sr. Rafael Almeida,Gonçalves,PB,7,Hyundai HB20,EOY4603,1,CD Marabá,Marabá,PA,CD Palmas,Palmas,TO,2026-04-11 06:39:39,2026-04-21 06:39:39,2026-04-15 06:39:39,48.61,30.57
+352,276,Ana Cecília Mendonça,Teixeira,RN,17,Toyota Hilux,XHD6644,2,CD Itajaí,Itajaí,SC,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-05-17 12:22:53,2026-05-29 12:22:53,2026-05-19 12:22:53,287.18,467.961
+753,276,Ana Cecília Mendonça,Teixeira,RN,18,Chevrolet S10,HFY7172,2,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Serra,Serra,ES,2026-04-06 10:17:57,2026-04-15 10:17:57,2026-04-21 10:17:57,841.73,754.599
+620,278,Davi Miguel Rocha,Albuquerque,SC,23,Fiat Ducato,AUR0775,3,CD Campinas,Campinas,SP,CD Contagem,Contagem,MG,2026-03-06 16:15:23,2026-03-08 16:15:23,,463.25,1021.912
+139,279,Dra. Maria Laura Costela,da Cruz de Correia,AP,18,Chevrolet S10,HFY7172,2,CD Campina Grande,Campina Grande,PB,CD São José dos Campos,São José dos Campos,SP,2026-01-14 22:43:15,2026-01-19 22:43:15,2026-01-18 22:43:15,446.49,547.997
+659,279,Dra. Maria Laura Costela,da Cruz de Correia,AP,17,Toyota Hilux,XHD6644,2,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Juiz de Fora,Juiz de Fora,MG,2026-02-24 01:59:26,2026-03-08 01:59:26,,682.01,801.615
+248,280,Ana Clara Ferreira,Duarte de Novais,AP,21,Mercedes-Benz Sprinter,WDM2991,3,CD Porto Alegre,Porto Alegre,RS,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-01-12 01:53:11,2026-01-18 01:53:11,2026-01-15 01:53:11,1424.65,1275.395
+889,280,Ana Clara Ferreira,Duarte de Novais,AP,19,Ford Ranger,YTU8726,2,CD Anápolis,Anápolis,GO,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-02-10 13:41:46,2026-02-17 13:41:46,2026-02-21 13:41:46,1107.02,940.903
+360,281,Davi Luiz Ribeiro,Fernandes de da Mota,PR,19,Ford Ranger,YTU8726,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Volta Redonda,Volta Redonda,RJ,2026-05-30 04:53:14,2026-06-09 04:53:14,2026-06-05 04:53:14,381.68,378.833
+979,281,Davi Luiz Ribeiro,Fernandes de da Mota,PR,18,Chevrolet S10,HFY7172,2,CD Mossoró,Mossoró,RN,CD Serra,Serra,ES,2026-05-26 08:47:43,2026-05-28 08:47:43,2026-05-29 08:47:43,424.09,587.291
+337,282,Fernando Aragão,Cunha Alegre,SC,16,Fiat Toro,COX0501,2,CD Natal,Natal,RN,CD Caruaru,Caruaru,PE,2026-03-30 00:30:24,2026-04-12 00:30:24,2026-04-15 00:30:24,935.25,966.822
+995,283,Yago Sampaio,da Rosa,RN,23,Fiat Ducato,AUR0775,3,CD Sinop,Sinop,MT,CD Uberaba,Uberaba,MG,2026-04-30 10:50:24,2026-05-14 10:50:24,2026-05-01 10:50:24,1105.95,1294.234
+955,285,Sra. Zoe Montenegro,Rodrigues do Norte,RJ,13,Ford Ka,GSZ6863,1,CD Arapiraca,Arapiraca,AL,CD Pelotas,Pelotas,RS,2026-05-03 11:50:58,2026-05-06 11:50:58,,56.65,70.84
+996,285,Sra. Zoe Montenegro,Rodrigues do Norte,RJ,23,Fiat Ducato,AUR0775,3,CD Campo Grande,Campo Grande,MS,CD Betim,Betim,MG,2026-04-18 21:37:01,2026-04-20 21:37:01,2026-05-05 21:37:01,859.08,1141.587
+790,287,Cauê da Conceição,Machado,AM,20,Volkswagen Amarok,LDU5797,2,CD Goiânia,Goiânia,GO,CD Florianópolis,Florianópolis,SC,2026-01-06 20:24:59,2026-01-10 20:24:59,2026-01-22 20:24:59,445.84,576.258
+628,288,Natália da Paz,Lima,TO,28,Volvo VM 270,NOG4159,3,CD Ananindeua,Ananindeua,PA,CD Sorocaba,Sorocaba,SP,2026-01-28 20:17:57,2026-01-30 20:17:57,2026-02-06 20:17:57,1027.88,1304.362
+331,289,Sra. Sarah da Conceição,da Mota da Mata,SP,30,DAF XF 480,KSZ8486,3,CD Maceió,Maceió,AL,CD Campo Grande,Campo Grande,MS,2026-05-14 13:27:50,2026-05-16 13:27:50,2026-05-21 13:27:50,719.88,1258.163
+652,289,Sra. Sarah da Conceição,da Mota da Mata,SP,20,Volkswagen Amarok,LDU5797,2,CD Canoas,Canoas,RS,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-03-14 18:05:21,2026-03-16 18:05:21,2026-03-28 18:05:21,332.19,444.222
+702,289,Sra. Sarah da Conceição,da Mota da Mata,SP,24,Volkswagen Delivery 11.180,SBS6419,3,CD Blumenau,Blumenau,SC,CD Campinas,Campinas,SP,2026-04-23 03:16:11,2026-05-07 03:16:11,,946.52,1307.33
+894,290,Helena Sampaio,Teixeira das Flores,SE,23,Fiat Ducato,AUR0775,3,CD Santos,Santos,SP,CD Osasco,Osasco,SP,2026-05-23 12:42:19,2026-05-28 12:42:19,2026-05-24 12:42:19,1749.43,1485.294
+369,292,Laura da Cruz,Ferreira,AC,17,Toyota Hilux,XHD6644,2,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Araçatuba,Araçatuba,SP,2025-12-31 08:15:47,2026-01-10 08:15:47,2026-01-10 08:15:47,219.86,265.243
+965,294,Sarah Pacheco,Fernandes,SP,20,Volkswagen Amarok,LDU5797,2,CD Maringá,Maringá,PR,CD Uberlândia,Uberlândia,MG,2026-05-27 11:17:32,2026-06-10 11:17:32,2026-05-28 11:17:32,698.7,978.298
+313,295,João Pedro Cardoso,Fonseca da Prata,SE,19,Ford Ranger,YTU8726,2,CD Juiz de Fora,Juiz de Fora,MG,CD Anápolis,Anápolis,GO,2026-01-21 03:19:12,2026-01-31 03:19:12,2026-01-24 03:19:12,383.59,302.908
+111,296,Diogo Araújo,Farias de Goiás,RN,22,Renault Master,JVZ8251,3,CD Três Lagoas,Três Lagoas,MS,CD Maceió,Maceió,AL,2026-01-10 13:35:32,2026-01-13 13:35:32,2026-01-27 13:35:32,1305.29,1846.156
+464,296,Diogo Araújo,Farias de Goiás,RN,17,Toyota Hilux,XHD6644,2,CD Barueri,Barueri,SP,CD Duque de Caxias,Duque de Caxias,RJ,2026-06-22 06:26:50,2026-06-23 06:26:50,2026-06-28 06:26:50,460.83,503.676
+40,297,Maitê Cavalcante,Ribeiro do Campo,DF,30,DAF XF 480,KSZ8486,3,CD Betim,Betim,MG,CD Macapá,Macapá,AP,2026-04-06 09:07:19,2026-04-10 09:07:19,2026-04-08 09:07:19,988.81,1369.166
+637,298,Isabelly Marques,Fogaça Alegre,PR,22,Renault Master,JVZ8251,3,CD Juazeiro,Juazeiro,BA,CD Brasília,Brasília,DF,2026-05-31 05:40:05,2026-06-10 05:40:05,2026-06-04 05:40:05,1336.86,1474.662
+540,299,Hadassa Moreira,Casa Grande,GO,22,Renault Master,JVZ8251,3,CD Franca,Franca,SP,CD Rondonópolis,Rondonópolis,MT,2026-02-17 15:57:39,2026-02-28 15:57:39,2026-02-27 15:57:39,2178.95,1868.03
+419,300,Heitor da Mota,Nogueira do Sul,GO,28,Volvo VM 270,NOG4159,3,CD Criciúma,Criciúma,SC,CD Montes Claros,Montes Claros,MG,2026-04-03 20:06:11,2026-04-16 20:06:11,2026-04-10 20:06:11,504.8,1044.977
+435,300,Heitor da Mota,Nogueira do Sul,GO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Salvador,Salvador,BA,CD Santos,Santos,SP,2026-05-22 08:10:48,2026-05-25 08:10:48,2026-06-06 08:10:48,1167.46,1510.053
+422,304,Dr. Bryan Freitas,Pastor do Campo,DF,29,Iveco Tector 240E30,KIW4424,3,CD Feira de Santana,Feira de Santana,BA,CD Macapá,Macapá,AP,2026-03-03 07:56:29,2026-03-10 07:56:29,2026-03-06 07:56:29,1187.88,1640.704
+572,304,Dr. Bryan Freitas,Pastor do Campo,DF,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Aracaju,Aracaju,SE,CD Criciúma,Criciúma,SC,2026-03-15 05:53:44,2026-03-19 05:53:44,2026-03-22 05:53:44,1042.79,1169.142
+734,304,Dr. Bryan Freitas,Pastor do Campo,DF,23,Fiat Ducato,AUR0775,3,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Campo Grande,Campo Grande,MS,2026-04-11 05:54:32,2026-04-18 05:54:32,,1002.01,1440.367
+797,304,Dr. Bryan Freitas,Pastor do Campo,DF,1,Fiat Mobi,NCM2438,1,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Vitória da Conquista,Vitória da Conquista,BA,2026-03-17 14:08:06,2026-03-25 14:08:06,2026-03-30 14:08:06,72.23,63.27
+629,305,Emilly Almeida,Aragão,AC,18,Chevrolet S10,HFY7172,2,CD Aracaju,Aracaju,SE,CD Rondonópolis,Rondonópolis,MT,2026-02-26 09:42:27,2026-03-05 09:42:27,2026-03-11 09:42:27,371.53,769.11
+904,305,Emilly Almeida,Aragão,AC,16,Fiat Toro,COX0501,2,CD Salvador,Salvador,BA,CD Goiânia,Goiânia,GO,2026-06-28 03:50:54,2026-07-03 03:50:54,,148.05,210.526
+533,308,Joana Carvalho,Albuquerque das Pedras,GO,19,Ford Ranger,YTU8726,2,CD Uberlândia,Uberlândia,MG,CD Camaçari,Camaçari,BA,2026-06-21 22:14:16,2026-06-27 22:14:16,2026-06-26 22:14:16,564.11,722.638
+41,310,Otto Cavalcanti,Alves Verde,SE,2,Fiat Uno,PLK0996,1,CD Rondonópolis,Rondonópolis,MT,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-03-16 03:05:19,2026-03-18 03:05:19,2026-04-02 03:05:19,50.13,31.58
+814,310,Otto Cavalcanti,Alves Verde,SE,27,Scania P320,DCB9288,3,CD Sinop,Sinop,MT,CD Vila Velha,Vila Velha,ES,2025-12-31 10:38:17,2026-01-14 10:38:17,,526.83,1221.154
+66,311,Raquel da Cunha,Teixeira de Costela,PA,17,Toyota Hilux,XHD6644,2,CD Cascavel,Cascavel,PR,CD Araguaína,Araguaína,TO,2026-03-26 10:47:07,2026-04-09 10:47:07,2026-04-12 10:47:07,91.82,142.57
+784,312,Dr. Calebe Moreira,Abreu,AC,26,Volkswagen Constellation 24.280,AEV8053,3,CD Mossoró,Mossoró,RN,CD Santarém,Santarém,PA,2026-01-05 01:39:52,2026-01-20 01:39:52,2026-01-21 01:39:52,790.18,1431.545
+654,313,Igor Caldeira,Rios de Goiás,GO,19,Ford Ranger,YTU8726,2,CD Natal,Natal,RN,CD Parnaíba,Parnaíba,PI,2026-05-14 20:58:36,2026-05-18 20:58:36,2026-05-27 20:58:36,266.14,472.681
+154,316,Diego Carvalho,Moreira da Praia,MG,30,DAF XF 480,KSZ8486,3,CD Campo Grande,Campo Grande,MS,CD Araguaína,Araguaína,TO,2026-02-09 06:29:31,2026-02-14 06:29:31,2026-02-13 06:29:31,1758.58,1802.684
+431,317,Henrique Nogueira,Peixoto,RO,20,Volkswagen Amarok,LDU5797,2,CD Uberaba,Uberaba,MG,CD Uberlândia,Uberlândia,MG,2026-01-01 13:46:27,2026-01-16 13:46:27,,1096.93,950.201
+377,319,Luiz Henrique Abreu,Rodrigues da Mata,AM,19,Ford Ranger,YTU8726,2,CD Juiz de Fora,Juiz de Fora,MG,CD Limeira,Limeira,SP,2026-03-15 02:34:23,2026-03-25 02:34:23,2026-03-28 02:34:23,240.65,204.555
+671,320,Emanuelly Rodrigues,da Costa,RS,30,DAF XF 480,KSZ8486,3,CD Anápolis,Anápolis,GO,CD Belém,Belém,PA,2026-04-24 23:34:35,2026-05-07 23:34:35,2026-05-06 23:34:35,885.72,1109.412
+456,323,Ana Vitória da Rocha,Nunes de Goiás,RJ,17,Toyota Hilux,XHD6644,2,CD Joinville,Joinville,SC,CD Sorocaba,Sorocaba,SP,2026-01-28 01:56:55,2026-02-07 01:56:55,2026-01-29 01:56:55,301.89,265.188
+614,324,Bryan Nogueira,Garcia do Norte,MS,18,Chevrolet S10,HFY7172,2,CD Curitiba,Curitiba,PR,CD Ponta Grossa,Ponta Grossa,PR,2026-05-29 07:11:54,2026-06-04 07:11:54,2026-06-11 07:11:54,834.39,924.473
+495,325,Ana Cecília Camargo,Teixeira do Oeste,PE,18,Chevrolet S10,HFY7172,2,CD Chapecó,Chapecó,SC,CD São Carlos,São Carlos,SP,2026-04-01 01:13:19,2026-04-10 01:13:19,2026-04-11 01:13:19,352.36,456.342
+933,325,Ana Cecília Camargo,Teixeira do Oeste,PE,29,Iveco Tector 240E30,KIW4424,3,CD Montes Claros,Montes Claros,MG,CD Campinas,Campinas,SP,2026-02-26 11:45:40,2026-02-28 11:45:40,2026-03-15 11:45:40,1735.03,1872.481
+188,326,Srta. Maria Luísa Ramos,da Conceição Grande,PB,28,Volvo VM 270,NOG4159,3,CD Betim,Betim,MG,CD Niterói,Niterói,RJ,2026-06-25 19:49:13,2026-07-09 19:49:13,,1171.19,1985.053
+605,326,Srta. Maria Luísa Ramos,da Conceição Grande,PB,24,Volkswagen Delivery 11.180,SBS6419,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Três Lagoas,Três Lagoas,MS,2026-06-17 18:08:12,2026-06-28 18:08:12,,1182.12,1031.294
+70,328,Maria Laura da Paz,Siqueira,AP,20,Volkswagen Amarok,LDU5797,2,CD Macapá,Macapá,AP,CD Pelotas,Pelotas,RS,2026-05-08 14:47:04,2026-05-18 14:47:04,2026-05-16 14:47:04,442.33,575.92
+99,328,Maria Laura da Paz,Siqueira,AP,28,Volvo VM 270,NOG4159,3,CD Jundiaí,Jundiaí,SP,CD São José dos Campos,São José dos Campos,SP,2026-06-20 14:06:06,2026-06-23 14:06:06,,657.86,1099.84
+786,328,Maria Laura da Paz,Siqueira,AP,18,Chevrolet S10,HFY7172,2,CD Duque de Caxias,Duque de Caxias,RJ,CD Sobral,Sobral,CE,2026-04-01 00:41:02,2026-04-08 00:41:02,2026-04-18 00:41:02,765.42,671.358
+822,330,Stella Aragão,Pimenta de Abreu,PI,18,Chevrolet S10,HFY7172,2,CD Betim,Betim,MG,CD Ribeirão Preto,Ribeirão Preto,SP,2026-04-25 14:36:24,2026-04-29 14:36:24,2026-05-06 14:36:24,218.28,390.188
+424,331,Alícia Andrade,Melo,SC,27,Scania P320,DCB9288,3,CD Itajaí,Itajaí,SC,CD Contagem,Contagem,MG,2026-01-26 02:11:11,2026-02-10 02:11:11,2026-02-03 02:11:11,1060.48,1230.195
+569,332,Srta. Letícia Macedo,da Rocha,AC,24,Volkswagen Delivery 11.180,SBS6419,3,CD Camaçari,Camaçari,BA,CD Imperatriz,Imperatriz,MA,2026-01-06 23:08:46,2026-01-07 23:08:46,2026-01-15 23:08:46,508.93,1096.471
+757,332,Srta. Letícia Macedo,da Rocha,AC,17,Toyota Hilux,XHD6644,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Campo Grande,Campo Grande,MS,2026-04-26 21:45:32,2026-05-07 21:45:32,2026-05-05 21:45:32,427.68,337.2
+920,333,José Lima,Pacheco Alegre,ES,20,Volkswagen Amarok,LDU5797,2,CD Jundiaí,Jundiaí,SP,CD Maringá,Maringá,PR,2026-01-20 05:14:18,2026-02-01 05:14:18,2026-01-25 05:14:18,444.61,406.725
+46,335,Benicio Cassiano,Monteiro,RR,24,Volkswagen Delivery 11.180,SBS6419,3,CD Vila Velha,Vila Velha,ES,CD Feira de Santana,Feira de Santana,BA,2026-05-18 23:36:06,2026-05-29 23:36:06,,815.55,1958.109
+537,335,Benicio Cassiano,Monteiro,RR,18,Chevrolet S10,HFY7172,2,CD Volta Redonda,Volta Redonda,RJ,CD Arapiraca,Arapiraca,AL,2026-04-18 21:24:26,2026-04-19 21:24:26,2026-04-23 21:24:26,661.66,546.053
+984,335,Benicio Cassiano,Monteiro,RR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Manaus,Manaus,AM,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-06-10 07:11:05,2026-06-14 07:11:05,,1485.12,1641.87
+466,338,José Miguel Cardoso,Andrade,AL,20,Volkswagen Amarok,LDU5797,2,CD Barueri,Barueri,SP,CD Dourados,Dourados,MS,2026-05-11 00:01:58,2026-05-16 00:01:58,2026-05-24 00:01:58,226.57,503.113
+325,340,Sra. Bianca Viana,Cardoso de Viana,PR,29,Iveco Tector 240E30,KIW4424,3,CD Cascavel,Cascavel,PR,CD Uberaba,Uberaba,MG,2026-02-01 12:59:10,2026-02-14 12:59:10,2026-02-07 12:59:10,834.79,1295.251
+994,340,Sra. Bianca Viana,Cardoso de Viana,PR,22,Renault Master,JVZ8251,3,CD Santarém,Santarém,PA,CD Boa Vista,Boa Vista,RR,2026-06-03 04:57:25,2026-06-17 04:57:25,2026-06-14 04:57:25,1171.61,1282.029
+343,341,Fernanda da Rocha,Nunes do Sul,RS,6,Chevrolet Prisma,VTX3790,1,CD Sobral,Sobral,CE,CD Uberaba,Uberaba,MG,2026-02-12 17:49:00,2026-02-18 17:49:00,2026-02-23 17:49:00,55.71,35.669
+698,341,Fernanda da Rocha,Nunes do Sul,RS,29,Iveco Tector 240E30,KIW4424,3,CD Canoas,Canoas,RS,CD João Pessoa,João Pessoa,PB,2026-06-09 04:56:20,2026-06-24 04:56:20,2026-06-26 04:56:20,979.07,1285.026
+434,342,Cecília Sampaio,Cavalcanti de Pastor,RS,18,Chevrolet S10,HFY7172,2,CD Ponta Grossa,Ponta Grossa,PR,CD Macapá,Macapá,AP,2026-03-08 14:09:54,2026-03-17 14:09:54,2026-03-22 14:09:54,223.48,176.479
+551,343,Srta. Sophie Ferreira,Silveira de Goiás,RO,19,Ford Ranger,YTU8726,2,CD Brasília,Brasília,DF,CD Palmas,Palmas,TO,2026-02-07 09:21:14,2026-02-17 09:21:14,2026-02-17 09:21:14,508.91,837.273
+78,344,Thiago Vieira,Melo,RS,21,Mercedes-Benz Sprinter,WDM2991,3,CD Goiânia,Goiânia,GO,CD Governador Valadares,Governador Valadares,MG,2026-04-09 16:49:41,2026-04-15 16:49:41,2026-04-14 16:49:41,1196.03,1155.107
+578,344,Thiago Vieira,Melo,RS,29,Iveco Tector 240E30,KIW4424,3,CD Santa Maria,Santa Maria,RS,CD Juazeiro,Juazeiro,BA,2025-12-30 18:49:57,2026-01-01 18:49:57,2026-01-12 18:49:57,2190.4,1855.61
+775,344,Thiago Vieira,Melo,RS,16,Fiat Toro,COX0501,2,CD Caxias do Sul,Caxias do Sul,RS,CD Belém,Belém,PA,2026-01-05 00:36:49,2026-01-16 00:36:49,,236.06,503.777
+603,346,Lucas Gabriel Martins,Siqueira do Galho,MS,20,Volkswagen Amarok,LDU5797,2,CD Caxias do Sul,Caxias do Sul,RS,CD Linhares,Linhares,ES,2026-04-11 14:00:39,2026-04-20 14:00:39,2026-04-22 14:00:39,916.8,942.078
+940,346,Lucas Gabriel Martins,Siqueira do Galho,MS,16,Fiat Toro,COX0501,2,CD Uberaba,Uberaba,MG,CD Sobral,Sobral,CE,2026-05-24 00:50:35,2026-06-03 00:50:35,,408.84,520.911
+566,350,Sabrina Vasconcelos,Viana de Aparecida,MA,16,Fiat Toro,COX0501,2,CD Mossoró,Mossoró,RN,CD Aracaju,Aracaju,SE,2026-04-19 04:38:33,2026-04-30 04:38:33,2026-04-27 04:38:33,652.22,710.301
+888,352,Fernando da Mata,Montenegro da Praia,PA,29,Iveco Tector 240E30,KIW4424,3,CD Feira de Santana,Feira de Santana,BA,CD Pelotas,Pelotas,RS,2026-06-01 00:05:23,2026-06-05 00:05:23,2026-06-12 00:05:23,1313.32,1517.254
+643,353,Ana Clara Leão,Fogaça,BA,16,Fiat Toro,COX0501,2,CD Boa Vista,Boa Vista,RR,CD Juiz de Fora,Juiz de Fora,MG,2026-01-30 05:08:32,2026-02-02 05:08:32,,88.53,121.586
+884,354,Dr. Vinicius Camargo,Dias,GO,17,Toyota Hilux,XHD6644,2,CD Pelotas,Pelotas,RS,CD São Luís,São Luís,MA,2026-05-21 09:25:23,2026-05-23 09:25:23,,506.71,469.433
+278,355,Sr. Marcos Vinicius Rocha,Vieira,RN,24,Volkswagen Delivery 11.180,SBS6419,3,CD Goiânia,Goiânia,GO,CD Feira de Santana,Feira de Santana,BA,2026-02-26 03:45:49,2026-03-10 03:45:49,,1647.71,1719.784
+191,357,Bryan Jesus,Cardoso,MG,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Contagem,Contagem,MG,CD Duque de Caxias,Duque de Caxias,RJ,2026-05-07 11:40:57,2026-05-12 11:40:57,2026-05-16 11:40:57,1551.21,1766.614
+597,359,Ana Liz Cardoso,Fonseca,BA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-06-13 08:19:58,2026-06-22 08:19:58,2026-06-25 08:19:58,942.61,1314.191
+249,361,Carolina Cardoso,Andrade,DF,17,Toyota Hilux,XHD6644,2,CD Canoas,Canoas,RS,CD Goiânia,Goiânia,GO,2026-06-10 21:07:44,2026-06-20 21:07:44,,82.63,117.421
+366,362,Erick da Mota,Cunha Paulista,AL,23,Fiat Ducato,AUR0775,3,CD Betim,Betim,MG,CD Brasília,Brasília,DF,2026-06-11 19:17:42,2026-06-19 19:17:42,2026-06-28 19:17:42,1867.8,1897.043
+604,363,Luiz Gustavo Albuquerque,Marques,MT,16,Fiat Toro,COX0501,2,CD Piracicaba,Piracicaba,SP,CD Campo Grande,Campo Grande,MS,2026-06-23 06:06:15,2026-06-29 06:06:15,,554.93,907.301
+627,363,Luiz Gustavo Albuquerque,Marques,MT,30,DAF XF 480,KSZ8486,3,CD Pelotas,Pelotas,RS,CD Araraquara,Araraquara,SP,2026-05-04 11:14:10,2026-05-08 11:14:10,2026-05-13 11:14:10,550.43,1098.782
+240,365,Stella Ribeiro,Porto de da Mota,RS,23,Fiat Ducato,AUR0775,3,CD Uberlândia,Uberlândia,MG,CD Florianópolis,Florianópolis,SC,2026-05-30 23:53:56,2026-06-05 23:53:56,2026-06-14 23:53:56,1441.86,1350.729
+355,365,Stella Ribeiro,Porto de da Mota,RS,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Recife,Recife,PE,CD Cascavel,Cascavel,PR,2026-01-31 05:52:57,2026-02-13 05:52:57,2026-02-11 05:52:57,1082.22,1543.357
+959,365,Stella Ribeiro,Porto de da Mota,RS,28,Volvo VM 270,NOG4159,3,CD Natal,Natal,RN,CD Chapecó,Chapecó,SC,2026-03-19 11:55:10,2026-03-30 11:55:10,2026-03-30 11:55:10,796.05,1043.837
+545,369,Maria Moreira,Sampaio de da Paz,SP,20,Volkswagen Amarok,LDU5797,2,CD Uberlândia,Uberlândia,MG,CD Piracicaba,Piracicaba,SP,2026-01-06 01:10:27,2026-01-14 01:10:27,2026-01-16 01:10:27,171.57,307.869
+985,369,Maria Moreira,Sampaio de da Paz,SP,16,Fiat Toro,COX0501,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Guarulhos,Guarulhos,SP,2026-02-23 23:25:00,2026-03-04 23:25:00,,460.03,721.987
+20,370,Bernardo Machado,Pires do Norte,MG,30,DAF XF 480,KSZ8486,3,CD Taubaté,Taubaté,SP,CD Uberaba,Uberaba,MG,2026-01-14 12:17:03,2026-01-19 12:17:03,2026-01-15 12:17:03,1734.67,1456.688
+413,370,Bernardo Machado,Pires do Norte,MG,18,Chevrolet S10,HFY7172,2,CD Caxias do Sul,Caxias do Sul,RS,CD Anápolis,Anápolis,GO,2026-05-12 17:51:15,2026-05-23 17:51:15,2026-05-28 17:51:15,278.3,293.024
+945,371,Bryan da Mata,Farias do Oeste,AP,27,Scania P320,DCB9288,3,CD Pelotas,Pelotas,RS,CD Brasília,Brasília,DF,2026-06-24 01:33:14,2026-06-26 01:33:14,,499.32,1085.213
+482,373,Leonardo Ribeiro,Ferreira,ES,16,Fiat Toro,COX0501,2,CD Mossoró,Mossoró,RN,CD Criciúma,Criciúma,SC,2026-01-25 19:23:58,2026-02-05 19:23:58,,656.47,986.867
+892,373,Leonardo Ribeiro,Ferreira,ES,21,Mercedes-Benz Sprinter,WDM2991,3,CD Piracicaba,Piracicaba,SP,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-02-09 12:56:12,2026-02-17 12:56:12,,920.09,1276.581
+868,374,Caleb Sampaio,da Costa,CE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Sobral,Sobral,CE,CD Uberaba,Uberaba,MG,2026-02-20 23:30:13,2026-02-25 23:30:13,,994.33,1226.488
+74,375,Maria Cecília Castro,Pimenta,MG,29,Iveco Tector 240E30,KIW4424,3,CD Pelotas,Pelotas,RS,CD Anápolis,Anápolis,GO,2026-05-14 13:36:22,2026-05-24 13:36:22,2026-05-20 13:36:22,1594.51,1851.233
+660,377,Dr. Lucas Gabriel Rocha,Moraes,SE,16,Fiat Toro,COX0501,2,CD Bauru,Bauru,SP,CD Rondonópolis,Rondonópolis,MT,2026-01-10 11:34:32,2026-01-18 11:34:32,2026-01-23 11:34:32,380.01,609.002
+29,378,Luna Casa Grande,Cavalcanti do Sul,MS,16,Fiat Toro,COX0501,2,CD Guarulhos,Guarulhos,SP,CD Betim,Betim,MG,2026-02-13 05:47:38,2026-02-17 05:47:38,,662.15,722.264
+633,379,Gael Henrique Duarte,Rios,RS,22,Renault Master,JVZ8251,3,CD Vitória,Vitória,ES,CD Santa Maria,Santa Maria,RS,2026-02-21 05:53:10,2026-03-02 05:53:10,2026-02-25 05:53:10,817.31,1415.207
+662,379,Gael Henrique Duarte,Rios,RS,16,Fiat Toro,COX0501,2,CD Vila Velha,Vila Velha,ES,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-01-09 09:42:57,2026-01-23 09:42:57,2026-01-20 09:42:57,840.0,904.77
+968,379,Gael Henrique Duarte,Rios,RS,20,Volkswagen Amarok,LDU5797,2,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Campina Grande,Campina Grande,PB,2026-02-04 11:16:51,2026-02-06 11:16:51,2026-02-06 11:16:51,209.23,267.18
+547,382,Guilherme Lopes,Barros,SE,23,Fiat Ducato,AUR0775,3,CD Criciúma,Criciúma,SC,CD Santarém,Santarém,PA,2026-03-04 03:18:07,2026-03-16 03:18:07,2026-03-05 03:18:07,1139.02,1492.564
+523,384,Arthur Correia,Almeida,PI,17,Toyota Hilux,XHD6644,2,CD Marabá,Marabá,PA,CD Bauru,Bauru,SP,2026-03-20 17:24:21,2026-03-30 17:24:21,2026-04-07 17:24:21,645.19,648.904
+26,386,Sabrina Alves,Campos,TO,16,Fiat Toro,COX0501,2,CD Três Lagoas,Três Lagoas,MS,CD Mossoró,Mossoró,RN,2026-04-20 04:23:25,2026-04-27 04:23:25,,710.39,634.253
+400,386,Sabrina Alves,Campos,TO,16,Fiat Toro,COX0501,2,CD Santos,Santos,SP,CD São Carlos,São Carlos,SP,2026-05-23 20:57:11,2026-05-27 20:57:11,,377.93,426.564
+23,387,Gustavo Jesus,Rezende da Mata,RO,22,Renault Master,JVZ8251,3,CD Macapá,Macapá,AP,CD Niterói,Niterói,RJ,2026-05-16 02:56:27,2026-05-31 02:56:27,2026-05-19 02:56:27,937.5,1899.687
+910,388,Dom Silva,Andrade de Minas,BA,17,Toyota Hilux,XHD6644,2,CD Campina Grande,Campina Grande,PB,CD Sobral,Sobral,CE,2026-03-08 06:14:35,2026-03-21 06:14:35,2026-03-21 06:14:35,266.87,515.637
+381,390,Ana Cecília Vieira,Brito,ES,24,Volkswagen Delivery 11.180,SBS6419,3,CD Guarulhos,Guarulhos,SP,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-04-03 14:34:40,2026-04-11 14:34:40,,1127.0,1417.215
+322,391,Sra. Pietra Andrade,Guerra,RJ,29,Iveco Tector 240E30,KIW4424,3,CD Jundiaí,Jundiaí,SP,CD Boa Vista,Boa Vista,RR,2026-03-14 23:31:42,2026-03-27 23:31:42,2026-03-28 23:31:42,945.63,1756.884
+107,394,Kevin Albuquerque,Sampaio de Camargo,AL,21,Mercedes-Benz Sprinter,WDM2991,3,CD Santa Maria,Santa Maria,RS,CD Marabá,Marabá,PA,2026-02-06 06:10:08,2026-02-07 06:10:08,,1144.61,1679.723
+300,395,Augusto Rodrigues,Dias de Câmara,DF,23,Fiat Ducato,AUR0775,3,CD São Paulo,São Paulo,SP,CD Marabá,Marabá,PA,2026-03-15 01:20:13,2026-03-28 01:20:13,,1953.5,1963.183
+53,396,Gael Henrique Pereira,Cavalcante do Amparo,RR,2,Fiat Uno,PLK0996,1,CD Governador Valadares,Governador Valadares,MG,CD Sorocaba,Sorocaba,SP,2026-03-22 23:40:27,2026-04-05 23:40:27,2026-03-27 23:40:27,125.3,89.559
+619,396,Gael Henrique Pereira,Cavalcante do Amparo,RR,12,Renault Kwid,FSP8142,1,CD Londrina,Londrina,PR,CD Taubaté,Taubaté,SP,2026-04-11 08:27:32,2026-04-14 08:27:32,2026-04-22 08:27:32,96.22,63.094
+100,398,Ian da Rocha,Farias Paulista,SP,16,Fiat Toro,COX0501,2,CD Joinville,Joinville,SC,CD Boa Vista,Boa Vista,RR,2026-02-17 06:00:32,2026-02-28 06:00:32,2026-02-18 06:00:32,1039.07,990.978
+358,398,Ian da Rocha,Farias Paulista,SP,21,Mercedes-Benz Sprinter,WDM2991,3,CD Maceió,Maceió,AL,CD Itajaí,Itajaí,SC,2026-03-26 04:51:40,2026-04-05 04:51:40,2026-04-01 04:51:40,1249.56,1477.373
+587,398,Ian da Rocha,Farias Paulista,SP,27,Scania P320,DCB9288,3,CD Osasco,Osasco,SP,CD Aracaju,Aracaju,SE,2026-03-31 05:54:46,2026-04-11 05:54:46,,1650.73,1764.951
+642,398,Ian da Rocha,Farias Paulista,SP,17,Toyota Hilux,XHD6644,2,CD Criciúma,Criciúma,SC,CD Serra,Serra,ES,2025-12-31 18:14:09,2026-01-06 18:14:09,2026-01-01 18:14:09,263.88,360.944
+167,399,Sr. Joaquim da Cunha,Almeida,AC,17,Toyota Hilux,XHD6644,2,CD Criciúma,Criciúma,SC,CD São Paulo,São Paulo,SP,2026-05-31 23:01:42,2026-06-14 23:01:42,2026-06-04 23:01:42,313.26,356.65
+936,399,Sr. Joaquim da Cunha,Almeida,AC,16,Fiat Toro,COX0501,2,CD São Luís,São Luís,MA,CD Blumenau,Blumenau,SC,2026-04-03 18:33:37,2026-04-15 18:33:37,2026-04-14 18:33:37,378.98,606.998
+142,400,Pedro Lucas Aparecida,da Costa do Amparo,SE,29,Iveco Tector 240E30,KIW4424,3,CD Palmas,Palmas,TO,CD Rio Branco,Rio Branco,AC,2026-01-18 09:39:17,2026-01-27 09:39:17,2026-01-21 09:39:17,967.99,1091.129
+218,402,Isis Cassiano,Câmara Verde,MT,19,Ford Ranger,YTU8726,2,CD Governador Valadares,Governador Valadares,MG,CD Florianópolis,Florianópolis,SC,2026-04-28 06:35:01,2026-05-03 06:35:01,2026-05-08 06:35:01,892.59,909.069
+696,402,Isis Cassiano,Câmara Verde,MT,18,Chevrolet S10,HFY7172,2,CD Vila Velha,Vila Velha,ES,CD Parnaíba,Parnaíba,PI,2026-03-27 11:06:23,2026-03-30 11:06:23,2026-04-07 11:06:23,747.59,745.216
+837,403,Dra. Vitória Sá,Freitas do Norte,RR,17,Toyota Hilux,XHD6644,2,CD Osasco,Osasco,SP,CD Curitiba,Curitiba,PR,2026-02-08 04:26:49,2026-02-10 04:26:49,2026-02-20 04:26:49,998.38,845.993
+983,404,Natália Rodrigues,Siqueira de Goiás,GO,28,Volvo VM 270,NOG4159,3,CD Volta Redonda,Volta Redonda,RJ,CD Mossoró,Mossoró,RN,2026-05-30 10:18:01,2026-06-10 10:18:01,2026-06-05 10:18:01,1261.58,1673.708
+582,405,Srta. Carolina Campos,Viana de Machado,CE,27,Scania P320,DCB9288,3,CD Governador Valadares,Governador Valadares,MG,CD Feira de Santana,Feira de Santana,BA,2026-01-27 17:36:26,2026-02-03 17:36:26,2026-01-30 17:36:26,904.33,1461.964
+661,405,Srta. Carolina Campos,Viana de Machado,CE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Sinop,Sinop,MT,CD Barueri,Barueri,SP,2025-12-30 11:44:54,2026-01-04 11:44:54,2026-01-01 11:44:54,1468.41,1760.421
+82,406,Zoe Teixeira,Aragão de Azevedo,GO,16,Fiat Toro,COX0501,2,CD Araguaína,Araguaína,TO,CD Porto Alegre,Porto Alegre,RS,2026-06-06 14:20:33,2026-06-16 14:20:33,,241.41,224.498
+236,409,Enrico Novais,da Cruz,DF,16,Fiat Toro,COX0501,2,CD Vitória,Vitória,ES,CD Cuiabá,Cuiabá,MT,2026-01-06 14:48:40,2026-01-19 14:48:40,2026-01-14 14:48:40,483.66,841.991
+519,410,João Miguel da Cruz,Pereira da Mata,RN,12,Renault Kwid,FSP8142,1,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Caxias do Sul,Caxias do Sul,RS,2026-02-04 09:39:01,2026-02-14 09:39:01,2026-02-16 09:39:01,89.33,60.069
+755,410,João Miguel da Cruz,Pereira da Mata,RN,24,Volkswagen Delivery 11.180,SBS6419,3,CD Belo Horizonte,Belo Horizonte,MG,CD Belém,Belém,PA,2026-06-22 06:36:29,2026-06-29 06:36:29,,1527.17,1676.844
+30,411,Isabel Ferreira,Aragão Alegre,PI,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Boa Vista,Boa Vista,RR,CD Campo Grande,Campo Grande,MS,2026-06-04 22:00:54,2026-06-10 22:00:54,2026-06-11 22:00:54,1201.89,1163.949
+260,411,Isabel Ferreira,Aragão Alegre,PI,20,Volkswagen Amarok,LDU5797,2,CD Limeira,Limeira,SP,CD Volta Redonda,Volta Redonda,RJ,2026-05-30 07:18:54,2026-06-03 07:18:54,2026-06-05 07:18:54,459.98,437.592
+320,414,João Felipe Rodrigues,Farias de Ramos,AL,24,Volkswagen Delivery 11.180,SBS6419,3,CD Imperatriz,Imperatriz,MA,CD Araçatuba,Araçatuba,SP,2026-01-04 11:35:36,2026-01-06 11:35:36,2026-01-07 11:35:36,916.65,1366.246
+376,414,João Felipe Rodrigues,Farias de Ramos,AL,19,Ford Ranger,YTU8726,2,CD Salvador,Salvador,BA,CD Limeira,Limeira,SP,2026-04-10 22:49:48,2026-04-13 22:49:48,2026-04-15 22:49:48,170.27,150.96
+825,414,João Felipe Rodrigues,Farias de Ramos,AL,20,Volkswagen Amarok,LDU5797,2,CD Caxias do Sul,Caxias do Sul,RS,CD Porto Velho,Porto Velho,RO,2026-05-17 19:23:06,2026-05-28 19:23:06,,777.31,637.342
+912,414,João Felipe Rodrigues,Farias de Ramos,AL,23,Fiat Ducato,AUR0775,3,CD Santa Maria,Santa Maria,RS,CD Boa Vista,Boa Vista,RR,2026-04-18 22:29:52,2026-05-01 22:29:52,2026-05-02 22:29:52,1227.91,1537.061
+36,416,Sra. Maria Eduarda Ferreira,Lima,MT,21,Mercedes-Benz Sprinter,WDM2991,3,CD Recife,Recife,PE,CD Camaçari,Camaçari,BA,2026-02-02 18:32:56,2026-02-04 18:32:56,2026-02-16 18:32:56,791.6,1414.127
+336,417,Ana Laura Novais,Santos Paulista,GO,17,Toyota Hilux,XHD6644,2,CD Betim,Betim,MG,CD Linhares,Linhares,ES,2026-03-17 03:29:43,2026-03-27 03:29:43,2026-03-28 03:29:43,654.9,816.01
+361,417,Ana Laura Novais,Santos Paulista,GO,16,Fiat Toro,COX0501,2,CD São José dos Campos,São José dos Campos,SP,CD Manaus,Manaus,AM,2026-05-02 02:38:36,2026-05-08 02:38:36,2026-05-15 02:38:36,682.73,788.768
+459,417,Ana Laura Novais,Santos Paulista,GO,29,Iveco Tector 240E30,KIW4424,3,CD Ponta Grossa,Ponta Grossa,PR,CD Boa Vista,Boa Vista,RR,2026-06-08 16:33:47,2026-06-22 16:33:47,2026-06-10 16:33:47,949.94,1213.779
+284,418,Sr. Davi Lucca Martins,Duarte,AL,16,Fiat Toro,COX0501,2,CD Cascavel,Cascavel,PR,CD Santarém,Santarém,PA,2026-05-01 16:55:32,2026-05-05 16:55:32,,997.53,923.434
+283,419,Breno Sales,Rocha,AM,18,Chevrolet S10,HFY7172,2,CD João Pessoa,João Pessoa,PB,CD Aracaju,Aracaju,SE,2026-04-30 19:33:41,2026-05-13 19:33:41,2026-05-17 19:33:41,368.19,317.748
+368,419,Breno Sales,Rocha,AM,30,DAF XF 480,KSZ8486,3,CD São Luís,São Luís,MA,CD Recife,Recife,PE,2026-05-19 00:07:22,2026-05-26 00:07:22,2026-06-06 00:07:22,699.95,1052.15
+843,419,Breno Sales,Rocha,AM,30,DAF XF 480,KSZ8486,3,CD Boa Vista,Boa Vista,RR,CD Sorocaba,Sorocaba,SP,2026-03-27 09:21:10,2026-04-03 09:21:10,2026-04-11 09:21:10,815.28,1451.208
+988,420,Joaquim Marques,Freitas de Ferreira,MA,19,Ford Ranger,YTU8726,2,CD Chapecó,Chapecó,SC,CD Rio Branco,Rio Branco,AC,2026-06-22 03:55:16,2026-06-24 03:55:16,,720.85,593.754
+613,421,Ana Beatriz Jesus,Araújo do Oeste,RN,29,Iveco Tector 240E30,KIW4424,3,CD Juazeiro,Juazeiro,BA,CD Caruaru,Caruaru,PE,2026-06-19 15:04:14,2026-06-26 15:04:14,,836.31,1375.173
+332,422,Maria Eduarda Moura,Monteiro,MA,16,Fiat Toro,COX0501,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Montes Claros,Montes Claros,MG,2026-04-01 20:48:29,2026-04-08 20:48:29,2026-04-10 20:48:29,498.69,515.901
+24,423,Davi Novais,da Paz Verde,RN,23,Fiat Ducato,AUR0775,3,CD Volta Redonda,Volta Redonda,RJ,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-05-16 04:11:30,2026-05-29 04:11:30,,1310.71,1226.35
+202,424,Thomas Cirino,da Conceição de Montenegro,RS,28,Volvo VM 270,NOG4159,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Caruaru,Caruaru,PE,2025-12-31 00:23:35,2026-01-11 00:23:35,2026-01-11 00:23:35,642.48,1532.507
+356,425,Matteo da Mota,Cavalcanti,SE,16,Fiat Toro,COX0501,2,CD Montes Claros,Montes Claros,MG,CD Feira de Santana,Feira de Santana,BA,2026-01-09 20:48:53,2026-01-11 20:48:53,,396.19,442.526
+669,426,Caroline Sá,Cassiano das Pedras,SC,30,DAF XF 480,KSZ8486,3,CD Ananindeua,Ananindeua,PA,CD Salvador,Salvador,BA,2026-02-03 14:17:04,2026-02-06 14:17:04,,1349.66,1192.374
+89,427,Dra. Ísis Carvalho,Cavalcante,PA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Criciúma,Criciúma,SC,CD Rondonópolis,Rondonópolis,MT,2026-05-22 02:38:14,2026-06-01 02:38:14,2026-05-27 02:38:14,1038.27,1529.49
+146,427,Dra. Ísis Carvalho,Cavalcante,PA,16,Fiat Toro,COX0501,2,CD Presidente Prudente,Presidente Prudente,SP,CD Uberlândia,Uberlândia,MG,2026-05-18 13:50:35,2026-05-28 13:50:35,2026-05-19 13:50:35,537.62,748.899
+445,427,Dra. Ísis Carvalho,Cavalcante,PA,22,Renault Master,JVZ8251,3,CD Rio Branco,Rio Branco,AC,CD Guarulhos,Guarulhos,SP,2026-02-05 10:46:21,2026-02-18 10:46:21,2026-02-19 10:46:21,1168.55,1197.254
+729,427,Dra. Ísis Carvalho,Cavalcante,PA,23,Fiat Ducato,AUR0775,3,CD Jundiaí,Jundiaí,SP,CD Porto Alegre,Porto Alegre,RS,2026-02-24 14:30:04,2026-02-28 14:30:04,2026-03-06 14:30:04,1712.23,1843.176
+736,427,Dra. Ísis Carvalho,Cavalcante,PA,19,Ford Ranger,YTU8726,2,CD Cascavel,Cascavel,PR,CD Teresina,Teresina,PI,2026-01-24 03:20:19,2026-02-02 03:20:19,2026-01-31 03:20:19,208.93,183.162
+83,429,Luísa Porto,Martins Paulista,RO,20,Volkswagen Amarok,LDU5797,2,CD Volta Redonda,Volta Redonda,RJ,CD Imperatriz,Imperatriz,MA,2026-03-28 22:55:17,2026-04-09 22:55:17,,160.67,151.67
+373,430,Júlia Pastor,Leão,AP,30,DAF XF 480,KSZ8486,3,CD Manaus,Manaus,AM,CD Florianópolis,Florianópolis,SC,2026-01-18 03:33:12,2026-01-28 03:33:12,2026-01-27 03:33:12,1646.83,1389.601
+447,431,Maria Luísa Nogueira,Correia,SC,28,Volvo VM 270,NOG4159,3,CD Santarém,Santarém,PA,CD Volta Redonda,Volta Redonda,RJ,2026-04-17 06:14:38,2026-04-29 06:14:38,2026-04-28 06:14:38,1461.29,1236.847
+863,431,Maria Luísa Nogueira,Correia,SC,17,Toyota Hilux,XHD6644,2,CD Vila Velha,Vila Velha,ES,CD São José dos Campos,São José dos Campos,SP,2026-05-30 20:53:41,2026-06-01 20:53:41,2026-06-14 20:53:41,524.45,582.898
+102,432,Ana Carolina Viana,Sá do Campo,SP,20,Volkswagen Amarok,LDU5797,2,CD Parnaíba,Parnaíba,PI,CD Montes Claros,Montes Claros,MG,2026-01-14 18:11:41,2026-01-21 18:11:41,2026-01-27 18:11:41,663.02,766.617
+364,437,Maria Luísa da Costa,Carvalho Alegre,PI,21,Mercedes-Benz Sprinter,WDM2991,3,CD Betim,Betim,MG,CD Itajaí,Itajaí,SC,2026-04-28 03:04:42,2026-05-05 03:04:42,2026-05-05 03:04:42,813.36,1449.314
+532,437,Maria Luísa da Costa,Carvalho Alegre,PI,19,Ford Ranger,YTU8726,2,CD Maceió,Maceió,AL,CD São Paulo,São Paulo,SP,2026-06-06 23:20:31,2026-06-18 23:20:31,,637.25,578.106
+733,443,Caroline Barbosa,Marques de Freitas,RJ,20,Volkswagen Amarok,LDU5797,2,CD Campinas,Campinas,SP,CD Fortaleza,Fortaleza,CE,2026-03-03 17:38:24,2026-03-08 17:38:24,2026-03-16 17:38:24,1016.7,891.688
+929,443,Caroline Barbosa,Marques de Freitas,RJ,16,Fiat Toro,COX0501,2,CD João Pessoa,João Pessoa,PB,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-06-08 23:48:44,2026-06-11 23:48:44,2026-06-17 23:48:44,354.9,348.299
+612,444,Maria Laura Sá,Vieira de Nascimento,PB,24,Volkswagen Delivery 11.180,SBS6419,3,CD Campina Grande,Campina Grande,PB,CD Vitória da Conquista,Vitória da Conquista,BA,2026-06-20 02:39:01,2026-06-25 02:39:01,2026-06-28 02:39:01,1995.82,1672.447
+275,446,Ana Vitória Marques,Caldeira,ES,17,Toyota Hilux,XHD6644,2,CD Uberaba,Uberaba,MG,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-01-05 18:47:00,2026-01-12 18:47:00,2026-01-09 18:47:00,480.49,841.551
+404,447,Benjamim Cardoso,Marques do Norte,BA,16,Fiat Toro,COX0501,2,CD Jundiaí,Jundiaí,SP,CD Marília,Marília,SP,2026-04-24 03:29:18,2026-05-01 03:29:18,2026-05-05 03:29:18,636.11,927.882
+601,447,Benjamim Cardoso,Marques do Norte,BA,30,DAF XF 480,KSZ8486,3,CD Araguaína,Araguaína,TO,CD Fortaleza,Fortaleza,CE,2026-04-06 15:13:50,2026-04-07 15:13:50,2026-04-24 15:13:50,812.87,1624.384
+222,449,Dr. Cauê Cirino,Barros,BA,30,DAF XF 480,KSZ8486,3,CD Belo Horizonte,Belo Horizonte,MG,CD Manaus,Manaus,AM,2026-01-08 16:03:19,2026-01-23 16:03:19,2026-01-25 16:03:19,1606.77,1999.713
+299,449,Dr. Cauê Cirino,Barros,BA,16,Fiat Toro,COX0501,2,CD Taubaté,Taubaté,SP,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-05-10 19:04:41,2026-05-21 19:04:41,2026-05-17 19:04:41,468.18,470.744
+947,449,Dr. Cauê Cirino,Barros,BA,23,Fiat Ducato,AUR0775,3,CD Sobral,Sobral,CE,CD Salvador,Salvador,BA,2026-06-10 15:43:16,2026-06-13 15:43:16,2026-06-12 15:43:16,1503.64,1328.827
+858,450,Rael Siqueira,Gomes,SP,17,Toyota Hilux,XHD6644,2,CD Ponta Grossa,Ponta Grossa,PR,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-01-27 18:08:10,2026-02-11 18:08:10,2026-01-28 18:08:10,348.63,615.462
+812,454,Lara Carvalho,Guerra do Amparo,AM,16,Fiat Toro,COX0501,2,CD Ponta Grossa,Ponta Grossa,PR,CD Londrina,Londrina,PR,2026-02-07 16:47:45,2026-02-08 16:47:45,,421.99,340.443
+674,455,Raul Silveira,Albuquerque,BA,20,Volkswagen Amarok,LDU5797,2,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Linhares,Linhares,ES,2026-01-11 00:50:01,2026-01-17 00:50:01,2026-01-14 00:50:01,173.43,131.152
+453,456,Arthur Miguel Pimenta,Lima das Flores,RS,28,Volvo VM 270,NOG4159,3,CD Arapiraca,Arapiraca,AL,CD Guarulhos,Guarulhos,SP,2026-01-28 21:19:13,2026-02-10 21:19:13,2026-02-09 21:19:13,797.19,1381.69
+926,457,Eloah Barbosa,da Mota,GO,20,Volkswagen Amarok,LDU5797,2,CD Porto Velho,Porto Velho,RO,CD Vila Velha,Vila Velha,ES,2026-04-28 20:34:41,2026-04-30 20:34:41,2026-05-13 20:34:41,696.98,581.059
+813,458,Maria Cecília Freitas,Aparecida de Goiás,MS,20,Volkswagen Amarok,LDU5797,2,CD Ribeirão Preto,Ribeirão Preto,SP,CD Marabá,Marabá,PA,2026-03-30 09:33:44,2026-04-09 09:33:44,2026-04-12 09:33:44,209.06,392.747
+493,460,Pedro Montenegro,Costa do Norte,DF,24,Volkswagen Delivery 11.180,SBS6419,3,CD São José dos Campos,São José dos Campos,SP,CD Juiz de Fora,Juiz de Fora,MG,2026-06-01 17:46:09,2026-06-04 17:46:09,,488.4,1074.91
+681,462,Maria Fernanda da Cruz,Viana,CE,27,Scania P320,DCB9288,3,CD Petrolina,Petrolina,PE,CD Recife,Recife,PE,2026-06-20 19:43:50,2026-06-29 19:43:50,,1356.97,1835.211
+272,463,Asafe Pereira,Nascimento da Serra,BA,22,Renault Master,JVZ8251,3,CD Goiânia,Goiânia,GO,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-06-21 17:29:57,2026-06-29 17:29:57,2026-06-25 17:29:57,825.81,1963.377
+45,464,Dr. Igor Sales,Brito,MG,19,Ford Ranger,YTU8726,2,CD Porto Velho,Porto Velho,RO,CD Santarém,Santarém,PA,2026-04-16 04:14:23,2026-04-23 04:14:23,2026-04-27 04:14:23,816.15,879.045
+48,464,Dr. Igor Sales,Brito,MG,19,Ford Ranger,YTU8726,2,CD Niterói,Niterói,RJ,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-04-10 01:18:21,2026-04-13 01:18:21,2026-04-23 01:18:21,335.54,315.627
+550,467,Isaac Azevedo,Duarte Grande,TO,24,Volkswagen Delivery 11.180,SBS6419,3,CD Dourados,Dourados,MS,CD Vitória,Vitória,ES,2026-06-02 09:06:47,2026-06-04 09:06:47,2026-06-05 09:06:47,1081.33,1049.178
+86,471,Vitor Gabriel Almeida,Abreu,ES,21,Mercedes-Benz Sprinter,WDM2991,3,CD Linhares,Linhares,ES,CD São Luís,São Luís,MA,2026-03-30 23:18:37,2026-03-31 23:18:37,2026-04-07 23:18:37,1649.85,1996.877
+517,471,Vitor Gabriel Almeida,Abreu,ES,17,Toyota Hilux,XHD6644,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Belém,Belém,PA,2026-03-19 15:47:18,2026-04-02 15:47:18,2026-03-20 15:47:18,431.48,839.346
+649,472,Dr. Enrico da Cunha,Silva da Prata,PI,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Juazeiro,Juazeiro,BA,2026-04-11 10:39:01,2026-04-21 10:39:01,2026-04-27 10:39:01,640.96,1049.307
+308,474,Sarah Costa,Freitas,AP,28,Volvo VM 270,NOG4159,3,CD Belém,Belém,PA,CD Cuiabá,Cuiabá,MT,2026-02-17 01:01:36,2026-03-03 01:01:36,2026-02-25 01:01:36,1132.59,1040.182
+372,474,Sarah Costa,Freitas,AP,14,Peugeot 208,IKO3579,1,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD São José dos Campos,São José dos Campos,SP,2025-12-30 03:57:56,2026-01-13 03:57:56,2026-01-03 03:57:56,79.74,83.816
+895,474,Sarah Costa,Freitas,AP,30,DAF XF 480,KSZ8486,3,CD Jundiaí,Jundiaí,SP,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-04-03 21:28:36,2026-04-08 21:28:36,2026-04-06 21:28:36,1523.39,1282.249
+761,475,Bruno da Rosa,Dias,PR,16,Fiat Toro,COX0501,2,CD Serra,Serra,ES,CD Londrina,Londrina,PR,2026-05-15 23:02:26,2026-05-17 23:02:26,2026-05-22 23:02:26,143.12,168.284
+943,475,Bruno da Rosa,Dias,PR,18,Chevrolet S10,HFY7172,2,CD Dourados,Dourados,MS,CD Belo Horizonte,Belo Horizonte,MG,2026-02-18 08:05:57,2026-02-26 08:05:57,2026-02-24 08:05:57,650.21,994.613
+462,478,Gabrielly Lopes,Cardoso,DF,7,Hyundai HB20,EOY4603,1,CD Palmas,Palmas,TO,CD Rio Verde,Rio Verde,GO,2026-01-03 00:42:27,2026-01-07 00:42:27,2026-01-16 00:42:27,65.59,95.428
+928,478,Gabrielly Lopes,Cardoso,DF,21,Mercedes-Benz Sprinter,WDM2991,3,CD Araraquara,Araraquara,SP,CD Ananindeua,Ananindeua,PA,2026-03-28 16:50:15,2026-04-02 16:50:15,,656.61,1492.454
+64,479,Júlia Montenegro,Pacheco,RO,26,Volkswagen Constellation 24.280,AEV8053,3,CD Mossoró,Mossoró,RN,CD Boa Vista,Boa Vista,RR,2026-03-05 20:44:49,2026-03-08 20:44:49,2026-03-16 20:44:49,2088.99,1905.039
+315,479,Júlia Montenegro,Pacheco,RO,20,Volkswagen Amarok,LDU5797,2,CD Parnaíba,Parnaíba,PI,CD Maringá,Maringá,PR,2026-03-16 22:32:49,2026-03-21 22:32:49,2026-03-27 22:32:49,106.18,111.715
+516,479,Júlia Montenegro,Pacheco,RO,20,Volkswagen Amarok,LDU5797,2,CD Novo Hamburgo,Novo Hamburgo,RS,CD Sobral,Sobral,CE,2026-01-19 09:41:30,2026-01-27 09:41:30,2026-02-03 09:41:30,309.45,455.894
+727,480,Leonardo da Mota,Alves de Andrade,PR,24,Volkswagen Delivery 11.180,SBS6419,3,CD Rio Verde,Rio Verde,GO,CD Piracicaba,Piracicaba,SP,2026-06-22 17:43:18,2026-06-27 17:43:18,,887.88,1914.994
+900,481,Gael Henrique Teixeira,Melo da Praia,RN,19,Ford Ranger,YTU8726,2,CD Montes Claros,Montes Claros,MG,CD Manaus,Manaus,AM,2026-04-14 01:10:27,2026-04-28 01:10:27,,337.68,422.871
+841,482,Zoe Gonçalves,da Luz Verde,AP,18,Chevrolet S10,HFY7172,2,CD Maringá,Maringá,PR,CD Maceió,Maceió,AL,2026-03-18 04:18:44,2026-04-02 04:18:44,2026-03-24 04:18:44,788.12,718.203
+871,482,Zoe Gonçalves,da Luz Verde,AP,16,Fiat Toro,COX0501,2,CD Presidente Prudente,Presidente Prudente,SP,CD Ribeirão Preto,Ribeirão Preto,SP,2026-03-10 12:47:48,2026-03-23 12:47:48,,380.7,603.755
+180,483,Ana Julia Albuquerque,Camargo,PA,16,Fiat Toro,COX0501,2,CD Sinop,Sinop,MT,CD Blumenau,Blumenau,SC,2026-04-25 03:29:01,2026-05-07 03:29:01,,139.31,100.531
+511,483,Ana Julia Albuquerque,Camargo,PA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Manaus,Manaus,AM,CD Limeira,Limeira,SP,2026-02-01 11:19:10,2026-02-16 11:19:10,2026-02-17 11:19:10,1348.3,1863.254
+514,483,Ana Julia Albuquerque,Camargo,PA,4,Volkswagen Polo,LIC4080,1,CD Volta Redonda,Volta Redonda,RJ,CD Porto Velho,Porto Velho,RO,2026-04-12 13:44:13,2026-04-14 13:44:13,2026-04-18 13:44:13,46.47,32.914
+989,483,Ana Julia Albuquerque,Camargo,PA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Betim,Betim,MG,CD Caruaru,Caruaru,PE,2026-02-10 09:30:26,2026-02-13 09:30:26,2026-02-15 09:30:26,669.51,1414.028
+704,484,Bianca Duarte,Camargo,MA,20,Volkswagen Amarok,LDU5797,2,CD Belo Horizonte,Belo Horizonte,MG,CD Santa Maria,Santa Maria,RS,2026-03-22 07:36:58,2026-03-28 07:36:58,,600.09,933.579
+827,484,Bianca Duarte,Camargo,MA,28,Volvo VM 270,NOG4159,3,CD Rondonópolis,Rondonópolis,MT,CD Taubaté,Taubaté,SP,2025-12-31 14:09:01,2026-01-01 14:09:01,,872.01,1187.383
+375,485,Mirella Barbosa,Aragão,TO,12,Renault Kwid,FSP8142,1,CD São Carlos,São Carlos,SP,CD Imperatriz,Imperatriz,MA,2026-04-13 14:48:22,2026-04-27 14:48:22,2026-04-22 14:48:22,82.62,76.935
+137,486,João Lucas da Rocha,Cardoso Grande,CE,29,Iveco Tector 240E30,KIW4424,3,CD Macapá,Macapá,AP,CD Belém,Belém,PA,2026-03-31 06:51:57,2026-04-11 06:51:57,2026-04-07 06:51:57,629.49,1347.355
+788,486,João Lucas da Rocha,Cardoso Grande,CE,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Volta Redonda,Volta Redonda,RJ,CD Uberaba,Uberaba,MG,2026-03-23 02:21:45,2026-03-31 02:21:45,2026-04-01 02:21:45,797.03,1778.783
+1,488,Maria Júlia Borges,da Mata Verde,AM,19,Ford Ranger,YTU8726,2,CD Volta Redonda,Volta Redonda,RJ,CD Sinop,Sinop,MT,2026-02-11 12:27:14,2026-02-17 12:27:14,2026-02-20 12:27:14,991.09,919.059
+342,489,Kamilly Novaes,Rodrigues do Norte,RS,17,Toyota Hilux,XHD6644,2,CD Rio Verde,Rio Verde,GO,CD Montes Claros,Montes Claros,MG,2026-04-17 05:33:17,2026-04-21 05:33:17,2026-04-24 05:33:17,145.14,243.21
+166,490,Bruna Cassiano,Nunes,ES,26,Volkswagen Constellation 24.280,AEV8053,3,CD Volta Redonda,Volta Redonda,RJ,CD Bauru,Bauru,SP,2026-04-18 19:17:34,2026-04-23 19:17:34,2026-04-26 19:17:34,1347.44,1179.563
+417,490,Bruna Cassiano,Nunes,ES,20,Volkswagen Amarok,LDU5797,2,CD Betim,Betim,MG,CD Palmas,Palmas,TO,2026-03-26 15:45:06,2026-04-05 15:45:06,2026-03-30 15:45:06,464.04,562.266
+666,490,Bruna Cassiano,Nunes,ES,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Macapá,Macapá,AP,CD Ribeirão Preto,Ribeirão Preto,SP,2026-02-07 05:25:13,2026-02-18 05:25:13,2026-02-18 05:25:13,2099.11,1855.382
+731,491,Isis Barbosa,Ribeiro,TO,23,Fiat Ducato,AUR0775,3,CD Feira de Santana,Feira de Santana,BA,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-02-07 16:59:46,2026-02-12 16:59:46,2026-02-19 16:59:46,1056.77,1467.038
+11,492,Pedro Almeida,Pereira de Casa Grande,BA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Belo Horizonte,Belo Horizonte,MG,CD Caruaru,Caruaru,PE,2026-06-20 00:45:26,2026-07-05 00:45:26,,1635.5,1444.554
+15,493,Ryan Melo,Campos,AC,19,Ford Ranger,YTU8726,2,CD Novo Hamburgo,Novo Hamburgo,RS,CD Belém,Belém,PA,2026-01-09 21:57:00,2026-01-10 21:57:00,2026-01-18 21:57:00,485.34,906.046
+639,493,Ryan Melo,Campos,AC,28,Volvo VM 270,NOG4159,3,CD Criciúma,Criciúma,SC,CD Niterói,Niterói,RJ,2026-05-29 15:18:52,2026-06-06 15:18:52,,1237.2,1178.147
+705,493,Ryan Melo,Campos,AC,30,DAF XF 480,KSZ8486,3,CD Imperatriz,Imperatriz,MA,CD Blumenau,Blumenau,SC,2026-03-03 21:24:49,2026-03-07 21:24:49,2026-03-13 21:24:49,1673.05,1897.38
+559,496,Fernando Duarte,Vargas,PI,27,Scania P320,DCB9288,3,CD Campinas,Campinas,SP,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-04-20 15:47:59,2026-04-24 15:47:59,,798.44,1122.443
+641,497,Rebeca Azevedo,Correia,MT,19,Ford Ranger,YTU8726,2,CD Criciúma,Criciúma,SC,CD Porto Velho,Porto Velho,RO,2026-05-15 01:39:45,2026-05-21 01:39:45,2026-05-27 01:39:45,73.44,108.179
+676,498,Augusto Pastor,Nogueira de da Rocha,PA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Santos,Santos,SP,2026-02-12 14:10:44,2026-02-22 14:10:44,2026-02-14 14:10:44,801.64,1639.255
+885,498,Augusto Pastor,Nogueira de da Rocha,PA,17,Toyota Hilux,XHD6644,2,CD Fortaleza,Fortaleza,CE,CD Petrolina,Petrolina,PE,2026-04-20 09:33:02,2026-05-01 09:33:02,2026-04-24 09:33:02,118.28,150.147
+271,499,Emanuella Costa,Câmara do Oeste,AC,18,Chevrolet S10,HFY7172,2,CD Recife,Recife,PE,CD Maceió,Maceió,AL,2026-05-13 15:08:46,2026-05-25 15:08:46,2026-05-24 15:08:46,299.23,248.202
+826,499,Emanuella Costa,Câmara do Oeste,AC,19,Ford Ranger,YTU8726,2,CD Fortaleza,Fortaleza,CE,CD Imperatriz,Imperatriz,MA,2026-01-29 12:02:30,2026-02-06 12:02:30,2026-01-31 12:02:30,377.44,537.601
+950,499,Emanuella Costa,Câmara do Oeste,AC,30,DAF XF 480,KSZ8486,3,CD João Pessoa,João Pessoa,PB,CD Caxias do Sul,Caxias do Sul,RS,2026-04-17 18:05:23,2026-05-02 18:05:23,,1215.11,1447.047
+347,501,Yago Cassiano,Castro de Porto,TO,23,Fiat Ducato,AUR0775,3,CD Sobral,Sobral,CE,CD Sinop,Sinop,MT,2026-05-27 12:08:55,2026-06-05 12:08:55,2026-06-13 12:08:55,1063.61,1793.328
+726,502,Levi Andrade,da Conceição de Costa,DF,30,DAF XF 480,KSZ8486,3,CD Araçatuba,Araçatuba,SP,CD Rio Verde,Rio Verde,GO,2026-04-30 11:41:52,2026-05-13 11:41:52,,1241.36,1460.688
+150,503,Josué da Conceição,Sousa Paulista,RJ,16,Fiat Toro,COX0501,2,CD Londrina,Londrina,PR,CD Rio Verde,Rio Verde,GO,2026-05-19 03:09:40,2026-05-29 03:09:40,,829.79,827.88
+362,503,Josué da Conceição,Sousa Paulista,RJ,24,Volkswagen Delivery 11.180,SBS6419,3,CD Mossoró,Mossoró,RN,CD Curitiba,Curitiba,PR,2026-02-07 17:18:16,2026-02-15 17:18:16,2026-02-17 17:18:16,1131.03,1395.93
+103,506,Maitê Borges,Pinto das Pedras,SC,28,Volvo VM 270,NOG4159,3,CD Curitiba,Curitiba,PR,CD Boa Vista,Boa Vista,RR,2026-03-20 18:12:40,2026-04-04 18:12:40,2026-03-22 18:12:40,1955.0,1650.962
+232,507,Beatriz da Mota,da Paz,PI,29,Iveco Tector 240E30,KIW4424,3,CD Aracaju,Aracaju,SE,CD Barueri,Barueri,SP,2026-01-13 13:07:58,2026-01-16 13:07:58,2026-01-17 13:07:58,843.08,1522.861
+557,507,Beatriz da Mota,da Paz,PI,18,Chevrolet S10,HFY7172,2,CD Imperatriz,Imperatriz,MA,CD Uberaba,Uberaba,MG,2026-03-23 06:02:29,2026-03-28 06:02:29,2026-03-28 06:02:29,180.94,227.907
+737,507,Beatriz da Mota,da Paz,PI,30,DAF XF 480,KSZ8486,3,CD Guarulhos,Guarulhos,SP,CD Caxias do Sul,Caxias do Sul,RS,2026-06-04 22:26:11,2026-06-09 22:26:11,2026-06-18 22:26:11,1634.6,1878.564
+747,507,Beatriz da Mota,da Paz,PI,27,Scania P320,DCB9288,3,CD Maceió,Maceió,AL,CD Parnaíba,Parnaíba,PI,2026-03-01 17:10:56,2026-03-15 17:10:56,,1052.5,1401.932
+480,508,Sr. Davi Lucca Duarte,Souza,PA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Mossoró,Mossoró,RN,CD Niterói,Niterói,RJ,2026-02-23 21:14:31,2026-03-03 21:14:31,,1114.77,1881.406
+65,509,Gael Pacheco,Silva Verde,TO,23,Fiat Ducato,AUR0775,3,CD Curitiba,Curitiba,PR,CD Joinville,Joinville,SC,2026-03-25 07:07:55,2026-04-03 07:07:55,,1514.9,1249.978
+110,509,Gael Pacheco,Silva Verde,TO,19,Ford Ranger,YTU8726,2,CD Recife,Recife,PE,CD Ponta Grossa,Ponta Grossa,PR,2026-01-21 03:01:27,2026-02-05 03:01:27,2026-02-04 03:01:27,1080.16,971.003
+458,509,Gael Pacheco,Silva Verde,TO,23,Fiat Ducato,AUR0775,3,CD Vila Velha,Vila Velha,ES,CD Três Lagoas,Três Lagoas,MS,2026-01-07 12:30:18,2026-01-13 12:30:18,2026-01-11 12:30:18,816.45,1837.766
+741,510,Bryan Sampaio,Gonçalves do Amparo,PE,22,Renault Master,JVZ8251,3,CD Canoas,Canoas,RS,CD Novo Hamburgo,Novo Hamburgo,RS,2026-04-18 05:16:43,2026-04-30 05:16:43,,668.56,1286.117
+165,511,Pietra Brito,Campos de Souza,RO,18,Chevrolet S10,HFY7172,2,CD Niterói,Niterói,RJ,CD Rio Branco,Rio Branco,AC,2026-05-09 20:48:39,2026-05-11 20:48:39,2026-05-26 20:48:39,450.43,526.758
+392,511,Pietra Brito,Campos de Souza,RO,23,Fiat Ducato,AUR0775,3,CD Volta Redonda,Volta Redonda,RJ,CD Araçatuba,Araçatuba,SP,2026-04-13 14:25:27,2026-04-26 14:25:27,2026-04-27 14:25:27,1520.31,1411.747
+867,514,Mateus Silveira,Camargo,DF,10,Jeep Renegade,NWO5725,1,CD Governador Valadares,Governador Valadares,MG,CD Uberlândia,Uberlândia,MG,2026-05-08 19:40:11,2026-05-10 19:40:11,2026-05-10 19:40:11,65.21,43.007
+941,515,Maria Cecília das Neves,Nascimento,GO,17,Toyota Hilux,XHD6644,2,CD Canoas,Canoas,RS,CD Feira de Santana,Feira de Santana,BA,2026-04-20 14:34:02,2026-04-24 14:34:02,,282.1,241.201
+56,516,Catarina Cirino,Novaes da Prata,RJ,29,Iveco Tector 240E30,KIW4424,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Caxias do Sul,Caxias do Sul,RS,2026-04-01 00:01:48,2026-04-10 00:01:48,2026-04-04 00:01:48,1773.62,1591.121
+205,517,Maria Luiza Montenegro,Camargo,SC,19,Ford Ranger,YTU8726,2,CD Porto Alegre,Porto Alegre,RS,CD Palmas,Palmas,TO,2026-03-07 07:00:11,2026-03-21 07:00:11,2026-03-16 07:00:11,349.97,375.102
+585,517,Maria Luiza Montenegro,Camargo,SC,18,Chevrolet S10,HFY7172,2,CD Governador Valadares,Governador Valadares,MG,CD Imperatriz,Imperatriz,MA,2026-06-13 02:04:38,2026-06-28 02:04:38,,413.21,712.867
+845,517,Maria Luiza Montenegro,Camargo,SC,21,Mercedes-Benz Sprinter,WDM2991,3,CD Cascavel,Cascavel,PR,CD São Carlos,São Carlos,SP,2026-05-01 03:15:04,2026-05-09 03:15:04,2026-05-03 03:15:04,955.64,1349.208
+484,518,Dra. Maria Sophia Cunha,Gonçalves,BA,17,Toyota Hilux,XHD6644,2,CD Curitiba,Curitiba,PR,CD Araçatuba,Araçatuba,SP,2026-02-02 02:56:07,2026-02-04 02:56:07,2026-02-16 02:56:07,139.52,108.195
+807,520,Dr. Henry Gabriel Moura,Mendes,AP,17,Toyota Hilux,XHD6644,2,CD Parnaíba,Parnaíba,PI,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-05-12 22:06:07,2026-05-21 22:06:07,2026-05-18 22:06:07,706.29,650.158
+949,520,Dr. Henry Gabriel Moura,Mendes,AP,17,Toyota Hilux,XHD6644,2,CD Montes Claros,Montes Claros,MG,CD Aracaju,Aracaju,SE,2026-06-11 10:04:41,2026-06-18 10:04:41,2026-06-22 10:04:41,860.7,784.452
+311,521,Dra. Catarina Fernandes,Aparecida do Norte,MT,21,Mercedes-Benz Sprinter,WDM2991,3,CD Belo Horizonte,Belo Horizonte,MG,CD Campinas,Campinas,SP,2026-04-20 00:42:32,2026-04-29 00:42:32,2026-04-28 00:42:32,1602.02,1791.195
+563,521,Dra. Catarina Fernandes,Aparecida do Norte,MT,17,Toyota Hilux,XHD6644,2,CD Marília,Marília,SP,CD Jundiaí,Jundiaí,SP,2025-12-29 17:57:53,2026-01-01 17:57:53,2026-01-14 17:57:53,416.2,353.686
+266,524,Cauê Duarte,Duarte das Flores,MS,20,Volkswagen Amarok,LDU5797,2,CD Mossoró,Mossoró,RN,CD Guarulhos,Guarulhos,SP,2026-02-02 14:19:52,2026-02-12 14:19:52,2026-02-06 14:19:52,342.48,551.604
+87,526,Paulo Vieira,Macedo Grande,BA,17,Toyota Hilux,XHD6644,2,CD Santos,Santos,SP,CD Manaus,Manaus,AM,2026-01-08 11:39:02,2026-01-19 11:39:02,2026-01-09 11:39:02,595.37,737.128
+162,526,Paulo Vieira,Macedo Grande,BA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Caxias do Sul,Caxias do Sul,RS,CD São Carlos,São Carlos,SP,2026-03-02 21:00:28,2026-03-11 21:00:28,2026-03-09 21:00:28,1948.59,1982.385
+679,526,Paulo Vieira,Macedo Grande,BA,28,Volvo VM 270,NOG4159,3,CD Piracicaba,Piracicaba,SP,CD Porto Alegre,Porto Alegre,RS,2026-06-17 19:49:47,2026-06-18 19:49:47,2026-06-22 19:49:47,1036.84,1018.186
+853,526,Paulo Vieira,Macedo Grande,BA,20,Volkswagen Amarok,LDU5797,2,CD Caruaru,Caruaru,PE,CD Chapecó,Chapecó,SC,2026-06-28 06:32:04,2026-07-02 06:32:04,,984.47,856.646
+119,528,Dra. Maria Flor da Paz,Aparecida de Carvalho,PE,19,Ford Ranger,YTU8726,2,CD Rio Verde,Rio Verde,GO,CD Palmas,Palmas,TO,2026-03-14 13:41:14,2026-03-25 13:41:14,2026-03-17 13:41:14,686.47,868.643
+255,528,Dra. Maria Flor da Paz,Aparecida de Carvalho,PE,17,Toyota Hilux,XHD6644,2,CD Porto Alegre,Porto Alegre,RS,CD Presidente Prudente,Presidente Prudente,SP,2026-06-15 00:21:35,2026-06-29 00:21:35,2026-06-18 00:21:35,558.06,900.987
+723,529,Pietra Dias,Novaes do Norte,MG,23,Fiat Ducato,AUR0775,3,CD Palmas,Palmas,TO,CD Parnaíba,Parnaíba,PI,2026-02-14 07:42:41,2026-02-27 07:42:41,2026-02-19 07:42:41,880.07,1010.78
+908,530,Rodrigo Moraes,Gonçalves das Flores,SC,2,Fiat Uno,PLK0996,1,CD Vila Velha,Vila Velha,ES,CD Camaçari,Camaçari,BA,2026-04-09 18:07:46,2026-04-23 18:07:46,2026-04-11 18:07:46,75.5,52.461
+951,531,Dra. Maria Isis Alves,Borges do Sul,TO,18,Chevrolet S10,HFY7172,2,CD Belém,Belém,PA,CD Governador Valadares,Governador Valadares,MG,2026-02-07 08:15:50,2026-02-17 08:15:50,2026-02-20 08:15:50,556.72,464.417
+52,533,Sra. Alexia Castro,Fonseca da Praia,RR,17,Toyota Hilux,XHD6644,2,CD Limeira,Limeira,SP,CD Araraquara,Araraquara,SP,2026-02-01 11:54:17,2026-02-13 11:54:17,2026-02-10 11:54:17,491.3,717.428
+118,535,Cecilia Caldeira,das Neves,MT,23,Fiat Ducato,AUR0775,3,CD São Paulo,São Paulo,SP,CD São Carlos,São Carlos,SP,2026-01-17 08:19:55,2026-01-25 08:19:55,2026-01-24 08:19:55,492.07,1140.233
+589,536,Leonardo Brito,Ribeiro de Minas,RN,18,Chevrolet S10,HFY7172,2,CD Camaçari,Camaçari,BA,CD Goiânia,Goiânia,GO,2026-03-14 04:09:14,2026-03-18 04:09:14,2026-03-21 04:09:14,695.64,591.097
+862,536,Leonardo Brito,Ribeiro de Minas,RN,18,Chevrolet S10,HFY7172,2,CD Palmas,Palmas,TO,CD Teresina,Teresina,PI,2026-06-06 19:33:03,2026-06-14 19:33:03,,617.67,814.887
+282,539,Maria Eduarda Oliveira,Fogaça dos Dourados,RN,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Linhares,Linhares,ES,CD Chapecó,Chapecó,SC,2026-03-28 02:24:30,2026-04-02 02:24:30,2026-04-03 02:24:30,1981.05,1713.56
+401,539,Maria Eduarda Oliveira,Fogaça dos Dourados,RN,18,Chevrolet S10,HFY7172,2,CD Criciúma,Criciúma,SC,CD Sobral,Sobral,CE,2026-04-15 01:30:28,2026-04-25 01:30:28,2026-04-29 01:30:28,181.96,189.56
+294,540,Léo Jesus,Cunha,RJ,18,Chevrolet S10,HFY7172,2,CD Campinas,Campinas,SP,CD Caxias do Sul,Caxias do Sul,RS,2026-04-22 21:09:54,2026-05-06 21:09:54,2026-04-27 21:09:54,279.29,534.995
+350,540,Léo Jesus,Cunha,RJ,23,Fiat Ducato,AUR0775,3,CD Santa Maria,Santa Maria,RS,CD Pelotas,Pelotas,RS,2026-02-22 23:02:24,2026-03-02 23:02:24,2026-03-09 23:02:24,893.91,1058.429
+379,540,Léo Jesus,Cunha,RJ,18,Chevrolet S10,HFY7172,2,CD Feira de Santana,Feira de Santana,BA,CD Parnaíba,Parnaíba,PI,2026-05-11 09:14:23,2026-05-13 09:14:23,,133.47,264.302
+934,540,Léo Jesus,Cunha,RJ,23,Fiat Ducato,AUR0775,3,CD Manaus,Manaus,AM,CD Limeira,Limeira,SP,2026-03-28 07:40:43,2026-04-06 07:40:43,,1825.35,1829.304
+136,544,Vinícius Fonseca,Ferreira,SP,16,Fiat Toro,COX0501,2,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Goiânia,Goiânia,GO,2026-02-24 21:30:15,2026-03-05 21:30:15,,717.78,814.606
+207,546,Juan Rocha,Mendes do Amparo,ES,20,Volkswagen Amarok,LDU5797,2,CD Caruaru,Caruaru,PE,CD Petrolina,Petrolina,PE,2026-03-02 18:27:49,2026-03-08 18:27:49,2026-03-16 18:27:49,296.48,470.526
+907,547,Lucca Cassiano,Viana,MA,22,Renault Master,JVZ8251,3,CD Contagem,Contagem,MG,CD Sinop,Sinop,MT,2026-02-10 17:31:04,2026-02-19 17:31:04,2026-02-23 17:31:04,1230.95,1375.714
+598,551,Benício Sampaio,Albuquerque,BA,19,Ford Ranger,YTU8726,2,CD São Luís,São Luís,MA,CD Florianópolis,Florianópolis,SC,2026-03-27 11:19:13,2026-03-31 11:19:13,2026-04-10 11:19:13,214.98,288.629
+302,552,Ravi Pimenta,Farias de Viana,RN,23,Fiat Ducato,AUR0775,3,CD Osasco,Osasco,SP,CD São José dos Campos,São José dos Campos,SP,2026-03-27 22:37:32,2026-04-03 22:37:32,2026-04-02 22:37:32,1608.26,1363.157
+410,554,Theo Correia,Casa Grande,RS,20,Volkswagen Amarok,LDU5797,2,CD Parnaíba,Parnaíba,PI,CD Araraquara,Araraquara,SP,2026-04-24 21:36:57,2026-04-30 21:36:57,2026-05-08 21:36:57,200.69,383.085
+665,554,Theo Correia,Casa Grande,RS,15,Citroen C3,POW7674,1,CD Porto Velho,Porto Velho,RO,CD Palmas,Palmas,TO,2026-06-16 07:58:07,2026-06-27 07:58:07,,72.7,72.0
+508,556,João Miguel Santos,Farias,BA,22,Renault Master,JVZ8251,3,CD Caxias do Sul,Caxias do Sul,RS,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-02-09 17:12:20,2026-02-18 17:12:20,2026-02-27 17:12:20,750.2,1689.316
+210,557,Ana Julia Albuquerque,Pinto do Campo,MA,17,Toyota Hilux,XHD6644,2,CD Camaçari,Camaçari,BA,CD Contagem,Contagem,MG,2026-04-07 16:46:56,2026-04-10 16:46:56,2026-04-22 16:46:56,340.47,752.032
+506,557,Ana Julia Albuquerque,Pinto do Campo,MA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Contagem,Contagem,MG,CD Aracaju,Aracaju,SE,2026-06-11 19:42:37,2026-06-14 19:42:37,2026-06-12 19:42:37,1259.91,1743.445
+798,557,Ana Julia Albuquerque,Pinto do Campo,MA,16,Fiat Toro,COX0501,2,CD Niterói,Niterói,RJ,CD Santos,Santos,SP,2026-01-13 03:23:15,2026-01-17 03:23:15,2026-01-19 03:23:15,389.08,675.56
+430,560,Caio da Cruz,Guerra,RO,20,Volkswagen Amarok,LDU5797,2,CD João Pessoa,João Pessoa,PB,CD Cuiabá,Cuiabá,MT,2026-01-28 04:03:27,2026-02-06 04:03:27,2026-02-06 04:03:27,498.04,457.322
+253,562,Sr. Raul Caldeira,Marques,RR,21,Mercedes-Benz Sprinter,WDM2991,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Osasco,Osasco,SP,2026-01-07 14:06:20,2026-01-13 14:06:20,2026-01-11 14:06:20,1209.0,1783.272
+263,563,Henrique Monteiro,Gomes do Campo,AC,22,Renault Master,JVZ8251,3,CD Limeira,Limeira,SP,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-01-30 02:23:06,2026-02-01 02:23:06,2026-02-03 02:23:06,1757.12,1579.046
+713,565,Maria Cecília Fonseca,da Cunha,RR,20,Volkswagen Amarok,LDU5797,2,CD Bauru,Bauru,SP,CD Chapecó,Chapecó,SC,2026-01-19 22:13:25,2026-02-03 22:13:25,2026-01-30 22:13:25,848.71,904.11
+767,566,João Miguel Castro,da Cruz Paulista,MS,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Uberaba,Uberaba,MG,CD Campinas,Campinas,SP,2026-06-03 03:12:24,2026-06-14 03:12:24,2026-06-04 03:12:24,1233.86,1511.964
+756,567,Igor Gomes,Ramos de das Neves,BA,29,Iveco Tector 240E30,KIW4424,3,CD Volta Redonda,Volta Redonda,RJ,CD Joinville,Joinville,SC,2026-03-01 13:34:31,2026-03-10 13:34:31,2026-03-06 13:34:31,927.73,1107.649
+269,569,Maitê Sampaio,Câmara,DF,21,Mercedes-Benz Sprinter,WDM2991,3,CD Porto Velho,Porto Velho,RO,CD Volta Redonda,Volta Redonda,RJ,2026-04-29 13:23:21,2026-05-10 13:23:21,2026-05-14 13:23:21,1384.96,1892.846
+259,573,Arthur Gabriel Nascimento,Gomes Paulista,AP,26,Volkswagen Constellation 24.280,AEV8053,3,CD Itajaí,Itajaí,SC,CD Taubaté,Taubaté,SP,2026-04-30 12:28:59,2026-05-01 12:28:59,,1680.76,1941.97
+621,575,Olívia Borges,Câmara,AM,17,Toyota Hilux,XHD6644,2,CD Serra,Serra,ES,CD Betim,Betim,MG,2026-01-04 04:15:06,2026-01-05 04:15:06,2026-01-09 04:15:06,498.37,525.77
+363,577,Stella Pacheco,da Paz da Mata,PE,30,DAF XF 480,KSZ8486,3,CD Itajaí,Itajaí,SC,CD Florianópolis,Florianópolis,SC,2026-05-07 11:54:44,2026-05-21 11:54:44,2026-05-23 11:54:44,500.55,1058.208
+694,577,Stella Pacheco,da Paz da Mata,PE,26,Volkswagen Constellation 24.280,AEV8053,3,CD Linhares,Linhares,ES,CD Uberaba,Uberaba,MG,2026-01-06 17:40:20,2026-01-09 17:40:20,,1614.35,1385.294
+467,578,Anthony Gabriel Camargo,Jesus do Amparo,GO,5,Chevrolet Onix,PIO2288,1,CD Araguaína,Araguaína,TO,CD Maringá,Maringá,PR,2026-04-24 17:16:50,2026-04-29 17:16:50,2026-05-06 17:16:50,48.11,22.042
+546,579,Ana Cunha,Silveira do Amparo,RN,17,Toyota Hilux,XHD6644,2,CD Belo Horizonte,Belo Horizonte,MG,CD Limeira,Limeira,SP,2026-01-12 12:20:20,2026-01-25 12:20:20,2026-01-13 12:20:20,845.99,858.597
+262,580,Luara Abreu,Cavalcante,PE,23,Fiat Ducato,AUR0775,3,CD Goiânia,Goiânia,GO,CD Serra,Serra,ES,2026-06-07 21:02:33,2026-06-21 21:02:33,,1765.17,1951.84
+425,580,Luara Abreu,Cavalcante,PE,16,Fiat Toro,COX0501,2,CD Ribeirão Preto,Ribeirão Preto,SP,CD Campo Grande,Campo Grande,MS,2026-02-11 13:29:34,2026-02-13 13:29:34,2026-02-25 13:29:34,455.68,407.244
+735,580,Luara Abreu,Cavalcante,PE,18,Chevrolet S10,HFY7172,2,CD Santa Maria,Santa Maria,RS,CD Vitória,Vitória,ES,2026-01-12 17:59:58,2026-01-20 17:59:58,2026-01-14 17:59:58,489.54,423.457
+196,582,Stephany Nascimento,Cirino,SC,17,Toyota Hilux,XHD6644,2,CD Montes Claros,Montes Claros,MG,CD Arapiraca,Arapiraca,AL,2026-05-17 22:40:49,2026-06-01 22:40:49,2026-06-02 22:40:49,530.85,998.311
+279,582,Stephany Nascimento,Cirino,SC,27,Scania P320,DCB9288,3,CD Criciúma,Criciúma,SC,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-03-15 17:37:28,2026-03-23 17:37:28,2026-03-19 17:37:28,1374.78,1298.073
+405,582,Stephany Nascimento,Cirino,SC,19,Ford Ranger,YTU8726,2,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Porto Alegre,Porto Alegre,RS,2026-03-26 16:44:50,2026-04-07 16:44:50,2026-04-13 16:44:50,112.2,141.33
+847,582,Stephany Nascimento,Cirino,SC,16,Fiat Toro,COX0501,2,CD Joinville,Joinville,SC,CD Osasco,Osasco,SP,2026-04-12 16:22:35,2026-04-26 16:22:35,2026-04-17 16:22:35,768.0,731.117
+935,582,Stephany Nascimento,Cirino,SC,24,Volkswagen Delivery 11.180,SBS6419,3,CD Mossoró,Mossoró,RN,CD Barueri,Barueri,SP,2026-04-30 06:56:06,2026-05-14 06:56:06,2026-05-04 06:56:06,1898.96,1727.64
+961,583,Ayla Farias,Mendes,ES,18,Chevrolet S10,HFY7172,2,CD Criciúma,Criciúma,SC,CD Vitória da Conquista,Vitória da Conquista,BA,2026-03-01 05:41:54,2026-03-15 05:41:54,2026-03-07 05:41:54,738.54,694.907
+72,584,Rafael Barros,Fogaça,SP,16,Fiat Toro,COX0501,2,CD Vila Velha,Vila Velha,ES,CD Presidente Prudente,Presidente Prudente,SP,2026-06-25 02:07:48,2026-07-07 02:07:48,,488.34,447.587
+942,585,Rael Rios,Pimenta,RN,20,Volkswagen Amarok,LDU5797,2,CD Blumenau,Blumenau,SC,CD Chapecó,Chapecó,SC,2025-12-30 00:09:40,2026-01-02 00:09:40,2026-01-16 00:09:40,518.51,655.198
+43,587,Fernando Rodrigues,Pereira,DF,16,Fiat Toro,COX0501,2,CD Caruaru,Caruaru,PE,CD Belém,Belém,PA,2026-04-05 17:34:06,2026-04-12 17:34:06,2026-04-06 17:34:06,168.01,133.12
+323,587,Fernando Rodrigues,Pereira,DF,4,Volkswagen Polo,LIC4080,1,CD Blumenau,Blumenau,SC,CD Rondonópolis,Rondonópolis,MT,2026-04-07 09:04:46,2026-04-17 09:04:46,2026-04-23 09:04:46,47.78,36.172
+494,587,Fernando Rodrigues,Pereira,DF,19,Ford Ranger,YTU8726,2,CD Rio Branco,Rio Branco,AC,CD Piracicaba,Piracicaba,SP,2026-05-01 20:26:17,2026-05-16 20:26:17,2026-05-03 20:26:17,906.03,997.607
+387,588,Gabriela Leão,Araújo,ES,11,Nissan Versa,BGU2133,1,CD Sinop,Sinop,MT,CD Taubaté,Taubaté,SP,2026-06-12 20:08:09,2026-06-22 20:08:09,2026-06-27 20:08:09,71.45,58.774
+520,589,Isadora Casa Grande,Macedo,MS,27,Scania P320,DCB9288,3,CD Palmas,Palmas,TO,CD São Luís,São Luís,MA,2026-06-04 23:09:14,2026-06-09 23:09:14,2026-06-21 23:09:14,1040.73,1129.809
+250,590,Dr. Felipe Pires,Duarte,RJ,22,Renault Master,JVZ8251,3,CD Arapiraca,Arapiraca,AL,CD Três Lagoas,Três Lagoas,MS,2026-01-03 09:20:20,2026-01-05 09:20:20,2026-01-19 09:20:20,910.77,1444.374
+474,592,Esther Casa Grande,Barros de Mendes,PB,17,Toyota Hilux,XHD6644,2,CD Campinas,Campinas,SP,CD Presidente Prudente,Presidente Prudente,SP,2026-02-25 20:32:08,2026-03-01 20:32:08,2026-03-08 20:32:08,198.32,374.236
+97,593,Maria Luísa Caldeira,da Conceição,SP,24,Volkswagen Delivery 11.180,SBS6419,3,CD Uberlândia,Uberlândia,MG,CD Arapiraca,Arapiraca,AL,2026-04-25 17:46:34,2026-04-27 17:46:34,2026-04-27 17:46:34,1155.38,1611.894
+560,594,Mirella Castro,Silva,PI,16,Fiat Toro,COX0501,2,CD Duque de Caxias,Duque de Caxias,RJ,CD Anápolis,Anápolis,GO,2026-03-13 03:33:01,2026-03-28 03:33:01,,170.87,130.527
+854,594,Mirella Castro,Silva,PI,28,Volvo VM 270,NOG4159,3,CD Campina Grande,Campina Grande,PB,CD Duque de Caxias,Duque de Caxias,RJ,2026-01-25 22:09:16,2026-01-28 22:09:16,,1352.43,1128.202
+1000,594,Mirella Castro,Silva,PI,21,Mercedes-Benz Sprinter,WDM2991,3,CD João Pessoa,João Pessoa,PB,CD Fortaleza,Fortaleza,CE,2026-05-28 10:52:15,2026-05-30 10:52:15,,2058.15,1854.533
+423,595,Luna Pacheco,Pimenta da Prata,RS,18,Chevrolet S10,HFY7172,2,CD Franca,Franca,SP,CD Ribeirão Preto,Ribeirão Preto,SP,2026-01-07 22:23:30,2026-01-17 22:23:30,2026-01-15 22:23:30,477.62,568.954
+668,595,Luna Pacheco,Pimenta da Prata,RS,23,Fiat Ducato,AUR0775,3,CD Dourados,Dourados,MS,CD Limeira,Limeira,SP,2026-02-04 09:48:06,2026-02-09 09:48:06,,804.35,1808.385
+344,601,Luiz Fernando Jesus,Nunes de da Rosa,DF,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Brasília,Brasília,DF,CD São Paulo,São Paulo,SP,2026-05-03 21:48:01,2026-05-15 21:48:01,2026-05-09 21:48:01,1270.68,1976.328
+834,601,Luiz Fernando Jesus,Nunes de da Rosa,DF,16,Fiat Toro,COX0501,2,CD Boa Vista,Boa Vista,RR,CD Linhares,Linhares,ES,2026-06-20 11:26:17,2026-06-25 11:26:17,2026-06-27 11:26:17,112.53,111.431
+997,601,Luiz Fernando Jesus,Nunes de da Rosa,DF,26,Volkswagen Constellation 24.280,AEV8053,3,CD Rio Branco,Rio Branco,AC,CD Presidente Prudente,Presidente Prudente,SP,2026-06-02 02:08:02,2026-06-10 02:08:02,2026-06-03 02:08:02,1183.09,1963.268
+298,604,Paulo Azevedo,Cavalcante,AP,17,Toyota Hilux,XHD6644,2,CD Niterói,Niterói,RJ,CD Imperatriz,Imperatriz,MA,2026-06-25 04:23:55,2026-07-09 04:23:55,,165.87,119.513
+330,604,Paulo Azevedo,Cavalcante,AP,1,Fiat Mobi,NCM2438,1,CD Araçatuba,Araçatuba,SP,CD Montes Claros,Montes Claros,MG,2026-05-06 09:51:38,2026-05-10 09:51:38,2026-05-19 09:51:38,57.27,40.929
+975,604,Paulo Azevedo,Cavalcante,AP,10,Jeep Renegade,NWO5725,1,CD Parnaíba,Parnaíba,PI,CD Caxias do Sul,Caxias do Sul,RS,2026-05-01 18:54:52,2026-05-06 18:54:52,,124.33,98.662
+998,606,Srta. Maria Julia Barros,Borges,GO,27,Scania P320,DCB9288,3,CD Piracicaba,Piracicaba,SP,CD Joinville,Joinville,SC,2026-04-13 15:04:25,2026-04-17 15:04:25,2026-04-20 15:04:25,1717.96,1959.682
+346,607,Pedro Miguel Martins,Ribeiro Verde,RJ,20,Volkswagen Amarok,LDU5797,2,CD Cascavel,Cascavel,PR,CD Campo Grande,Campo Grande,MS,2026-01-19 07:02:46,2026-01-30 07:02:46,2026-01-20 07:02:46,411.3,591.087
+50,610,Arthur Miguel Fogaça,Ribeiro,BA,16,Fiat Toro,COX0501,2,CD Santa Maria,Santa Maria,RS,CD Uberaba,Uberaba,MG,2026-03-08 08:16:51,2026-03-11 08:16:51,,122.85,172.11
+918,610,Arthur Miguel Fogaça,Ribeiro,BA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Rondonópolis,Rondonópolis,MT,CD Niterói,Niterói,RJ,2026-03-06 21:11:35,2026-03-19 21:11:35,2026-03-08 21:11:35,1275.4,1737.15
+101,611,Apollo Correia,Campos de Gonçalves,SE,16,Fiat Toro,COX0501,2,CD Petrolina,Petrolina,PE,CD Osasco,Osasco,SP,2026-04-09 12:20:51,2026-04-10 12:20:51,2026-04-16 12:20:51,390.95,468.797
+647,612,Ana Liz Aparecida,Pimenta,PA,22,Renault Master,JVZ8251,3,CD Vila Velha,Vila Velha,ES,CD São Carlos,São Carlos,SP,2026-04-17 08:31:00,2026-04-30 08:31:00,,888.09,1217.904
+739,612,Ana Liz Aparecida,Pimenta,PA,28,Volvo VM 270,NOG4159,3,CD Barueri,Barueri,SP,CD Maringá,Maringá,PR,2026-03-31 22:01:39,2026-04-01 22:01:39,,1827.54,1635.124
+851,612,Ana Liz Aparecida,Pimenta,PA,22,Renault Master,JVZ8251,3,CD Marabá,Marabá,PA,CD Bauru,Bauru,SP,2026-01-01 17:42:57,2026-01-02 17:42:57,,741.46,1290.657
+890,612,Ana Liz Aparecida,Pimenta,PA,16,Fiat Toro,COX0501,2,CD Guarulhos,Guarulhos,SP,CD Manaus,Manaus,AM,2026-03-01 19:05:12,2026-03-07 19:05:12,2026-03-03 19:05:12,675.01,614.515
+6,613,Murilo Sousa,Andrade,GO,29,Iveco Tector 240E30,KIW4424,3,CD Sorocaba,Sorocaba,SP,CD Fortaleza,Fortaleza,CE,2026-01-08 12:38:21,2026-01-10 12:38:21,2026-01-22 12:38:21,922.81,1689.656
+113,613,Murilo Sousa,Andrade,GO,12,Renault Kwid,FSP8142,1,CD Ribeirão Preto,Ribeirão Preto,SP,CD Rondonópolis,Rondonópolis,MT,2026-05-15 12:12:08,2026-05-30 12:12:08,,43.39,32.181
+176,613,Murilo Sousa,Andrade,GO,2,Fiat Uno,PLK0996,1,CD Juazeiro,Juazeiro,BA,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-02-13 01:40:18,2026-02-22 01:40:18,2026-02-21 01:40:18,38.58,32.743
+79,618,Luiz Felipe da Conceição,Camargo,RS,30,DAF XF 480,KSZ8486,3,CD Contagem,Contagem,MG,CD Itajaí,Itajaí,SC,2026-06-20 18:39:35,2026-06-23 18:39:35,,1441.86,1842.585
+677,618,Luiz Felipe da Conceição,Camargo,RS,19,Ford Ranger,YTU8726,2,CD Manaus,Manaus,AM,CD Camaçari,Camaçari,BA,2026-02-04 18:53:52,2026-02-19 18:53:52,,805.72,851.0
+234,619,Srta. Melina Casa Grande,Porto de Fonseca,MG,26,Volkswagen Constellation 24.280,AEV8053,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Porto Velho,Porto Velho,RO,2026-05-07 23:54:42,2026-05-19 23:54:42,2026-05-09 23:54:42,1160.04,1337.07
+439,619,Srta. Melina Casa Grande,Porto de Fonseca,MG,27,Scania P320,DCB9288,3,CD Campinas,Campinas,SP,CD Mossoró,Mossoró,RN,2026-06-12 21:48:02,2026-06-23 21:48:02,,867.1,1676.653
+122,620,Dra. Maysa Gomes,Sousa do Campo,RO,23,Fiat Ducato,AUR0775,3,CD Natal,Natal,RN,CD Florianópolis,Florianópolis,SC,2026-06-14 19:20:12,2026-06-21 19:20:12,2026-06-23 19:20:12,1184.91,1001.867
+148,622,Sr. Asafe Barbosa,Novais da Praia,MA,16,Fiat Toro,COX0501,2,CD Campinas,Campinas,SP,CD Cuiabá,Cuiabá,MT,2026-05-21 00:36:10,2026-05-28 00:36:10,2026-06-01 00:36:10,152.01,118.197
+216,622,Sr. Asafe Barbosa,Novais da Praia,MA,28,Volvo VM 270,NOG4159,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Sinop,Sinop,MT,2026-02-06 02:26:18,2026-02-11 02:26:18,2026-02-20 02:26:18,832.07,1821.791
+235,623,Maria Julia Fonseca,Barros do Norte,RO,18,Chevrolet S10,HFY7172,2,CD Criciúma,Criciúma,SC,CD Guarulhos,Guarulhos,SP,2026-03-31 19:48:54,2026-04-02 19:48:54,2026-04-11 19:48:54,75.83,103.909
+317,624,Vitor Hugo Campos,Camargo de Aparecida,ES,20,Volkswagen Amarok,LDU5797,2,CD Franca,Franca,SP,CD Taubaté,Taubaté,SP,2026-06-17 00:05:37,2026-06-27 00:05:37,2026-06-24 00:05:37,1004.27,919.27
+805,625,Ana Carolina Garcia,Aragão de Mendes,RS,21,Mercedes-Benz Sprinter,WDM2991,3,CD Marabá,Marabá,PA,CD Vila Velha,Vila Velha,ES,2026-02-10 02:18:46,2026-02-23 02:18:46,2026-02-17 02:18:46,1189.3,1251.715
+781,630,Apollo Fonseca,Martins de Oliveira,BA,20,Volkswagen Amarok,LDU5797,2,CD Araguaína,Araguaína,TO,CD Niterói,Niterói,RJ,2026-03-21 00:39:44,2026-03-30 00:39:44,,525.53,589.089
+365,631,Dra. Hellena Moreira,Sampaio,TO,20,Volkswagen Amarok,LDU5797,2,CD Niterói,Niterói,RJ,CD Santa Maria,Santa Maria,RS,2026-03-09 15:44:06,2026-03-18 15:44:06,2026-03-23 15:44:06,676.63,932.936
+766,633,Rael Teixeira,Pacheco,AM,19,Ford Ranger,YTU8726,2,CD Rio Verde,Rio Verde,GO,CD Osasco,Osasco,SP,2026-02-15 00:11:37,2026-02-17 00:11:37,,362.97,304.572
+84,634,Dra. Mariana Gomes,Sousa,SE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Itajaí,Itajaí,SC,CD Anápolis,Anápolis,GO,2026-03-24 01:09:55,2026-03-28 01:09:55,2026-04-05 01:09:55,1769.74,1929.526
+92,637,Luiz Miguel Silva,Cunha,SP,16,Fiat Toro,COX0501,2,CD Mossoró,Mossoró,RN,CD Petrolina,Petrolina,PE,2026-01-05 03:17:03,2026-01-07 03:17:03,2026-01-20 03:17:03,295.34,240.028
+866,637,Luiz Miguel Silva,Cunha,SP,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Londrina,Londrina,PR,CD Curitiba,Curitiba,PR,2026-04-05 04:41:36,2026-04-11 04:41:36,2026-04-22 04:41:36,1584.13,1694.759
+507,638,Bruno Caldeira,Casa Grande Verde,AM,21,Mercedes-Benz Sprinter,WDM2991,3,CD Natal,Natal,RN,CD Campinas,Campinas,SP,2026-05-06 09:30:24,2026-05-15 09:30:24,2026-05-24 09:30:24,1086.91,1813.244
+870,638,Bruno Caldeira,Casa Grande Verde,AM,16,Fiat Toro,COX0501,2,CD Teresina,Teresina,PI,CD Santos,Santos,SP,2026-02-04 00:29:58,2026-02-15 00:29:58,,103.13,193.63
+123,639,Stephany Campos,Ribeiro,SE,20,Volkswagen Amarok,LDU5797,2,CD Belém,Belém,PA,CD Chapecó,Chapecó,SC,2026-06-21 03:56:18,2026-06-23 03:56:18,,231.07,349.651
+622,640,João Miguel Ramos,Macedo do Amparo,AC,19,Ford Ranger,YTU8726,2,CD Ribeirão Preto,Ribeirão Preto,SP,CD Arapiraca,Arapiraca,AL,2026-01-01 01:11:39,2026-01-12 01:11:39,,301.09,272.541
+316,642,Thales Rezende,Cardoso de Goiás,PI,27,Scania P320,DCB9288,3,CD Guarulhos,Guarulhos,SP,CD Niterói,Niterói,RJ,2026-04-14 20:20:35,2026-04-21 20:20:35,2026-04-21 20:20:35,782.44,1235.996
+75,643,Erick Alves,Barros da Prata,RN,21,Mercedes-Benz Sprinter,WDM2991,3,CD Porto Alegre,Porto Alegre,RS,CD Governador Valadares,Governador Valadares,MG,2026-02-12 04:57:00,2026-02-17 04:57:00,2026-02-28 04:57:00,1518.8,1515.934
+877,645,Enzo Gabriel Casa Grande,Fernandes,AL,21,Mercedes-Benz Sprinter,WDM2991,3,CD Santos,Santos,SP,CD Arapiraca,Arapiraca,AL,2026-03-14 21:00:57,2026-03-19 21:00:57,2026-03-15 21:00:57,1437.83,1338.689
+197,646,Leandro Silveira,Marques,RN,24,Volkswagen Delivery 11.180,SBS6419,3,CD Vitória da Conquista,Vitória da Conquista,BA,CD Araraquara,Araraquara,SP,2026-01-10 21:58:00,2026-01-25 21:58:00,,2000.87,1885.752
+840,646,Leandro Silveira,Marques,RN,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Vitória da Conquista,Vitória da Conquista,BA,2026-06-13 21:36:35,2026-06-23 21:36:35,2026-06-20 21:36:35,915.85,1782.28
+170,647,Sra. Maria Flor Fogaça,Brito Alegre,AC,19,Ford Ranger,YTU8726,2,CD Londrina,Londrina,PR,CD Porto Velho,Porto Velho,RO,2026-05-24 22:24:01,2026-06-02 22:24:01,2026-05-31 22:24:01,753.99,756.318
+444,647,Sra. Maria Flor Fogaça,Brito Alegre,AC,18,Chevrolet S10,HFY7172,2,CD Rio Verde,Rio Verde,GO,CD Petrolina,Petrolina,PE,2026-02-23 09:09:49,2026-03-07 09:09:49,,865.72,736.617
+251,648,Dr. José Miguel da Costa,Novaes,RS,17,Toyota Hilux,XHD6644,2,CD Brasília,Brasília,DF,CD Aracaju,Aracaju,SE,2026-05-03 04:09:12,2026-05-15 04:09:12,,216.22,190.313
+489,649,Igor Vieira,Mendes de Machado,AP,4,Volkswagen Polo,LIC4080,1,CD Criciúma,Criciúma,SC,CD Marília,Marília,SP,2026-03-07 06:41:21,2026-03-08 06:41:21,2026-03-19 06:41:21,68.83,58.112
+3,651,Rhavi Abreu,Aparecida do Amparo,SC,17,Toyota Hilux,XHD6644,2,CD Campinas,Campinas,SP,CD Sinop,Sinop,MT,2026-06-11 11:42:53,2026-06-15 11:42:53,2026-06-22 11:42:53,198.72,352.643
+22,651,Rhavi Abreu,Aparecida do Amparo,SC,29,Iveco Tector 240E30,KIW4424,3,CD Franca,Franca,SP,CD Bauru,Bauru,SP,2026-03-15 18:56:38,2026-03-26 18:56:38,2026-03-20 18:56:38,966.61,1739.824
+823,651,Rhavi Abreu,Aparecida do Amparo,SC,22,Renault Master,JVZ8251,3,CD Ananindeua,Ananindeua,PA,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-06-15 00:32:33,2026-06-25 00:32:33,2026-06-28 00:32:33,988.41,1932.63
+183,652,Benjamim Fonseca,Andrade Alegre,MS,19,Ford Ranger,YTU8726,2,CD Anápolis,Anápolis,GO,CD Rio Branco,Rio Branco,AC,2026-02-19 21:37:52,2026-03-01 21:37:52,2026-03-03 21:37:52,403.38,337.205
+247,653,Benjamim Vargas,Albuquerque de Goiás,RO,18,Chevrolet S10,HFY7172,2,CD Vila Velha,Vila Velha,ES,CD Ananindeua,Ananindeua,PA,2026-04-17 16:02:40,2026-04-26 16:02:40,2026-05-03 16:02:40,510.24,529.261
+477,655,Antonella Oliveira,Abreu Paulista,AP,20,Volkswagen Amarok,LDU5797,2,CD Maringá,Maringá,PR,CD Piracicaba,Piracicaba,SP,2026-01-26 21:56:45,2026-02-03 21:56:45,2026-01-31 21:56:45,659.75,736.286
+688,657,Srta. Fernanda Costa,Ramos da Prata,SE,5,Chevrolet Onix,PIO2288,1,CD Ribeirão Preto,Ribeirão Preto,SP,CD Aracaju,Aracaju,SE,2026-05-05 05:20:31,2026-05-18 05:20:31,2026-05-12 05:20:31,78.78,66.246
+291,658,Helena Nogueira,da Conceição,RS,23,Fiat Ducato,AUR0775,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Natal,Natal,RN,2026-03-02 21:42:06,2026-03-16 21:42:06,2026-03-13 21:42:06,1655.22,1530.854
+771,659,Olívia Novais,Ferreira,MG,27,Scania P320,DCB9288,3,CD Canoas,Canoas,RS,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-02-23 14:14:12,2026-02-27 14:14:12,2026-03-06 14:14:12,980.57,1873.5
+14,660,Ana Lívia Moura,Pimenta,BA,28,Volvo VM 270,NOG4159,3,CD Juazeiro,Juazeiro,BA,CD Caxias do Sul,Caxias do Sul,RS,2026-01-28 03:03:03,2026-02-07 03:03:03,2026-02-05 03:03:03,1953.37,1747.562
+201,661,Marina Pimenta,Mendes,MA,30,DAF XF 480,KSZ8486,3,CD Uberaba,Uberaba,MG,CD Rio Verde,Rio Verde,GO,2026-06-10 23:13:29,2026-06-19 23:13:29,,992.15,1015.833
+367,662,Sophie Siqueira,Rios,BA,28,Volvo VM 270,NOG4159,3,CD Taubaté,Taubaté,SP,CD Araçatuba,Araçatuba,SP,2026-02-07 04:07:46,2026-02-19 04:07:46,,1166.29,1127.627
+340,663,Stella Monteiro,Monteiro,ES,16,Fiat Toro,COX0501,2,CD Presidente Prudente,Presidente Prudente,SP,CD Belém,Belém,PA,2026-04-09 03:37:18,2026-04-12 03:37:18,2026-04-11 03:37:18,393.89,724.436
+527,663,Stella Monteiro,Monteiro,ES,20,Volkswagen Amarok,LDU5797,2,CD Rondonópolis,Rondonópolis,MT,CD Guarulhos,Guarulhos,SP,2026-05-10 09:34:05,2026-05-13 09:34:05,,163.82,119.59
+452,664,Liz Nogueira,Duarte,BA,5,Chevrolet Onix,PIO2288,1,CD Betim,Betim,MG,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-01-28 00:53:38,2026-02-02 00:53:38,2026-02-05 00:53:38,119.36,91.125
+380,665,Leandro Pinto,Cardoso,BA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Vitória,Vitória,ES,2026-01-16 00:39:38,2026-01-22 00:39:38,2026-01-24 00:39:38,618.78,1140.694
+81,668,Dr. Bruno Guerra,Fogaça,MG,20,Volkswagen Amarok,LDU5797,2,CD Ananindeua,Ananindeua,PA,CD Camaçari,Camaçari,BA,2026-05-08 23:12:51,2026-05-21 23:12:51,2026-05-23 23:12:51,111.17,103.485
+409,668,Dr. Bruno Guerra,Fogaça,MG,21,Mercedes-Benz Sprinter,WDM2991,3,CD Arapiraca,Arapiraca,AL,CD Pelotas,Pelotas,RS,2026-05-27 17:18:32,2026-06-08 17:18:32,,1378.73,1443.194
+428,668,Dr. Bruno Guerra,Fogaça,MG,16,Fiat Toro,COX0501,2,CD Porto Velho,Porto Velho,RO,CD Guarulhos,Guarulhos,SP,2026-02-11 21:56:14,2026-02-17 21:56:14,2026-03-01 21:56:14,375.48,449.051
+121,669,Antony da Rocha,Camargo,RO,23,Fiat Ducato,AUR0775,3,CD Campinas,Campinas,SP,CD Campo Grande,Campo Grande,MS,2026-01-30 03:37:09,2026-02-04 03:37:09,2026-02-01 03:37:09,1035.1,1255.891
+143,669,Antony da Rocha,Camargo,RO,27,Scania P320,DCB9288,3,CD Montes Claros,Montes Claros,MG,CD Juazeiro,Juazeiro,BA,2026-02-14 14:09:35,2026-02-17 14:09:35,2026-02-28 14:09:35,1737.51,1460.728
+502,671,Luiz Felipe Duarte,Duarte,RJ,29,Iveco Tector 240E30,KIW4424,3,CD Recife,Recife,PE,CD Arapiraca,Arapiraca,AL,2026-06-10 14:30:24,2026-06-19 14:30:24,,1520.36,1334.189
+529,672,Sr. Ravy Andrade,da Cunha de Moreira,PB,16,Fiat Toro,COX0501,2,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-01-16 16:26:36,2026-01-27 16:26:36,2026-02-03 16:26:36,198.02,212.238
+873,673,Sra. Gabrielly Costa,da Cruz,RR,20,Volkswagen Amarok,LDU5797,2,CD Uberaba,Uberaba,MG,CD Linhares,Linhares,ES,2026-01-29 17:38:05,2026-02-06 17:38:05,,553.12,758.71
+886,674,Bianca Mendonça,Nascimento do Oeste,AL,21,Mercedes-Benz Sprinter,WDM2991,3,CD Taubaté,Taubaté,SP,CD Goiânia,Goiânia,GO,2026-06-20 04:20:29,2026-06-27 04:20:29,2026-06-23 04:20:29,1514.53,1345.105
+513,675,Valentim Cunha,Cavalcante de Ribeiro,SP,19,Ford Ranger,YTU8726,2,CD São Luís,São Luís,MA,CD Araraquara,Araraquara,SP,2026-01-12 09:22:28,2026-01-14 09:22:28,,161.1,298.157
+351,679,Otávio Mendes,Ramos,BA,22,Renault Master,JVZ8251,3,CD Ribeirão Preto,Ribeirão Preto,SP,CD Ananindeua,Ananindeua,PA,2026-06-18 00:43:02,2026-06-27 00:43:02,,1288.24,1920.033
+697,680,Gael Henrique Novais,Campos Paulista,PA,16,Fiat Toro,COX0501,2,CD Cascavel,Cascavel,PR,CD Rio Verde,Rio Verde,GO,2026-03-27 09:29:30,2026-04-07 09:29:30,2026-04-04 09:29:30,96.11,167.524
+876,680,Gael Henrique Novais,Campos Paulista,PA,14,Peugeot 208,IKO3579,1,CD Marília,Marília,SP,CD Teresina,Teresina,PI,2025-12-29 12:48:35,2026-01-12 12:48:35,,82.81,49.051
+763,681,Lívia Lima,Siqueira das Flores,BA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Palmas,Palmas,TO,CD Aracaju,Aracaju,SE,2026-03-16 02:14:47,2026-03-26 02:14:47,2026-03-23 02:14:47,1721.83,1510.755
+203,684,Ravi Lucca Pires,Pereira,DF,28,Volvo VM 270,NOG4159,3,CD Imperatriz,Imperatriz,MA,CD Juiz de Fora,Juiz de Fora,MG,2026-04-12 09:46:16,2026-04-19 09:46:16,2026-04-24 09:46:16,733.28,1451.864
+497,686,Sr. Apollo Cavalcante,Moreira de Ferreira,PR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Criciúma,Criciúma,SC,CD Sorocaba,Sorocaba,SP,2026-05-19 00:06:08,2026-06-03 00:06:08,2026-06-01 00:06:08,2387.95,1975.272
+199,687,Marcos Vinicius Cavalcanti,Freitas,BA,7,Hyundai HB20,EOY4603,1,CD São Paulo,São Paulo,SP,CD Araguaína,Araguaína,TO,2026-06-08 16:45:51,2026-06-22 16:45:51,,45.24,37.752
+670,688,Alice Moura,Mendonça,SP,27,Scania P320,DCB9288,3,CD Juazeiro,Juazeiro,BA,CD Caxias do Sul,Caxias do Sul,RS,2026-05-07 20:40:43,2026-05-11 20:40:43,,1633.54,1800.208
+412,689,Sr. João Miguel Fogaça,Macedo,SC,24,Volkswagen Delivery 11.180,SBS6419,3,CD Araçatuba,Araçatuba,SP,CD Porto Alegre,Porto Alegre,RS,2026-06-05 17:05:53,2026-06-14 17:05:53,2026-06-23 17:05:53,1262.31,1724.321
+746,689,Sr. João Miguel Fogaça,Macedo,SC,22,Renault Master,JVZ8251,3,CD Santarém,Santarém,PA,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-02-13 04:29:02,2026-02-21 04:29:02,,935.19,1376.683
+865,689,Sr. João Miguel Fogaça,Macedo,SC,30,DAF XF 480,KSZ8486,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-05-26 20:05:30,2026-06-10 20:05:30,2026-06-12 20:05:30,1486.47,1664.553
+651,691,Enzo Cavalcanti,Câmara Verde,MG,18,Chevrolet S10,HFY7172,2,CD Teresina,Teresina,PI,CD Porto Velho,Porto Velho,RO,2026-05-29 21:46:08,2026-06-10 21:46:08,2026-05-31 21:46:08,217.63,172.729
+707,692,Ana Barbosa,Barros Paulista,PI,27,Scania P320,DCB9288,3,CD Campinas,Campinas,SP,CD Feira de Santana,Feira de Santana,BA,2026-02-03 12:09:27,2026-02-13 12:09:27,2026-02-10 12:09:27,1218.7,1455.286
+67,696,Dr. Asafe Marques,Ramos dos Dourados,SE,17,Toyota Hilux,XHD6644,2,CD Joinville,Joinville,SC,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-03-27 10:00:54,2026-04-04 10:00:54,2026-04-10 10:00:54,470.2,504.165
+158,696,Dr. Asafe Marques,Ramos dos Dourados,SE,20,Volkswagen Amarok,LDU5797,2,CD Fortaleza,Fortaleza,CE,CD Dourados,Dourados,MS,2026-05-10 16:28:49,2026-05-22 16:28:49,2026-05-19 16:28:49,355.42,723.904
+594,696,Dr. Asafe Marques,Ramos dos Dourados,SE,21,Mercedes-Benz Sprinter,WDM2991,3,CD Londrina,Londrina,PR,CD Teresina,Teresina,PI,2026-02-19 18:03:32,2026-03-04 18:03:32,2026-03-06 18:03:32,1011.9,1384.378
+650,696,Dr. Asafe Marques,Ramos dos Dourados,SE,11,Nissan Versa,BGU2133,1,CD Linhares,Linhares,ES,CD Rio Branco,Rio Branco,AC,2026-01-03 05:07:34,2026-01-04 05:07:34,2026-01-18 05:07:34,52.71,45.712
+701,696,Dr. Asafe Marques,Ramos dos Dourados,SE,20,Volkswagen Amarok,LDU5797,2,CD São Carlos,São Carlos,SP,CD Belém,Belém,PA,2026-06-12 01:14:20,2026-06-21 01:14:20,2026-06-23 01:14:20,919.5,862.533
+976,698,Dr. Carlos Eduardo Borges,Cunha,PE,22,Renault Master,JVZ8251,3,CD Ribeirão Preto,Ribeirão Preto,SP,CD Araçatuba,Araçatuba,SP,2026-03-19 11:34:54,2026-03-21 11:34:54,2026-03-27 11:34:54,1622.59,1350.663
+987,698,Dr. Carlos Eduardo Borges,Cunha,PE,16,Fiat Toro,COX0501,2,CD Canoas,Canoas,RS,CD Joinville,Joinville,SC,2026-04-22 07:21:31,2026-05-04 07:21:31,2026-05-06 07:21:31,818.91,778.033
+206,699,Ísis Castro,Vieira Alegre,AM,26,Volkswagen Constellation 24.280,AEV8053,3,CD Três Lagoas,Três Lagoas,MS,CD Porto Alegre,Porto Alegre,RS,2026-02-14 02:30:02,2026-02-28 02:30:02,2026-02-15 02:30:02,1132.27,1473.549
+151,700,Nicole Santos,Camargo Paulista,AC,18,Chevrolet S10,HFY7172,2,CD Manaus,Manaus,AM,CD Petrolina,Petrolina,PE,2026-03-08 03:52:59,2026-03-13 03:52:59,,579.15,884.722
+824,701,Sabrina Dias,Oliveira das Pedras,PI,23,Fiat Ducato,AUR0775,3,CD Governador Valadares,Governador Valadares,MG,CD Anápolis,Anápolis,GO,2026-06-10 00:09:23,2026-06-12 00:09:23,2026-06-27 00:09:23,1333.29,1298.236
+177,702,Pietra Pires,Garcia,MT,24,Volkswagen Delivery 11.180,SBS6419,3,CD Chapecó,Chapecó,SC,CD Franca,Franca,SP,2026-02-14 23:52:05,2026-02-23 23:52:05,2026-02-20 23:52:05,605.36,1433.319
+820,703,Arthur Oliveira,Mendes de Santos,RN,20,Volkswagen Amarok,LDU5797,2,CD Limeira,Limeira,SP,CD Natal,Natal,RN,2026-03-08 23:21:21,2026-03-22 23:21:21,2026-03-21 23:21:21,309.79,349.288
+852,703,Arthur Oliveira,Mendes de Santos,RN,18,Chevrolet S10,HFY7172,2,CD Belo Horizonte,Belo Horizonte,MG,CD Três Lagoas,Três Lagoas,MS,2026-05-13 01:15:09,2026-05-27 01:15:09,,958.61,788.502
+69,705,Otto Vargas,Pimenta,RN,28,Volvo VM 270,NOG4159,3,CD Petrolina,Petrolina,PE,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-04-18 07:50:10,2026-05-02 07:50:10,2026-04-22 07:50:10,1728.1,1419.832
+403,707,Isabel Sampaio,Albuquerque,PA,19,Ford Ranger,YTU8726,2,CD Vitória da Conquista,Vitória da Conquista,BA,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-01-08 23:56:11,2026-01-11 23:56:11,2026-01-11 23:56:11,998.39,882.65
+441,708,Francisco Lima,Teixeira,ES,20,Volkswagen Amarok,LDU5797,2,CD Criciúma,Criciúma,SC,CD Sinop,Sinop,MT,2026-06-25 00:07:53,2026-06-29 00:07:53,,380.11,433.301
+179,710,Theo Souza,Rezende,AC,28,Volvo VM 270,NOG4159,3,CD Mossoró,Mossoró,RN,CD Bauru,Bauru,SP,2026-05-25 11:01:21,2026-05-30 11:01:21,2026-05-31 11:01:21,1095.95,1934.834
+243,710,Theo Souza,Rezende,AC,26,Volkswagen Constellation 24.280,AEV8053,3,CD Canoas,Canoas,RS,CD Dourados,Dourados,MS,2026-06-09 21:47:54,2026-06-18 21:47:54,2026-06-16 21:47:54,935.79,1200.034
+18,711,Emanuel Teixeira,Barbosa de Minas,PR,19,Ford Ranger,YTU8726,2,CD Uberaba,Uberaba,MG,CD Joinville,Joinville,SC,2026-05-02 04:48:36,2026-05-07 04:48:36,2026-05-12 04:48:36,329.4,298.745
+552,711,Emanuel Teixeira,Barbosa de Minas,PR,17,Toyota Hilux,XHD6644,2,CD Limeira,Limeira,SP,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2025-12-30 10:55:31,2026-01-05 10:55:31,,352.4,478.899
+717,712,Jade Almeida,Siqueira,PR,4,Volkswagen Polo,LIC4080,1,CD Rio Verde,Rio Verde,GO,CD Sobral,Sobral,CE,2026-06-01 20:20:16,2026-06-11 20:20:16,,107.1,86.922
+869,712,Jade Almeida,Siqueira,PR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Goiânia,Goiânia,GO,2026-01-02 23:16:13,2026-01-11 23:16:13,2026-01-13 23:16:13,1938.38,1918.41
+96,713,Lorenzo Barros,Rezende do Norte,PA,11,Nissan Versa,BGU2133,1,CD Juiz de Fora,Juiz de Fora,MG,CD Caxias do Sul,Caxias do Sul,RS,2026-04-29 05:46:32,2026-05-02 05:46:32,2026-05-04 05:46:32,114.14,98.118
+648,714,Vitor Gabriel Mendes,Fonseca das Pedras,SC,26,Volkswagen Constellation 24.280,AEV8053,3,CD Imperatriz,Imperatriz,MA,CD Arapiraca,Arapiraca,AL,2026-06-17 22:49:12,2026-06-18 22:49:12,2026-06-21 22:49:12,1344.49,1918.147
+172,715,Srta. Kamilly Monteiro,Nogueira da Prata,CE,26,Volkswagen Constellation 24.280,AEV8053,3,CD Boa Vista,Boa Vista,RR,CD Ribeirão Preto,Ribeirão Preto,SP,2026-02-15 15:44:32,2026-03-02 15:44:32,2026-02-16 15:44:32,1106.49,1646.119
+449,715,Srta. Kamilly Monteiro,Nogueira da Prata,CE,28,Volvo VM 270,NOG4159,3,CD Florianópolis,Florianópolis,SC,CD Juazeiro,Juazeiro,BA,2026-03-26 11:21:50,2026-03-31 11:21:50,2026-04-12 11:21:50,1105.96,1138.439
+500,715,Srta. Kamilly Monteiro,Nogueira da Prata,CE,21,Mercedes-Benz Sprinter,WDM2991,3,CD João Pessoa,João Pessoa,PB,CD Chapecó,Chapecó,SC,2026-05-30 22:58:47,2026-06-01 22:58:47,2026-06-09 22:58:47,1122.31,1640.249
+730,716,Dra. Valentina Sá,Rocha do Oeste,MT,29,Iveco Tector 240E30,KIW4424,3,CD Maringá,Maringá,PR,CD Curitiba,Curitiba,PR,2026-03-25 20:49:07,2026-04-04 20:49:07,2026-04-04 20:49:07,1068.5,1136.583
+692,717,Olivia Porto,Oliveira,MS,20,Volkswagen Amarok,LDU5797,2,CD Feira de Santana,Feira de Santana,BA,CD Itajaí,Itajaí,SC,2026-01-11 11:48:52,2026-01-22 11:48:52,2026-01-13 11:48:52,632.88,944.682
+213,718,Benjamim Monteiro,Moraes,SE,17,Toyota Hilux,XHD6644,2,CD Aracaju,Aracaju,SE,CD Vila Velha,Vila Velha,ES,2026-02-19 12:36:36,2026-03-04 12:36:36,2026-02-22 12:36:36,515.63,857.497
+719,719,Vitor Hugo Teixeira,Marques de Minas,PB,28,Volvo VM 270,NOG4159,3,CD Recife,Recife,PE,CD Juazeiro,Juazeiro,BA,2026-05-28 01:22:10,2026-06-03 01:22:10,2026-06-14 01:22:10,1023.52,1823.914
+963,719,Vitor Hugo Teixeira,Marques de Minas,PB,30,DAF XF 480,KSZ8486,3,CD Cascavel,Cascavel,PR,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-05-06 08:27:53,2026-05-11 08:27:53,2026-05-08 08:27:53,725.41,1097.516
+37,722,Calebe Farias,Novais,SE,22,Renault Master,JVZ8251,3,CD Cascavel,Cascavel,PR,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-04-29 05:08:41,2026-05-09 05:08:41,2026-05-15 05:08:41,1097.38,1290.853
+874,722,Calebe Farias,Novais,SE,16,Fiat Toro,COX0501,2,CD Contagem,Contagem,MG,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-05-20 23:51:07,2026-05-22 23:51:07,,242.25,384.458
+903,723,Sr. Vinícius Fonseca,Sales de Nascimento,CE,30,DAF XF 480,KSZ8486,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Presidente Prudente,Presidente Prudente,SP,2026-05-12 11:53:14,2026-05-20 11:53:14,,1466.83,1650.545
+306,726,Ana Silveira,Barros,MA,18,Chevrolet S10,HFY7172,2,CD Montes Claros,Montes Claros,MG,CD Duque de Caxias,Duque de Caxias,RJ,2026-02-13 12:04:11,2026-02-20 12:04:11,2026-02-26 12:04:11,269.03,554.451
+534,727,Valentim da Paz,Marques,MS,16,Fiat Toro,COX0501,2,CD Natal,Natal,RN,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-05-12 21:32:14,2026-05-21 21:32:14,,403.0,683.503
+916,727,Valentim da Paz,Marques,MS,17,Toyota Hilux,XHD6644,2,CD Maringá,Maringá,PR,CD Campo Grande,Campo Grande,MS,2026-03-27 20:09:31,2026-04-01 20:09:31,,111.03,176.43
+562,729,Clara Guerra,Barros,TO,30,DAF XF 480,KSZ8486,3,CD Franca,Franca,SP,CD Imperatriz,Imperatriz,MA,2026-03-28 15:19:06,2026-04-06 15:19:06,2026-04-05 15:19:06,805.31,1417.263
+782,730,Antony Gomes,Casa Grande do Campo,PI,23,Fiat Ducato,AUR0775,3,CD Ponta Grossa,Ponta Grossa,PR,CD Palmas,Palmas,TO,2026-04-16 19:49:13,2026-05-01 19:49:13,2026-04-19 19:49:13,1700.2,1576.833
+73,731,Théo da Rocha,Aragão,SC,23,Fiat Ducato,AUR0775,3,CD Cascavel,Cascavel,PR,CD Vitória,Vitória,ES,2026-03-08 16:48:13,2026-03-11 16:48:13,2026-03-19 16:48:13,973.66,1826.482
+658,731,Théo da Rocha,Aragão,SC,17,Toyota Hilux,XHD6644,2,CD Curitiba,Curitiba,PR,CD Recife,Recife,PE,2026-02-06 03:28:42,2026-02-11 03:28:42,2026-02-22 03:28:42,498.63,529.523
+596,733,Luiz Otávio Dias,Aragão Verde,MS,11,Nissan Versa,BGU2133,1,CD Duque de Caxias,Duque de Caxias,RJ,CD Caxias do Sul,Caxias do Sul,RS,2026-03-26 18:29:38,2026-03-31 18:29:38,,44.68,16.694
+618,733,Luiz Otávio Dias,Aragão Verde,MS,20,Volkswagen Amarok,LDU5797,2,CD Arapiraca,Arapiraca,AL,CD Caxias do Sul,Caxias do Sul,RS,2026-01-25 08:46:47,2026-02-09 08:46:47,,629.56,550.845
+691,733,Luiz Otávio Dias,Aragão Verde,MS,6,Chevrolet Prisma,VTX3790,1,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD São Luís,São Luís,MA,2026-01-01 22:10:53,2026-01-15 22:10:53,2026-01-15 22:10:53,40.43,23.419
+515,735,Luísa Azevedo,Aragão de Goiás,GO,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Salvador,Salvador,BA,CD Vitória da Conquista,Vitória da Conquista,BA,2026-05-19 03:57:05,2026-06-03 03:57:05,2026-06-02 03:57:05,1947.36,1948.697
+120,737,Nicolas Freitas,Moraes,BA,16,Fiat Toro,COX0501,2,CD Araguaína,Araguaína,TO,CD Pelotas,Pelotas,RS,2026-04-14 22:34:30,2026-04-29 22:34:30,2026-04-23 22:34:30,778.57,891.477
+938,737,Nicolas Freitas,Moraes,BA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Goiânia,Goiânia,GO,CD Presidente Prudente,Presidente Prudente,SP,2026-03-10 02:56:42,2026-03-19 02:56:42,,1548.04,1319.045
+460,738,Yago Pimenta,Garcia,RN,29,Iveco Tector 240E30,KIW4424,3,CD Camaçari,Camaçari,BA,CD Campina Grande,Campina Grande,PB,2026-03-28 01:53:02,2026-04-12 01:53:02,2026-03-29 01:53:02,1256.48,1502.735
+349,739,Dr. Breno Moura,Monteiro,AM,18,Chevrolet S10,HFY7172,2,CD Boa Vista,Boa Vista,RR,CD Florianópolis,Florianópolis,SC,2026-04-21 05:31:36,2026-05-05 05:31:36,2026-04-23 05:31:36,653.47,893.353
+357,739,Dr. Breno Moura,Monteiro,AM,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Três Lagoas,Três Lagoas,MS,CD Limeira,Limeira,SP,2026-06-13 19:08:18,2026-06-23 19:08:18,2026-06-16 19:08:18,1739.59,1765.547
+418,739,Dr. Breno Moura,Monteiro,AM,20,Volkswagen Amarok,LDU5797,2,CD Santos,Santos,SP,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-05-14 17:54:09,2026-05-20 17:54:09,2026-05-15 17:54:09,386.93,372.179
+783,739,Dr. Breno Moura,Monteiro,AM,30,DAF XF 480,KSZ8486,3,CD Campinas,Campinas,SP,CD Canoas,Canoas,RS,2026-01-30 01:05:37,2026-02-06 01:05:37,2026-02-04 01:05:37,780.0,1114.118
+16,741,Lunna Porto,Sales,MT,23,Fiat Ducato,AUR0775,3,CD Feira de Santana,Feira de Santana,BA,CD Belém,Belém,PA,2026-03-25 01:05:18,2026-03-27 01:05:18,,1378.68,1300.45
+476,741,Lunna Porto,Sales,MT,17,Toyota Hilux,XHD6644,2,CD Arapiraca,Arapiraca,AL,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-06-19 02:50:34,2026-06-22 02:50:34,2026-06-23 02:50:34,157.84,248.443
+609,741,Lunna Porto,Sales,MT,30,DAF XF 480,KSZ8486,3,CD Barueri,Barueri,SP,CD Mossoró,Mossoró,RN,2026-01-29 04:10:48,2026-02-07 04:10:48,2026-02-09 04:10:48,1076.96,1854.581
+548,742,Sarah Andrade,Jesus,ES,20,Volkswagen Amarok,LDU5797,2,CD Serra,Serra,ES,CD São Luís,São Luís,MA,2026-06-02 15:31:44,2026-06-12 15:31:44,2026-06-03 15:31:44,136.21,240.805
+967,746,Clara Cardoso,Cardoso,RJ,17,Toyota Hilux,XHD6644,2,CD Ponta Grossa,Ponta Grossa,PR,CD Cuiabá,Cuiabá,MT,2026-03-25 23:15:16,2026-04-07 23:15:16,,638.75,856.722
+878,747,Sra. Evelyn Fernandes,Moreira,PE,16,Fiat Toro,COX0501,2,CD Limeira,Limeira,SP,CD Petrolina,Petrolina,PE,2026-02-12 04:58:58,2026-02-16 04:58:58,,869.08,813.602
+785,748,Yago Nunes,Cardoso da Mata,AL,22,Renault Master,JVZ8251,3,CD Sinop,Sinop,MT,CD Uberlândia,Uberlândia,MG,2026-06-01 13:26:52,2026-06-05 13:26:52,2026-06-13 13:26:52,921.31,1015.525
+623,749,Brayan Viana,da Mota,MA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Ribeirão Preto,Ribeirão Preto,SP,CD Uberlândia,Uberlândia,MG,2026-05-10 22:36:54,2026-05-15 22:36:54,2026-05-20 22:36:54,1688.93,1616.208
+504,750,Isadora Nunes,Fernandes do Sul,MG,22,Renault Master,JVZ8251,3,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Joinville,Joinville,SC,2026-03-04 16:41:10,2026-03-11 16:41:10,2026-03-05 16:41:10,1854.83,1540.76
+204,752,Dra. Camila Garcia,Peixoto de Minas,PR,18,Chevrolet S10,HFY7172,2,CD Ribeirão Preto,Ribeirão Preto,SP,CD São Carlos,São Carlos,SP,2026-05-06 12:49:49,2026-05-15 12:49:49,2026-05-09 12:49:49,586.0,569.861
+724,752,Dra. Camila Garcia,Peixoto de Minas,PR,27,Scania P320,DCB9288,3,CD Marabá,Marabá,PA,CD Manaus,Manaus,AM,2026-05-27 09:41:54,2026-05-30 09:41:54,2026-06-07 09:41:54,1524.75,1982.949
+481,753,Bruno Sá,Oliveira de Fogaça,RO,18,Chevrolet S10,HFY7172,2,CD Rondonópolis,Rondonópolis,MT,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-06-21 04:37:22,2026-06-26 04:37:22,,333.15,267.039
+846,753,Bruno Sá,Oliveira de Fogaça,RO,22,Renault Master,JVZ8251,3,CD Niterói,Niterói,RJ,CD Aracaju,Aracaju,SE,2026-03-05 00:31:59,2026-03-07 00:31:59,2026-03-23 00:31:59,1723.65,1866.464
+359,754,Bella Sales,Casa Grande,PA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Uberaba,Uberaba,MG,CD Cuiabá,Cuiabá,MT,2026-06-02 02:40:16,2026-06-08 02:40:16,2026-06-11 02:40:16,640.65,1528.279
+224,755,Francisco Pinto,Gomes do Campo,PR,19,Ford Ranger,YTU8726,2,CD Governador Valadares,Governador Valadares,MG,CD João Pessoa,João Pessoa,PB,2026-01-30 18:21:33,2026-02-03 18:21:33,,269.6,513.857
+714,755,Francisco Pinto,Gomes do Campo,PR,30,DAF XF 480,KSZ8486,3,CD Ribeirão Preto,Ribeirão Preto,SP,CD São Luís,São Luís,MA,2026-01-17 07:00:55,2026-01-26 07:00:55,2026-01-26 07:00:55,1959.75,1993.212
+173,756,Sr. Josué Cardoso,Souza de Moraes,TO,17,Toyota Hilux,XHD6644,2,CD João Pessoa,João Pessoa,PB,CD Pelotas,Pelotas,RS,2026-02-18 16:09:28,2026-03-04 16:09:28,2026-02-21 16:09:28,554.58,890.587
+440,756,Sr. Josué Cardoso,Souza de Moraes,TO,18,Chevrolet S10,HFY7172,2,CD Ponta Grossa,Ponta Grossa,PR,CD Campo Grande,Campo Grande,MS,2026-03-08 20:22:38,2026-03-09 20:22:38,2026-03-16 20:22:38,133.59,163.071
+829,757,Eloá Pastor,Sales,AL,19,Ford Ranger,YTU8726,2,CD Guarulhos,Guarulhos,SP,CD Ribeirão Preto,Ribeirão Preto,SP,2026-03-04 14:47:02,2026-03-13 14:47:02,2026-03-06 14:47:02,176.3,251.199
+303,758,Gabrielly Aparecida,Almeida de Sampaio,AM,18,Chevrolet S10,HFY7172,2,CD Santa Maria,Santa Maria,RS,CD São Paulo,São Paulo,SP,2026-06-10 20:31:19,2026-06-18 20:31:19,2026-06-26 20:31:19,412.69,502.535
+28,759,Luiz Gustavo Aparecida,da Costa da Prata,DF,28,Volvo VM 270,NOG4159,3,CD Feira de Santana,Feira de Santana,BA,CD Boa Vista,Boa Vista,RR,2026-04-11 07:07:41,2026-04-19 07:07:41,2026-04-22 07:07:41,900.69,1284.053
+973,761,Dr. Thales Silva,Gonçalves do Galho,PE,18,Chevrolet S10,HFY7172,2,CD Natal,Natal,RN,CD Maringá,Maringá,PR,2026-03-11 11:14:48,2026-03-12 11:14:48,,309.6,351.718
+21,764,Rebeca Fernandes,Farias da Mata,RS,21,Mercedes-Benz Sprinter,WDM2991,3,CD Cascavel,Cascavel,PR,CD Taubaté,Taubaté,SP,2026-01-20 18:31:40,2026-02-03 18:31:40,2026-01-25 18:31:40,1271.27,1147.261
+584,766,Evelyn Moraes,Barbosa de Goiás,MA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Barueri,Barueri,SP,CD Cuiabá,Cuiabá,MT,2026-04-16 22:23:28,2026-04-22 22:23:28,2026-04-19 22:23:28,1172.88,1270.268
+971,767,Pedro Lucas da Conceição,Pastor da Mata,GO,29,Iveco Tector 240E30,KIW4424,3,CD Sobral,Sobral,CE,CD Presidente Prudente,Presidente Prudente,SP,2026-06-12 05:21:07,2026-06-22 05:21:07,,2033.5,1910.517
+524,769,Antônio Fernandes,Rezende,SP,17,Toyota Hilux,XHD6644,2,CD Montes Claros,Montes Claros,MG,CD João Pessoa,João Pessoa,PB,2026-02-05 11:12:26,2026-02-20 11:12:26,,496.03,534.174
+990,769,Antônio Fernandes,Rezende,SP,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Rio Branco,Rio Branco,AC,CD Aracaju,Aracaju,SE,2026-06-23 14:22:12,2026-06-28 14:22:12,,1762.22,1598.122
+992,771,Sr. Josué Nogueira,Araújo da Serra,SC,16,Fiat Toro,COX0501,2,CD Parnaíba,Parnaíba,PI,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-04-28 02:58:10,2026-05-13 02:58:10,2026-05-16 02:58:10,111.25,166.935
+270,772,Sra. Brenda da Cruz,da Cunha,AL,18,Chevrolet S10,HFY7172,2,CD Caruaru,Caruaru,PE,CD Ribeirão Preto,Ribeirão Preto,SP,2026-01-15 13:32:36,2026-01-22 13:32:36,2026-01-28 13:32:36,192.8,213.036
+607,772,Sra. Brenda da Cruz,da Cunha,AL,17,Toyota Hilux,XHD6644,2,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Ponta Grossa,Ponta Grossa,PR,2026-03-29 18:04:42,2026-03-31 18:04:42,2026-04-03 18:04:42,529.41,696.631
+758,772,Sra. Brenda da Cruz,da Cunha,AL,18,Chevrolet S10,HFY7172,2,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Limeira,Limeira,SP,2026-01-09 11:21:45,2026-01-21 11:21:45,,728.05,900.528
+334,774,Maria Eduarda Borges,Albuquerque,TO,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Três Lagoas,Três Lagoas,MS,CD Uberlândia,Uberlândia,MG,2026-06-25 02:07:31,2026-06-29 02:07:31,2026-06-28 02:07:31,866.76,1692.694
+565,774,Maria Eduarda Borges,Albuquerque,TO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Teresina,Teresina,PI,2026-06-20 12:56:14,2026-06-21 12:56:14,2026-06-28 12:56:14,1169.32,1554.822
+187,777,Rhavi Andrade,Teixeira de Barbosa,RO,27,Scania P320,DCB9288,3,CD Macapá,Macapá,AP,CD Florianópolis,Florianópolis,SC,2026-05-05 01:46:57,2026-05-09 01:46:57,2026-05-11 01:46:57,1479.61,1661.893
+7,780,Sr. Vinícius Andrade,Albuquerque,AL,26,Volkswagen Constellation 24.280,AEV8053,3,CD Parnaíba,Parnaíba,PI,CD Rio Verde,Rio Verde,GO,2026-05-23 08:54:01,2026-05-28 08:54:01,2026-05-28 08:54:01,1339.34,1823.671
+42,780,Sr. Vinícius Andrade,Albuquerque,AL,26,Volkswagen Constellation 24.280,AEV8053,3,CD Betim,Betim,MG,CD Goiânia,Goiânia,GO,2026-02-17 05:17:12,2026-03-04 05:17:12,2026-02-26 05:17:12,1737.9,1951.394
+289,780,Sr. Vinícius Andrade,Albuquerque,AL,22,Renault Master,JVZ8251,3,CD Uberaba,Uberaba,MG,CD João Pessoa,João Pessoa,PB,2026-05-09 08:36:20,2026-05-21 08:36:20,2026-05-14 08:36:20,1078.3,1528.45
+398,780,Sr. Vinícius Andrade,Albuquerque,AL,18,Chevrolet S10,HFY7172,2,CD São Luís,São Luís,MA,CD São Carlos,São Carlos,SP,2026-06-11 10:34:35,2026-06-23 10:34:35,,167.64,331.761
+568,780,Sr. Vinícius Andrade,Albuquerque,AL,27,Scania P320,DCB9288,3,CD Volta Redonda,Volta Redonda,RJ,CD Cuiabá,Cuiabá,MT,2026-02-10 20:47:50,2026-02-13 20:47:50,2026-02-24 20:47:50,1168.41,1427.504
+394,781,João Felipe Pinto,Nunes,PE,18,Chevrolet S10,HFY7172,2,CD Linhares,Linhares,ES,CD Teresina,Teresina,PI,2026-01-20 03:30:51,2026-02-03 03:30:51,,415.74,965.28
+602,781,João Felipe Pinto,Nunes,PE,21,Mercedes-Benz Sprinter,WDM2991,3,CD Rio Verde,Rio Verde,GO,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-04-17 15:13:13,2026-05-01 15:13:13,2026-04-27 15:13:13,760.96,1077.264
+821,781,João Felipe Pinto,Nunes,PE,30,DAF XF 480,KSZ8486,3,CD Imperatriz,Imperatriz,MA,CD Criciúma,Criciúma,SC,2026-04-07 00:59:18,2026-04-16 00:59:18,2026-04-25 00:59:18,1184.12,1056.547
+815,782,João Guilherme Duarte,Aragão,RS,20,Volkswagen Amarok,LDU5797,2,CD Aracaju,Aracaju,SE,CD Araçatuba,Araçatuba,SP,2026-03-16 19:12:22,2026-03-25 19:12:22,2026-04-01 19:12:22,625.18,967.493
+792,783,Manuela Leão,Viana do Sul,GO,22,Renault Master,JVZ8251,3,CD Marabá,Marabá,PA,CD Uberlândia,Uberlândia,MG,2026-02-17 23:30:01,2026-03-03 23:30:01,2026-02-18 23:30:01,1463.03,1289.577
+802,783,Manuela Leão,Viana do Sul,GO,23,Fiat Ducato,AUR0775,3,CD Pelotas,Pelotas,RS,CD São Carlos,São Carlos,SP,2026-06-19 03:38:47,2026-07-02 03:38:47,,1490.48,1518.005
+442,784,Caleb Câmara,Peixoto,PI,29,Iveco Tector 240E30,KIW4424,3,CD Chapecó,Chapecó,SC,CD São Luís,São Luís,MA,2026-05-27 19:08:38,2026-06-05 19:08:38,,930.76,1737.791
+800,784,Caleb Câmara,Peixoto,PI,28,Volvo VM 270,NOG4159,3,CD Dourados,Dourados,MS,CD Belo Horizonte,Belo Horizonte,MG,2026-05-15 17:48:08,2026-05-20 17:48:08,2026-05-24 17:48:08,510.88,1089.093
+932,784,Caleb Câmara,Peixoto,PI,22,Renault Master,JVZ8251,3,CD Uberaba,Uberaba,MG,CD Recife,Recife,PE,2026-01-15 14:02:39,2026-01-17 14:02:39,2026-02-01 14:02:39,1048.69,1654.296
+411,785,Henrique Rios,Barbosa,BA,20,Volkswagen Amarok,LDU5797,2,CD Macapá,Macapá,AP,CD Campina Grande,Campina Grande,PB,2026-03-18 04:44:10,2026-03-20 04:44:10,2026-03-31 04:44:10,447.55,400.815
+539,786,Dra. Ana Julia Souza,Porto da Praia,AM,18,Chevrolet S10,HFY7172,2,CD João Pessoa,João Pessoa,PB,CD Araguaína,Araguaína,TO,2026-04-11 21:37:11,2026-04-24 21:37:11,,690.16,590.992
+192,788,Apollo Nascimento,Sales,SC,24,Volkswagen Delivery 11.180,SBS6419,3,CD Campo Grande,Campo Grande,MS,CD Ananindeua,Ananindeua,PA,2026-02-26 02:49:53,2026-03-13 02:49:53,2026-03-14 02:49:53,1808.31,1715.831
+212,788,Apollo Nascimento,Sales,SC,28,Volvo VM 270,NOG4159,3,CD Betim,Betim,MG,CD Fortaleza,Fortaleza,CE,2026-05-22 07:10:26,2026-05-25 07:10:26,2026-05-31 07:10:26,1673.11,1678.333
+634,788,Apollo Nascimento,Sales,SC,22,Renault Master,JVZ8251,3,CD Araguaína,Araguaína,TO,CD Itajaí,Itajaí,SC,2026-01-22 16:22:11,2026-01-24 16:22:11,2026-01-25 16:22:11,1359.81,1959.496
+611,789,Ayla Cirino,Costela Paulista,PR,16,Fiat Toro,COX0501,2,CD Itajaí,Itajaí,SC,CD Niterói,Niterói,RJ,2026-03-06 21:03:51,2026-03-18 21:03:51,,440.02,658.578
+844,790,Davi Ferreira,Santos,MA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Rondonópolis,Rondonópolis,MT,CD São José dos Campos,São José dos Campos,SP,2026-04-08 11:23:14,2026-04-11 11:23:14,2026-04-11 11:23:14,1258.72,1336.414
+25,791,Dra. Maria Julia Ferreira,Lopes do Oeste,RN,1,Fiat Mobi,NCM2438,1,CD Mossoró,Mossoró,RN,CD Macapá,Macapá,AP,2026-03-01 15:08:07,2026-03-05 15:08:07,,73.63,68.308
+94,792,Sr. Oliver Lima,Vasconcelos do Amparo,PI,28,Volvo VM 270,NOG4159,3,CD Marabá,Marabá,PA,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-03-16 14:34:08,2026-03-27 14:34:08,,642.25,1248.685
+91,793,João Pedro Camargo,Araújo de Garcia,ES,30,DAF XF 480,KSZ8486,3,CD João Pessoa,João Pessoa,PB,CD Joinville,Joinville,SC,2026-05-24 12:25:23,2026-05-29 12:25:23,2026-06-07 12:25:23,804.58,1129.108
+902,793,João Pedro Camargo,Araújo de Garcia,ES,23,Fiat Ducato,AUR0775,3,CD Serra,Serra,ES,CD Taubaté,Taubaté,SP,2026-01-08 14:39:37,2026-01-13 14:39:37,2026-01-26 14:39:37,1214.74,1020.039
+140,797,Thomas Campos,Machado,AP,18,Chevrolet S10,HFY7172,2,CD Marília,Marília,SP,CD Presidente Prudente,Presidente Prudente,SP,2026-06-04 01:12:22,2026-06-14 01:12:22,2026-06-22 01:12:22,670.58,969.449
+339,797,Thomas Campos,Machado,AP,21,Mercedes-Benz Sprinter,WDM2991,3,CD Taubaté,Taubaté,SP,CD Aracaju,Aracaju,SE,2026-06-04 05:35:24,2026-06-10 05:35:24,2026-06-15 05:35:24,1288.9,1323.398
+924,797,Thomas Campos,Machado,AP,20,Volkswagen Amarok,LDU5797,2,CD Sobral,Sobral,CE,CD Vitória da Conquista,Vitória da Conquista,BA,2026-06-18 15:20:41,2026-06-27 15:20:41,,899.29,909.43
+228,798,Dr. Matheus Novaes,Costa das Flores,RO,19,Ford Ranger,YTU8726,2,CD Santos,Santos,SP,CD Linhares,Linhares,ES,2026-05-06 14:02:28,2026-05-20 14:02:28,2026-05-19 14:02:28,88.18,138.968
+631,799,Marcelo Lopes,Pinto Alegre,AM,19,Ford Ranger,YTU8726,2,CD Petrolina,Petrolina,PE,CD Araguaína,Araguaína,TO,2026-06-27 21:44:51,2026-06-30 21:44:51,,640.05,900.746
+35,801,Bernardo Guerra,Pimenta,TO,18,Chevrolet S10,HFY7172,2,CD Chapecó,Chapecó,SC,CD Boa Vista,Boa Vista,RR,2026-01-29 04:48:00,2026-02-05 04:48:00,2026-02-10 04:48:00,410.54,441.33
+215,804,Ester da Paz,Dias,MA,20,Volkswagen Amarok,LDU5797,2,CD Limeira,Limeira,SP,CD Guarulhos,Guarulhos,SP,2026-06-16 06:31:18,2026-06-20 06:31:18,2026-06-28 06:31:18,831.77,760.157
+326,804,Ester da Paz,Dias,MA,26,Volkswagen Constellation 24.280,AEV8053,3,CD São Luís,São Luís,MA,CD Sobral,Sobral,CE,2026-02-20 12:52:58,2026-03-07 12:52:58,2026-02-28 12:52:58,1903.21,1611.52
+690,805,Dra. Liz Lopes,Jesus da Mata,SP,18,Chevrolet S10,HFY7172,2,CD Contagem,Contagem,MG,CD Jundiaí,Jundiaí,SP,2026-02-19 09:51:04,2026-02-22 09:51:04,2026-02-21 09:51:04,576.13,472.033
+408,806,Dr. Anthony Correia,Macedo do Oeste,AP,24,Volkswagen Delivery 11.180,SBS6419,3,CD Vila Velha,Vila Velha,ES,CD Ponta Grossa,Ponta Grossa,PR,2026-05-18 22:21:41,2026-05-22 22:21:41,2026-05-21 22:21:41,981.4,1061.522
+856,806,Dr. Anthony Correia,Macedo do Oeste,AP,18,Chevrolet S10,HFY7172,2,CD Juiz de Fora,Juiz de Fora,MG,CD Curitiba,Curitiba,PR,2026-06-21 13:25:51,2026-07-04 13:25:51,,513.16,806.396
+699,809,Pietra Cavalcanti,Marques,SC,19,Ford Ranger,YTU8726,2,CD Macapá,Macapá,AP,CD Canoas,Canoas,RS,2026-01-26 07:57:07,2026-01-27 07:57:07,2026-02-03 07:57:07,887.48,881.631
+716,810,Sra. Joana da Mata,Silva das Flores,PE,17,Toyota Hilux,XHD6644,2,CD Chapecó,Chapecó,SC,CD Curitiba,Curitiba,PR,2026-06-13 18:12:42,2026-06-27 18:12:42,2026-06-17 18:12:42,429.52,577.48
+415,813,Luísa Fernandes,Siqueira,AP,17,Toyota Hilux,XHD6644,2,CD Pelotas,Pelotas,RS,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-06-22 12:53:52,2026-07-06 12:53:52,,452.02,709.428
+239,814,Sr. Bruno Leão,Pereira,PB,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Marília,Marília,SP,CD Linhares,Linhares,ES,2026-06-04 02:09:00,2026-06-17 02:09:00,2026-06-10 02:09:00,891.26,1351.76
+630,814,Sr. Bruno Leão,Pereira,PB,22,Renault Master,JVZ8251,3,CD Santa Maria,Santa Maria,RS,CD Marabá,Marabá,PA,2026-04-13 15:41:57,2026-04-17 15:41:57,2026-04-28 15:41:57,1650.58,1675.479
+595,815,Caroline Macedo,Nascimento da Mata,GO,27,Scania P320,DCB9288,3,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,CD Ananindeua,Ananindeua,PA,2026-06-23 07:24:02,2026-07-06 07:24:02,2026-06-25 07:24:02,1237.62,1432.324
+105,817,Clarice Macedo,Oliveira,MT,19,Ford Ranger,YTU8726,2,CD Teresina,Teresina,PI,CD Ribeirão Preto,Ribeirão Preto,SP,2026-04-22 17:53:20,2026-05-01 17:53:20,2026-05-07 17:53:20,865.21,725.493
+288,817,Clarice Macedo,Oliveira,MT,20,Volkswagen Amarok,LDU5797,2,CD São Luís,São Luís,MA,CD Petrolina,Petrolina,PE,2026-01-14 17:20:15,2026-01-21 17:20:15,,174.43,308.565
+461,817,Clarice Macedo,Oliveira,MT,16,Fiat Toro,COX0501,2,CD Araraquara,Araraquara,SP,CD Serra,Serra,ES,2026-04-03 02:20:39,2026-04-15 02:20:39,2026-04-20 02:20:39,894.92,846.415
+765,818,Ana Liz Garcia,Montenegro,RO,23,Fiat Ducato,AUR0775,3,CD Joinville,Joinville,SC,CD Imperatriz,Imperatriz,MA,2026-04-09 05:00:57,2026-04-14 05:00:57,2026-04-14 05:00:57,1046.49,1608.574
+960,818,Ana Liz Garcia,Montenegro,RO,18,Chevrolet S10,HFY7172,2,CD Osasco,Osasco,SP,CD Cuiabá,Cuiabá,MT,2026-04-27 13:10:02,2026-05-06 13:10:02,2026-05-12 13:10:02,716.32,792.504
+19,819,Larissa Pimenta,da Luz do Amparo,BA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Aracaju,Aracaju,SE,CD Joinville,Joinville,SC,2026-04-14 19:59:00,2026-04-22 19:59:00,2026-04-22 19:59:00,1227.57,1876.83
+161,821,Nicolas Santos,Cunha de Mendes,DF,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Juazeiro,Juazeiro,BA,CD Vitória,Vitória,ES,2026-03-04 09:50:02,2026-03-10 09:50:02,2026-03-21 09:50:02,1551.42,1670.652
+293,821,Nicolas Santos,Cunha de Mendes,DF,24,Volkswagen Delivery 11.180,SBS6419,3,CD Campina Grande,Campina Grande,PB,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-06-22 22:46:59,2026-07-03 22:46:59,,1133.63,1149.781
+586,821,Nicolas Santos,Cunha de Mendes,DF,19,Ford Ranger,YTU8726,2,CD Brasília,Brasília,DF,CD Campina Grande,Campina Grande,PB,2026-06-01 23:50:20,2026-06-02 23:50:20,2026-06-05 23:50:20,140.0,165.625
+130,822,Henrique Cirino,Rodrigues,PI,21,Mercedes-Benz Sprinter,WDM2991,3,CD Araçatuba,Araçatuba,SP,CD Linhares,Linhares,ES,2025-12-31 16:46:21,2026-01-14 16:46:21,2026-01-04 16:46:21,1141.97,1087.206
+828,824,Sr. Bruno Leão,Ribeiro,PR,24,Volkswagen Delivery 11.180,SBS6419,3,CD Camaçari,Camaçari,BA,CD Juiz de Fora,Juiz de Fora,MG,2026-01-11 08:57:50,2026-01-25 08:57:50,2026-01-22 08:57:50,1344.22,1855.378
+887,824,Sr. Bruno Leão,Ribeiro,PR,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Osasco,Osasco,SP,CD Caxias do Sul,Caxias do Sul,RS,2026-06-24 13:11:03,2026-06-30 13:11:03,,1230.0,1238.47
+898,824,Sr. Bruno Leão,Ribeiro,PR,28,Volvo VM 270,NOG4159,3,CD Joinville,Joinville,SC,CD Novo Hamburgo,Novo Hamburgo,RS,2026-04-17 09:27:56,2026-04-22 09:27:56,2026-04-20 09:27:56,1388.17,1919.504
+683,826,Henry Gabriel Novaes,Oliveira,SC,28,Volvo VM 270,NOG4159,3,CD Porto Alegre,Porto Alegre,RS,CD Juazeiro do Norte,Juazeiro do Norte,CE,2026-04-27 03:31:59,2026-05-03 03:31:59,2026-05-01 03:31:59,1104.47,1389.979
+521,827,Dra. Sofia Carvalho,Cirino,PR,30,DAF XF 480,KSZ8486,3,CD Chapecó,Chapecó,SC,CD Dourados,Dourados,MS,2026-06-03 23:30:03,2026-06-08 23:30:03,2026-06-18 23:30:03,1814.86,1822.706
+672,827,Dra. Sofia Carvalho,Cirino,PR,19,Ford Ranger,YTU8726,2,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,CD Petrolina,Petrolina,PE,2026-01-12 11:19:10,2026-01-22 11:19:10,2026-01-15 11:19:10,462.59,516.163
+857,828,Laís Monteiro,Dias,PI,1,Fiat Mobi,NCM2438,1,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,CD Cuiabá,Cuiabá,MT,2026-02-15 20:37:06,2026-02-23 20:37:06,2026-02-25 20:37:06,31.4,10.697
+448,830,Sra. Mariane Pinto,Pastor,DF,16,Fiat Toro,COX0501,2,CD Maceió,Maceió,AL,CD Duque de Caxias,Duque de Caxias,RJ,2026-02-01 10:07:19,2026-02-11 10:07:19,2026-02-19 10:07:19,235.37,280.63
+503,830,Sra. Mariane Pinto,Pastor,DF,19,Ford Ranger,YTU8726,2,CD São Carlos,São Carlos,SP,CD Maringá,Maringá,PR,2026-02-19 18:18:13,2026-02-20 18:18:13,,646.44,569.317
+636,831,Maria Luísa Caldeira,Brito,SE,16,Fiat Toro,COX0501,2,CD Uberaba,Uberaba,MG,CD Marabá,Marabá,PA,2026-05-26 21:22:01,2026-05-31 21:22:01,2026-05-31 21:22:01,453.11,633.525
+588,832,Bento Pimenta,Fonseca,RN,23,Fiat Ducato,AUR0775,3,CD Maringá,Maringá,PR,CD Serra,Serra,ES,2026-06-18 02:45:46,2026-06-26 02:45:46,,1499.23,1305.879
+838,835,Juliana Siqueira,da Luz do Amparo,MA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Linhares,Linhares,ES,2026-05-31 17:04:22,2026-06-01 17:04:22,,1347.73,1972.467
+549,836,Clarice Alves,Sampaio,AC,19,Ford Ranger,YTU8726,2,CD Goiânia,Goiânia,GO,CD Maceió,Maceió,AL,2026-06-18 03:12:49,2026-07-02 03:12:49,,558.4,722.584
+33,837,Maria Júlia Porto,Pimenta do Amparo,ES,30,DAF XF 480,KSZ8486,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Criciúma,Criciúma,SC,2026-03-30 13:29:33,2026-04-11 13:29:33,2026-04-13 13:29:33,735.44,1394.073
+478,837,Maria Júlia Porto,Pimenta do Amparo,ES,17,Toyota Hilux,XHD6644,2,CD Salvador,Salvador,BA,CD Guarulhos,Guarulhos,SP,2026-03-19 05:36:06,2026-03-26 05:36:06,,1153.2,999.908
+193,838,Ana Carolina Ferreira,Pinto de da Cruz,DF,18,Chevrolet S10,HFY7172,2,CD São José dos Campos,São José dos Campos,SP,CD Camaçari,Camaçari,BA,2026-02-23 06:01:50,2026-03-10 06:01:50,,528.93,566.853
+429,838,Ana Carolina Ferreira,Pinto de da Cruz,DF,29,Iveco Tector 240E30,KIW4424,3,CD Pelotas,Pelotas,RS,CD Natal,Natal,RN,2026-05-02 17:40:51,2026-05-09 17:40:51,2026-05-09 17:40:51,1465.54,1732.839
+599,839,Yasmin Castro,Peixoto Grande,RO,18,Chevrolet S10,HFY7172,2,CD Governador Valadares,Governador Valadares,MG,CD Cascavel,Cascavel,PR,2026-01-20 08:17:55,2026-01-30 08:17:55,2026-01-21 08:17:55,152.89,114.351
+4,841,Dr. Luigi Sampaio,Guerra,RJ,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Guarulhos,Guarulhos,SP,CD Novo Hamburgo,Novo Hamburgo,RS,2026-01-28 08:50:54,2026-02-05 08:50:54,,1264.91,1916.557
+896,841,Dr. Luigi Sampaio,Guerra,RJ,22,Renault Master,JVZ8251,3,CD Belém,Belém,PA,CD Rio Verde,Rio Verde,GO,2026-01-14 15:52:41,2026-01-24 15:52:41,,850.9,1536.805
+341,842,Daniel Ribeiro,Rios,MG,16,Fiat Toro,COX0501,2,CD Ponta Grossa,Ponta Grossa,PR,CD Belo Horizonte,Belo Horizonte,MG,2026-01-23 12:20:34,2026-02-06 12:20:34,2026-02-10 12:20:34,454.0,681.915
+564,842,Daniel Ribeiro,Rios,MG,27,Scania P320,DCB9288,3,CD Fortaleza,Fortaleza,CE,CD Araraquara,Araraquara,SP,2026-06-24 06:20:26,2026-07-09 06:20:26,,886.46,1522.701
+171,844,Sra. Natália Lima,Novaes das Flores,AL,21,Mercedes-Benz Sprinter,WDM2991,3,CD Belo Horizonte,Belo Horizonte,MG,CD Porto Alegre,Porto Alegre,RS,2026-03-12 11:49:03,2026-03-23 11:49:03,2026-03-19 11:49:03,1151.74,1331.184
+606,844,Sra. Natália Lima,Novaes das Flores,AL,26,Volkswagen Constellation 24.280,AEV8053,3,CD Boa Vista,Boa Vista,RR,CD Salvador,Salvador,BA,2026-02-12 08:54:40,2026-02-21 08:54:40,,1483.54,1777.791
+13,845,Camila Peixoto,Almeida das Pedras,TO,20,Volkswagen Amarok,LDU5797,2,CD Novo Hamburgo,Novo Hamburgo,RS,CD Linhares,Linhares,ES,2026-04-02 02:15:12,2026-04-09 02:15:12,2026-04-20 02:15:12,945.13,848.893
+51,845,Camila Peixoto,Almeida das Pedras,TO,17,Toyota Hilux,XHD6644,2,CD São Paulo,São Paulo,SP,CD Joinville,Joinville,SC,2026-05-18 13:51:01,2026-05-26 13:51:01,2026-06-01 13:51:01,231.24,202.192
+211,845,Camila Peixoto,Almeida das Pedras,TO,17,Toyota Hilux,XHD6644,2,CD São Carlos,São Carlos,SP,CD João Pessoa,João Pessoa,PB,2026-01-22 07:58:08,2026-01-24 07:58:08,2026-02-09 07:58:08,234.95,244.899
+144,847,Dr. Pedro Lucas Montenegro,da Luz de Pires,AP,18,Chevrolet S10,HFY7172,2,CD Linhares,Linhares,ES,CD Mossoró,Mossoró,RN,2026-04-29 19:38:25,2026-05-14 19:38:25,2026-05-10 19:38:25,261.94,318.089
+194,847,Dr. Pedro Lucas Montenegro,da Luz de Pires,AP,27,Scania P320,DCB9288,3,CD Salvador,Salvador,BA,CD Pelotas,Pelotas,RS,2026-02-01 21:38:57,2026-02-15 21:38:57,2026-02-09 21:38:57,1445.46,1930.832
+711,847,Dr. Pedro Lucas Montenegro,da Luz de Pires,AP,3,Volkswagen Gol,VLJ1682,1,CD Brasília,Brasília,DF,CD Franca,Franca,SP,2026-03-10 01:35:20,2026-03-20 01:35:20,2026-03-21 01:35:20,36.97,22.742
+290,848,Erick Sá,Gonçalves,AC,27,Scania P320,DCB9288,3,CD Governador Valadares,Governador Valadares,MG,CD Campinas,Campinas,SP,2026-01-08 21:24:41,2026-01-21 21:24:41,2026-01-25 21:24:41,1149.01,1938.688
+616,848,Erick Sá,Gonçalves,AC,27,Scania P320,DCB9288,3,CD João Pessoa,João Pessoa,PB,CD Camaçari,Camaçari,BA,2026-01-13 04:22:05,2026-01-22 04:22:05,2026-01-26 04:22:05,1240.81,1092.941
+835,848,Erick Sá,Gonçalves,AC,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Joinville,Joinville,SC,CD Maringá,Maringá,PR,2026-05-28 05:39:39,2026-05-31 05:39:39,2026-06-15 05:39:39,746.13,1515.706
+374,849,Srta. Fernanda Rezende,Vieira dos Dourados,TO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Franca,Franca,SP,2026-01-29 16:29:22,2026-02-13 16:29:22,2026-02-14 16:29:22,1121.18,1940.889
+307,850,Diogo Abreu,Castro,ES,27,Scania P320,DCB9288,3,CD Santos,Santos,SP,CD Arapiraca,Arapiraca,AL,2026-02-05 22:59:29,2026-02-15 22:59:29,2026-02-18 22:59:29,802.93,1266.816
+953,850,Diogo Abreu,Castro,ES,19,Ford Ranger,YTU8726,2,CD Sinop,Sinop,MT,CD Parnaíba,Parnaíba,PI,2026-05-08 06:30:09,2026-05-13 06:30:09,,664.88,730.281
+752,851,Asafe Ramos,Costa,DF,26,Volkswagen Constellation 24.280,AEV8053,3,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Montes Claros,Montes Claros,MG,2026-06-04 23:43:43,2026-06-07 23:43:43,2026-06-21 23:43:43,1316.65,1755.725
+808,851,Asafe Ramos,Costa,DF,15,Citroen C3,POW7674,1,CD Vitória,Vitória,ES,CD Camaçari,Camaçari,BA,2026-06-01 00:14:06,2026-06-15 00:14:06,,43.21,25.867
+226,852,Paulo Macedo,Porto,SC,16,Fiat Toro,COX0501,2,CD Barueri,Barueri,SP,CD Caruaru,Caruaru,PE,2026-03-06 20:15:02,2026-03-14 20:15:02,2026-03-14 20:15:02,559.64,518.277
+310,852,Paulo Macedo,Porto,SC,28,Volvo VM 270,NOG4159,3,CD Petrolina,Petrolina,PE,CD São Carlos,São Carlos,SP,2026-02-21 18:42:39,2026-03-07 18:42:39,2026-03-03 18:42:39,2098.6,1766.285
+371,852,Paulo Macedo,Porto,SC,27,Scania P320,DCB9288,3,CD Niterói,Niterói,RJ,CD Vitória,Vitória,ES,2026-02-22 19:49:42,2026-02-25 19:49:42,,1064.58,1538.889
+133,853,Otto Andrade,Caldeira,ES,22,Renault Master,JVZ8251,3,CD Sobral,Sobral,CE,CD São Carlos,São Carlos,SP,2026-05-29 15:47:47,2026-06-06 15:47:47,2026-06-03 15:47:47,810.15,1080.841
+277,854,Sra. Liz Brito,da Cruz dos Dourados,GO,29,Iveco Tector 240E30,KIW4424,3,CD Ponta Grossa,Ponta Grossa,PR,CD Itajaí,Itajaí,SC,2026-03-23 02:43:58,2026-03-27 02:43:58,,803.64,1202.015
+571,854,Sra. Liz Brito,da Cruz dos Dourados,GO,28,Volvo VM 270,NOG4159,3,CD Rio de Janeiro,Rio de Janeiro,RJ,CD Blumenau,Blumenau,SC,2026-06-02 22:20:34,2026-06-05 22:20:34,2026-06-15 22:20:34,544.74,1208.792
+242,856,Lucas Gabriel Rocha,da Luz,PE,30,DAF XF 480,KSZ8486,3,CD Araçatuba,Araçatuba,SP,CD Recife,Recife,PE,2026-06-06 11:36:39,2026-06-14 11:36:39,2026-06-17 11:36:39,1236.28,1381.203
+816,858,Dra. Maria Julia Cardoso,Montenegro do Galho,PI,30,DAF XF 480,KSZ8486,3,CD Santarém,Santarém,PA,CD Caruaru,Caruaru,PE,2026-05-10 08:44:23,2026-05-22 08:44:23,,928.63,1645.198
+809,861,Dr. Vitor Rodrigues,da Rocha do Galho,SE,19,Ford Ranger,YTU8726,2,CD Jundiaí,Jundiaí,SP,CD Campo Grande,Campo Grande,MS,2026-03-13 22:52:00,2026-03-26 22:52:00,2026-03-19 22:52:00,370.0,488.337
+720,862,Ana Gomes,Fernandes Grande,PE,22,Renault Master,JVZ8251,3,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Governador Valadares,Governador Valadares,MG,2026-01-11 11:42:39,2026-01-24 11:42:39,2026-01-22 11:42:39,1369.06,1996.862
+803,862,Ana Gomes,Fernandes Grande,PE,21,Mercedes-Benz Sprinter,WDM2991,3,CD Macapá,Macapá,AP,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-05-12 16:45:17,2026-05-26 16:45:17,2026-05-26 16:45:17,1540.3,1372.23
+49,863,Lorenzo Pacheco,Mendes,SC,23,Fiat Ducato,AUR0775,3,CD Marília,Marília,SP,CD São Carlos,São Carlos,SP,2026-05-06 06:12:39,2026-05-19 06:12:39,2026-05-23 06:12:39,1190.4,1299.817
+267,864,Danilo Vieira,Porto da Praia,MA,19,Ford Ranger,YTU8726,2,CD Franca,Franca,SP,CD Camaçari,Camaçari,BA,2026-03-05 18:18:24,2026-03-17 18:18:24,2026-03-07 18:18:24,164.55,293.086
+321,866,Sr. Arthur Aparecida,Pereira,RN,24,Volkswagen Delivery 11.180,SBS6419,3,CD Marília,Marília,SP,CD Guarulhos,Guarulhos,SP,2026-03-30 08:43:17,2026-04-14 08:43:17,2026-04-02 08:43:17,794.1,1520.785
+389,866,Sr. Arthur Aparecida,Pereira,RN,23,Fiat Ducato,AUR0775,3,CD São José dos Campos,São José dos Campos,SP,CD Novo Hamburgo,Novo Hamburgo,RS,2026-05-31 16:25:16,2026-06-15 16:25:16,,1049.51,1596.907
+859,868,Dr. Vitor Hugo Barbosa,Novais do Galho,ES,19,Ford Ranger,YTU8726,2,CD Teresina,Teresina,PI,CD Imperatriz,Imperatriz,MA,2026-01-08 22:10:52,2026-01-23 22:10:52,,108.96,105.184
+12,869,Fernando Novaes,Siqueira,PR,5,Chevrolet Onix,PIO2288,1,CD Porto Velho,Porto Velho,RO,CD Boa Vista,Boa Vista,RR,2026-05-10 13:23:28,2026-05-20 13:23:28,,49.67,39.004
+680,870,Vinícius Fogaça,Rios das Flores,AM,7,Hyundai HB20,EOY4603,1,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Brasília,Brasília,DF,2026-02-12 16:27:25,2026-02-15 16:27:25,2026-03-02 16:27:25,96.58,61.277
+135,872,Igor Pacheco,Costela,MT,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Foz do Iguaçu,Foz do Iguaçu,PR,CD Santos,Santos,SP,2026-01-15 15:05:00,2026-01-23 15:05:00,2026-01-22 15:05:00,2113.66,1999.444
+913,872,Igor Pacheco,Costela,MT,19,Ford Ranger,YTU8726,2,CD Itajaí,Itajaí,SC,CD Salvador,Salvador,BA,2026-01-04 15:05:30,2026-01-08 15:05:30,2026-01-22 15:05:30,174.47,254.383
+252,873,Beatriz Sampaio,Sá de da Rocha,MG,24,Volkswagen Delivery 11.180,SBS6419,3,CD Maceió,Maceió,AL,CD Feira de Santana,Feira de Santana,BA,2026-06-10 08:12:55,2026-06-22 08:12:55,,1077.65,1952.307
+686,873,Beatriz Sampaio,Sá de da Rocha,MG,23,Fiat Ducato,AUR0775,3,CD Linhares,Linhares,ES,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-03-02 02:16:47,2026-03-17 02:16:47,2026-03-12 02:16:47,1057.7,1509.013
+881,873,Beatriz Sampaio,Sá de da Rocha,MG,20,Volkswagen Amarok,LDU5797,2,CD Maceió,Maceió,AL,CD Limeira,Limeira,SP,2026-06-08 11:44:32,2026-06-16 11:44:32,2026-06-12 11:44:32,181.81,222.769
+748,874,Maria Helena Rezende,Sousa,BA,29,Iveco Tector 240E30,KIW4424,3,CD Araçatuba,Araçatuba,SP,CD Ribeirão Preto,Ribeirão Preto,SP,2026-01-15 11:07:57,2026-01-25 11:07:57,2026-01-17 11:07:57,1157.3,1794.907
+626,875,João Guilherme Ramos,Pacheco,AL,9,Honda Civic,EPY9357,1,CD Governador Valadares,Governador Valadares,MG,CD Petrolina,Petrolina,PE,2026-02-06 09:28:27,2026-02-10 09:28:27,2026-02-23 09:28:27,53.01,29.019
+891,875,João Guilherme Ramos,Pacheco,AL,19,Ford Ranger,YTU8726,2,CD Recife,Recife,PE,CD Salvador,Salvador,BA,2026-04-06 22:55:06,2026-04-11 22:55:06,2026-04-13 22:55:06,721.28,664.613
+915,876,Olívia Moraes,Cassiano,RJ,22,Renault Master,JVZ8251,3,CD Contagem,Contagem,MG,CD Santarém,Santarém,PA,2026-06-08 13:45:22,2026-06-12 13:45:22,2026-06-20 13:45:22,689.85,1176.812
+264,877,Danilo Sales,Pimenta,MA,18,Chevrolet S10,HFY7172,2,CD Sorocaba,Sorocaba,SP,CD Maringá,Maringá,PR,2026-01-16 20:28:04,2026-01-22 20:28:04,2026-01-19 20:28:04,880.7,887.361
+931,877,Danilo Sales,Pimenta,MA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Franca,Franca,SP,CD Palmas,Palmas,TO,2026-03-04 08:27:31,2026-03-10 08:27:31,2026-03-05 08:27:31,1154.35,1646.838
+397,878,Kamilly Monteiro,Duarte,PR,28,Volvo VM 270,NOG4159,3,CD Novo Hamburgo,Novo Hamburgo,RS,CD Arapiraca,Arapiraca,AL,2026-03-15 20:19:31,2026-03-17 20:19:31,2026-03-26 20:19:31,1115.64,1657.156
+312,879,Maria Júlia Gonçalves,Novais,AL,17,Toyota Hilux,XHD6644,2,CD Itajaí,Itajaí,SC,CD Governador Valadares,Governador Valadares,MG,2026-03-29 16:24:24,2026-03-30 16:24:24,2026-04-15 16:24:24,683.27,770.617
+754,879,Maria Júlia Gonçalves,Novais,AL,28,Volvo VM 270,NOG4159,3,CD Chapecó,Chapecó,SC,CD Três Lagoas,Três Lagoas,MS,2026-06-03 21:39:38,2026-06-12 21:39:38,2026-06-17 21:39:38,928.64,1110.794
+393,880,Maria Fernanda Fernandes,Costa de Novais,MA,20,Volkswagen Amarok,LDU5797,2,CD Juazeiro,Juazeiro,BA,CD Ponta Grossa,Ponta Grossa,PR,2026-02-26 13:23:43,2026-03-03 13:23:43,,212.72,379.319
+664,880,Maria Fernanda Fernandes,Costa de Novais,MA,26,Volkswagen Constellation 24.280,AEV8053,3,CD Petrolina,Petrolina,PE,CD Campo Grande,Campo Grande,MS,2026-06-11 16:11:15,2026-06-24 16:11:15,2026-06-16 16:11:15,968.12,1646.305
+939,880,Maria Fernanda Fernandes,Costa de Novais,MA,30,DAF XF 480,KSZ8486,3,CD Jundiaí,Jundiaí,SP,CD São Paulo,São Paulo,SP,2026-03-26 23:18:09,2026-03-28 23:18:09,,831.33,1822.353
+957,880,Maria Fernanda Fernandes,Costa de Novais,MA,23,Fiat Ducato,AUR0775,3,CD Sorocaba,Sorocaba,SP,CD Betim,Betim,MG,2026-03-05 20:19:38,2026-03-14 20:19:38,2026-03-11 20:19:38,1398.03,1780.543
+276,881,Dra. Maria Helena Gonçalves,Albuquerque,DF,20,Volkswagen Amarok,LDU5797,2,CD Cuiabá,Cuiabá,MT,CD Itajaí,Itajaí,SC,2026-04-16 10:25:50,2026-04-25 10:25:50,2026-04-22 10:25:50,566.48,663.443
+455,882,Srta. Isabela Andrade,Cirino do Galho,SC,16,Fiat Toro,COX0501,2,CD São Luís,São Luís,MA,CD Cascavel,Cascavel,PR,2026-05-16 07:49:49,2026-05-24 07:49:49,2026-05-25 07:49:49,286.23,357.759
+386,884,Maria Flor da Conceição,Borges,AP,23,Fiat Ducato,AUR0775,3,CD Boa Vista,Boa Vista,RR,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-01-25 10:43:31,2026-02-03 10:43:31,,2285.22,1892.129
+421,884,Maria Flor da Conceição,Borges,AP,29,Iveco Tector 240E30,KIW4424,3,CD Vila Velha,Vila Velha,ES,CD Campina Grande,Campina Grande,PB,2026-01-27 17:48:47,2026-02-10 17:48:47,2026-02-03 17:48:47,2166.26,1944.277
+776,884,Maria Flor da Conceição,Borges,AP,20,Volkswagen Amarok,LDU5797,2,CD Porto Velho,Porto Velho,RO,CD Feira de Santana,Feira de Santana,BA,2026-03-08 03:23:24,2026-03-10 03:23:24,,244.09,544.839
+126,885,Dra. Maria Laura Duarte,Cassiano,PE,18,Chevrolet S10,HFY7172,2,CD Vitória da Conquista,Vitória da Conquista,BA,CD São Luís,São Luís,MA,2026-06-18 15:49:06,2026-07-02 15:49:06,,251.82,363.51
+505,885,Dra. Maria Laura Duarte,Cassiano,PE,18,Chevrolet S10,HFY7172,2,CD Uberaba,Uberaba,MG,CD Vitória,Vitória,ES,2026-06-17 04:43:48,2026-06-24 04:43:48,,792.18,887.712
+695,887,Maitê Porto,das Neves do Amparo,PA,24,Volkswagen Delivery 11.180,SBS6419,3,CD Palmas,Palmas,TO,CD Bauru,Bauru,SP,2026-03-11 03:14:53,2026-03-19 03:14:53,2026-03-25 03:14:53,695.55,1552.888
+309,888,Camila Monteiro,Jesus de Câmara,TO,19,Ford Ranger,YTU8726,2,CD Canoas,Canoas,RS,CD Fortaleza,Fortaleza,CE,2026-04-26 04:08:20,2026-05-04 04:08:20,,350.38,620.243
+962,888,Camila Monteiro,Jesus de Câmara,TO,16,Fiat Toro,COX0501,2,CD Ribeirão Preto,Ribeirão Preto,SP,CD Maringá,Maringá,PR,2026-04-07 08:13:32,2026-04-08 08:13:32,2026-04-13 08:13:32,136.13,168.15
+958,890,Arthur Miguel da Cruz,Cavalcante,CE,21,Mercedes-Benz Sprinter,WDM2991,3,CD Chapecó,Chapecó,SC,CD Goiânia,Goiânia,GO,2026-01-23 15:46:05,2026-02-07 15:46:05,2026-01-28 15:46:05,951.22,1198.028
+591,891,Yasmin Novaes,Sousa,MT,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Belém,Belém,PA,CD Niterói,Niterói,RJ,2026-04-16 16:36:35,2026-04-26 16:36:35,2026-04-20 16:36:35,1535.65,1563.079
+893,892,Apollo Rocha,Aparecida da Mata,RS,21,Mercedes-Benz Sprinter,WDM2991,3,CD Vitória,Vitória,ES,CD Caxias do Sul,Caxias do Sul,RS,2026-01-15 11:37:26,2026-01-21 11:37:26,2026-02-02 11:37:26,1258.15,1040.527
+860,893,Ravi Duarte,da Cunha das Flores,MT,26,Volkswagen Constellation 24.280,AEV8053,3,CD João Pessoa,João Pessoa,PB,CD Vitória,Vitória,ES,2026-03-16 06:11:25,2026-03-24 06:11:25,,1202.83,1120.656
+185,896,Maria Luiza Pacheco,da Cunha Paulista,MT,18,Chevrolet S10,HFY7172,2,CD Palmas,Palmas,TO,CD São José dos Campos,São José dos Campos,SP,2026-05-28 15:55:29,2026-06-12 15:55:29,,295.69,417.079
+446,897,Eloah Oliveira,Sampaio,AP,16,Fiat Toro,COX0501,2,CD Brasília,Brasília,DF,CD Teresina,Teresina,PI,2026-06-17 10:33:53,2026-06-27 10:33:53,2026-06-27 10:33:53,709.26,570.559
+175,898,Dra. Ana Gomes,Mendes da Serra,CE,20,Volkswagen Amarok,LDU5797,2,CD Belo Horizonte,Belo Horizonte,MG,CD Joinville,Joinville,SC,2026-06-22 23:43:15,2026-06-29 23:43:15,,378.72,561.377
+399,899,Gustavo Freitas,Rodrigues Verde,CE,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Porto Alegre,Porto Alegre,RS,CD Linhares,Linhares,ES,2026-04-05 13:15:43,2026-04-17 13:15:43,2026-04-15 13:15:43,673.14,1561.262
+579,899,Gustavo Freitas,Rodrigues Verde,CE,28,Volvo VM 270,NOG4159,3,CD Campinas,Campinas,SP,CD Manaus,Manaus,AM,2026-02-23 04:35:22,2026-02-25 04:35:22,2026-03-10 04:35:22,1014.12,1224.876
+593,899,Gustavo Freitas,Rodrigues Verde,CE,20,Volkswagen Amarok,LDU5797,2,CD João Pessoa,João Pessoa,PB,CD Campo Grande,Campo Grande,MS,2026-06-14 13:44:39,2026-06-15 13:44:39,2026-06-20 13:44:39,598.18,601.997
+60,901,Enzo Sampaio,Moraes da Prata,RJ,16,Fiat Toro,COX0501,2,CD Rio de Janeiro,Rio de Janeiro,RJ,CD Salvador,Salvador,BA,2026-05-18 06:56:39,2026-05-20 06:56:39,2026-05-23 06:56:39,355.15,741.123
+725,903,Maria Helena Pacheco,Aparecida,TO,21,Mercedes-Benz Sprinter,WDM2991,3,CD Presidente Prudente,Presidente Prudente,SP,CD Maceió,Maceió,AL,2026-04-18 12:06:04,2026-04-24 12:06:04,,803.98,1283.777
+134,906,Calebe Sousa,das Neves do Campo,RR,17,Toyota Hilux,XHD6644,2,CD Vitória,Vitória,ES,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-04-19 19:23:53,2026-04-23 19:23:53,2026-05-01 19:23:53,486.46,600.755
+657,910,Dra. Kamilly Andrade,Oliveira de Sampaio,PI,22,Renault Master,JVZ8251,3,CD Cascavel,Cascavel,PR,CD Contagem,Contagem,MG,2026-05-26 12:02:07,2026-06-04 12:02:07,2026-05-30 12:02:07,564.23,1078.056
+972,911,Thomas Moura,Siqueira,MG,24,Volkswagen Delivery 11.180,SBS6419,3,CD Contagem,Contagem,MG,CD Taubaté,Taubaté,SP,2026-05-09 14:03:57,2026-05-18 14:03:57,2026-05-19 14:03:57,939.35,1330.459
+810,912,Agatha Andrade,Martins,PR,24,Volkswagen Delivery 11.180,SBS6419,3,CD Londrina,Londrina,PR,CD Camaçari,Camaçari,BA,2026-05-29 20:46:48,2026-06-10 20:46:48,2026-05-30 20:46:48,717.89,1074.131
+818,914,Alícia Macedo,Macedo de Ribeiro,RR,29,Iveco Tector 240E30,KIW4424,3,CD Chapecó,Chapecó,SC,CD Três Lagoas,Três Lagoas,MS,2026-01-17 05:56:20,2026-01-20 05:56:20,2026-01-31 05:56:20,1485.29,1304.951
+227,916,Yuri Ribeiro,Abreu Verde,TO,18,Chevrolet S10,HFY7172,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Canoas,Canoas,RS,2026-02-25 03:20:21,2026-02-27 03:20:21,2026-03-10 03:20:21,597.37,512.231
+561,917,Cauê Azevedo,da Paz das Flores,PE,30,DAF XF 480,KSZ8486,3,CD Betim,Betim,MG,CD Vitória da Conquista,Vitória da Conquista,BA,2026-04-27 20:07:05,2026-05-07 20:07:05,2026-05-03 20:07:05,928.99,1960.391
+923,918,Yasmin Campos,da Cunha de Jesus,SC,20,Volkswagen Amarok,LDU5797,2,CD Montes Claros,Montes Claros,MG,CD Sobral,Sobral,CE,2026-05-04 06:49:37,2026-05-10 06:49:37,2026-05-16 06:49:37,530.21,565.263
+287,920,Sr. Lucca Ramos,Brito Alegre,MA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Araguaína,Araguaína,TO,CD Aracaju,Aracaju,SE,2026-04-02 03:41:55,2026-04-14 03:41:55,2026-04-14 03:41:55,951.07,1037.2
+286,921,Heloisa Mendes,Nascimento,AM,29,Iveco Tector 240E30,KIW4424,3,CD Limeira,Limeira,SP,CD Canoas,Canoas,RS,2026-02-15 01:48:59,2026-02-25 01:48:59,2026-02-17 01:48:59,611.97,1263.666
+483,924,Dra. Eloá Pastor,Abreu do Galho,MG,29,Iveco Tector 240E30,KIW4424,3,CD Caxias do Sul,Caxias do Sul,RS,CD Bauru,Bauru,SP,2026-02-27 11:41:13,2026-03-08 11:41:13,2026-03-03 11:41:13,660.03,1299.265
+487,924,Dra. Eloá Pastor,Abreu do Galho,MG,12,Renault Kwid,FSP8142,1,CD Aracaju,Aracaju,SE,CD Betim,Betim,MG,2026-05-15 08:56:59,2026-05-23 08:56:59,2026-05-30 08:56:59,41.54,22.992
+919,924,Dra. Eloá Pastor,Abreu do Galho,MG,18,Chevrolet S10,HFY7172,2,CD Campinas,Campinas,SP,CD Rio Verde,Rio Verde,GO,2026-02-03 13:17:45,2026-02-05 13:17:45,2026-02-19 13:17:45,204.93,176.075
+383,925,Vitória Rios,Pires,MA,23,Fiat Ducato,AUR0775,3,CD Araçatuba,Araçatuba,SP,CD Serra,Serra,ES,2026-02-07 05:38:29,2026-02-17 05:38:29,2026-02-09 05:38:29,1676.58,1436.191
+709,927,Pedro Henrique Alves,Fernandes,RR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Barueri,Barueri,SP,CD Pelotas,Pelotas,RS,2026-05-24 22:12:14,2026-06-06 22:12:14,2026-06-11 22:12:14,538.47,1223.332
+141,932,Clarice Souza,Costa da Prata,RN,19,Ford Ranger,YTU8726,2,CD Novo Hamburgo,Novo Hamburgo,RS,CD Petrolina,Petrolina,PE,2026-01-23 15:35:47,2026-01-31 15:35:47,2026-02-01 15:35:47,468.54,813.622
+237,932,Clarice Souza,Costa da Prata,RN,19,Ford Ranger,YTU8726,2,CD Duque de Caxias,Duque de Caxias,RJ,CD São Carlos,São Carlos,SP,2026-05-10 04:03:03,2026-05-18 04:03:03,2026-05-26 04:03:03,795.68,916.62
+338,932,Clarice Souza,Costa da Prata,RN,18,Chevrolet S10,HFY7172,2,CD Goiânia,Goiânia,GO,CD São Paulo,São Paulo,SP,2026-04-28 07:27:13,2026-05-01 07:27:13,2026-05-12 07:27:13,503.28,675.622
+842,934,Antonella Correia,Melo,RS,28,Volvo VM 270,NOG4159,3,CD Taubaté,Taubaté,SP,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-04-07 16:12:16,2026-04-16 16:12:16,2026-04-12 16:12:16,625.88,1250.688
+512,935,Liam Cavalcante,Freitas,MT,20,Volkswagen Amarok,LDU5797,2,CD Linhares,Linhares,ES,CD Três Lagoas,Três Lagoas,MS,2026-03-14 01:42:04,2026-03-26 01:42:04,2026-04-01 01:42:04,111.31,123.733
+536,935,Liam Cavalcante,Freitas,MT,22,Renault Master,JVZ8251,3,CD Caruaru,Caruaru,PE,CD Vitória da Conquista,Vitória da Conquista,BA,2026-05-04 23:20:52,2026-05-11 23:20:52,2026-05-12 23:20:52,849.34,1213.44
+319,936,João Pedro Rezende,Jesus,MT,24,Volkswagen Delivery 11.180,SBS6419,3,CD Dourados,Dourados,MS,CD Mossoró,Mossoró,RN,2026-01-20 21:53:57,2026-01-26 21:53:57,2026-01-30 21:53:57,1586.97,1334.817
+414,937,Daniel Novais,Melo Grande,RN,30,DAF XF 480,KSZ8486,3,CD Montes Claros,Montes Claros,MG,CD João Pessoa,João Pessoa,PB,2026-04-18 21:03:44,2026-04-28 21:03:44,2026-04-20 21:03:44,889.06,1511.059
+980,937,Daniel Novais,Melo Grande,RN,21,Mercedes-Benz Sprinter,WDM2991,3,CD Boa Vista,Boa Vista,RR,CD Canoas,Canoas,RS,2026-03-13 09:48:11,2026-03-17 09:48:11,2026-03-21 09:48:11,2201.73,1999.662
+353,938,Yago Pires,Marques,BA,18,Chevrolet S10,HFY7172,2,CD Chapecó,Chapecó,SC,CD Presidente Prudente,Presidente Prudente,SP,2026-04-03 14:20:26,2026-04-08 14:20:26,2026-04-08 14:20:26,672.11,696.118
+395,940,Sra. Luara Aragão,Borges,AM,20,Volkswagen Amarok,LDU5797,2,CD Blumenau,Blumenau,SC,CD Ponta Grossa,Ponta Grossa,PR,2026-04-05 19:26:19,2026-04-06 19:26:19,2026-04-22 19:26:19,352.12,368.025
+673,942,Vitor Pereira,Sales,RR,20,Volkswagen Amarok,LDU5797,2,CD Santos,Santos,SP,CD Curitiba,Curitiba,PR,2026-05-10 03:37:12,2026-05-21 03:37:12,,152.22,163.754
+44,943,Maria Clara Oliveira,Albuquerque,SC,16,Fiat Toro,COX0501,2,CD Montes Claros,Montes Claros,MG,CD Sorocaba,Sorocaba,SP,2026-06-06 21:02:35,2026-06-20 21:02:35,2026-06-20 21:02:35,852.98,825.183
+116,943,Maria Clara Oliveira,Albuquerque,SC,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Bauru,Bauru,SP,CD Mossoró,Mossoró,RN,2026-06-01 22:56:20,2026-06-12 22:56:20,2026-06-13 22:56:20,1040.22,1414.555
+558,943,Maria Clara Oliveira,Albuquerque,SC,23,Fiat Ducato,AUR0775,3,CD Ponta Grossa,Ponta Grossa,PR,CD Cascavel,Cascavel,PR,2026-04-23 00:03:52,2026-05-01 00:03:52,2026-04-29 00:03:52,1476.66,1783.376
+85,944,Enrico Novaes,Novaes,MT,29,Iveco Tector 240E30,KIW4424,3,CD Juazeiro do Norte,Juazeiro do Norte,CE,CD Itajaí,Itajaí,SC,2026-04-27 09:50:03,2026-05-05 09:50:03,2026-05-08 09:50:03,1429.92,1973.497
+245,944,Enrico Novaes,Novaes,MT,28,Volvo VM 270,NOG4159,3,CD Três Lagoas,Três Lagoas,MS,CD Porto Alegre,Porto Alegre,RS,2025-12-30 17:49:52,2026-01-13 17:49:52,2026-01-16 17:49:52,1119.43,1249.294
+433,944,Enrico Novaes,Novaes,MT,17,Toyota Hilux,XHD6644,2,CD Limeira,Limeira,SP,CD Arapiraca,Arapiraca,AL,2026-05-25 09:45:02,2026-05-30 09:45:02,2026-06-08 09:45:02,187.26,241.184
+678,944,Enrico Novaes,Novaes,MT,24,Volkswagen Delivery 11.180,SBS6419,3,CD Bauru,Bauru,SP,CD Anápolis,Anápolis,GO,2026-05-19 04:39:22,2026-05-27 04:39:22,,1894.21,1755.053
+354,947,Júlia Ferreira,Costela,RR,16,Fiat Toro,COX0501,2,CD Marília,Marília,SP,CD Foz do Iguaçu,Foz do Iguaçu,PR,2025-12-31 03:59:32,2026-01-11 03:59:32,2026-01-05 03:59:32,910.38,749.8
+229,949,André Viana,Monteiro Verde,PA,23,Fiat Ducato,AUR0775,3,CD Arapiraca,Arapiraca,AL,CD Joinville,Joinville,SC,2026-03-30 04:03:32,2026-04-09 04:03:32,2026-04-09 04:03:32,888.93,1480.991
+728,949,André Viana,Monteiro Verde,PA,30,DAF XF 480,KSZ8486,3,CD Serra,Serra,ES,CD Cuiabá,Cuiabá,MT,2026-03-12 20:22:18,2026-03-23 20:22:18,,1576.37,1649.049
+839,949,André Viana,Monteiro Verde,PA,27,Scania P320,DCB9288,3,CD Rondonópolis,Rondonópolis,MT,CD Sorocaba,Sorocaba,SP,2026-03-28 22:41:57,2026-04-09 22:41:57,2026-04-15 22:41:57,761.52,1169.095
+214,951,Davi Luiz Teixeira,Fernandes,CE,30,DAF XF 480,KSZ8486,3,CD Serra,Serra,ES,CD Nova Iguaçu,Nova Iguaçu,RJ,2026-06-14 21:14:34,2026-06-17 21:14:34,2026-06-27 21:14:34,1313.08,1537.504
+233,951,Davi Luiz Teixeira,Fernandes,CE,10,Jeep Renegade,NWO5725,1,CD Dourados,Dourados,MS,CD Aracaju,Aracaju,SE,2025-12-31 07:50:48,2026-01-15 07:50:48,2026-01-04 07:50:48,110.51,97.02
+292,954,Bruno Peixoto,Silva de Minas,RS,28,Volvo VM 270,NOG4159,3,CD Belo Horizonte,Belo Horizonte,MG,CD Jundiaí,Jundiaí,SP,2026-04-16 09:01:25,2026-04-19 09:01:25,2026-04-28 09:01:25,917.73,1964.253
+485,954,Bruno Peixoto,Silva de Minas,RS,23,Fiat Ducato,AUR0775,3,CD Brasília,Brasília,DF,CD Linhares,Linhares,ES,2026-01-10 12:34:21,2026-01-15 12:34:21,,1486.77,1538.205
+883,954,Bruno Peixoto,Silva de Minas,RS,19,Ford Ranger,YTU8726,2,CD São Luís,São Luís,MA,CD Joinville,Joinville,SC,2026-03-02 15:51:13,2026-03-06 15:51:13,2026-03-06 15:51:13,250.18,223.443
+850,955,Bryan Nunes,Leão,MG,16,Fiat Toro,COX0501,2,CD Fortaleza,Fortaleza,CE,CD Juazeiro,Juazeiro,BA,2026-03-29 02:29:01,2026-04-03 02:29:01,2026-03-31 02:29:01,183.39,134.107
+324,956,Juliana Moraes,Barros de Minas,RN,17,Toyota Hilux,XHD6644,2,CD Salvador,Salvador,BA,CD Anápolis,Anápolis,GO,2026-02-24 16:40:09,2026-02-28 16:40:09,2026-03-02 16:40:09,361.54,418.593
+406,956,Juliana Moraes,Barros de Minas,RN,16,Fiat Toro,COX0501,2,CD Parnaíba,Parnaíba,PI,CD Natal,Natal,RN,2026-02-19 13:04:02,2026-03-06 13:04:02,,467.01,390.57
+472,957,Maria Luiza Abreu,Pires,TO,30,DAF XF 480,KSZ8486,3,CD Salvador,Salvador,BA,CD Aracaju,Aracaju,SE,2026-03-29 14:30:23,2026-04-13 14:30:23,2026-04-07 14:30:23,1037.55,1051.559
+646,957,Maria Luiza Abreu,Pires,TO,20,Volkswagen Amarok,LDU5797,2,CD Marabá,Marabá,PA,CD Marília,Marília,SP,2026-02-11 20:23:43,2026-02-23 20:23:43,2026-02-25 20:23:43,382.06,345.633
+163,958,Isadora Brito,Cavalcanti Verde,PB,29,Iveco Tector 240E30,KIW4424,3,CD Campinas,Campinas,SP,CD Três Lagoas,Três Lagoas,MS,2026-02-11 06:47:34,2026-02-26 06:47:34,2026-02-27 06:47:34,858.02,1441.331
+556,958,Isadora Brito,Cavalcanti Verde,PB,19,Ford Ranger,YTU8726,2,CD Nova Iguaçu,Nova Iguaçu,RJ,CD Feira de Santana,Feira de Santana,BA,2026-03-27 00:41:26,2026-04-01 00:41:26,2026-04-11 00:41:26,324.27,584.362
+567,958,Isadora Brito,Cavalcanti Verde,PB,16,Fiat Toro,COX0501,2,CD Rondonópolis,Rondonópolis,MT,CD Fortaleza,Fortaleza,CE,2026-04-23 04:28:06,2026-05-03 04:28:06,2026-04-30 04:28:06,274.88,318.629
+954,959,Eloá Cardoso,Barros de das Neves,PI,23,Fiat Ducato,AUR0775,3,CD Bauru,Bauru,SP,CD Feira de Santana,Feira de Santana,BA,2026-05-02 04:24:21,2026-05-13 04:24:21,2026-05-10 04:24:21,965.3,1549.177
+182,960,Sra. Elisa da Cruz,Abreu Verde,AM,28,Volvo VM 270,NOG4159,3,CD Contagem,Contagem,MG,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-06-15 20:06:23,2026-06-23 20:06:23,,1021.86,1406.858
+443,960,Sra. Elisa da Cruz,Abreu Verde,AM,20,Volkswagen Amarok,LDU5797,2,CD Araguaína,Araguaína,TO,CD Franca,Franca,SP,2026-01-24 08:11:58,2026-01-28 08:11:58,2026-02-05 08:11:58,895.63,875.471
+391,961,Yasmin Porto,Cardoso da Serra,PI,27,Scania P320,DCB9288,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Juazeiro,Juazeiro,BA,2026-04-12 03:01:50,2026-04-18 03:01:50,2026-04-30 03:01:50,1222.2,1505.66
+795,964,Maria Isis Sampaio,Carvalho Grande,PE,19,Ford Ranger,YTU8726,2,CD Rio de Janeiro,Rio de Janeiro,RJ,CD Criciúma,Criciúma,SC,2026-03-03 05:47:21,2026-03-10 05:47:21,,930.84,934.333
+54,965,Maria Flor da Paz,Siqueira,MA,16,Fiat Toro,COX0501,2,CD Guarulhos,Guarulhos,SP,CD Aparecida de Goiânia,Aparecida de Goiânia,GO,2026-02-25 10:55:40,2026-03-05 10:55:40,2026-03-05 10:55:40,311.51,420.896
+645,965,Maria Flor da Paz,Siqueira,MA,21,Mercedes-Benz Sprinter,WDM2991,3,CD Belém,Belém,PA,CD Imperatriz,Imperatriz,MA,2026-01-01 23:07:31,2026-01-10 23:07:31,2026-01-11 23:07:31,992.48,1519.956
+849,966,Luiz Henrique Fernandes,Mendonça Verde,MS,16,Fiat Toro,COX0501,2,CD Marabá,Marabá,PA,CD Araguaína,Araguaína,TO,2026-06-20 05:14:49,2026-07-03 05:14:49,,357.56,498.622
+772,968,Bella Macedo,Moraes do Amparo,MT,14,Peugeot 208,IKO3579,1,CD Camaçari,Camaçari,BA,CD Santarém,Santarém,PA,2026-04-15 20:47:34,2026-04-19 20:47:34,,126.78,86.495
+225,969,Sra. Amanda Leão,Sousa,PB,29,Iveco Tector 240E30,KIW4424,3,CD Presidente Prudente,Presidente Prudente,SP,CD Campos dos Goytacazes,Campos dos Goytacazes,RJ,2026-05-15 14:47:22,2026-05-25 14:47:22,2026-05-30 14:47:22,1145.26,1277.357
+465,970,João Lucas Cunha,Viana,PA,18,Chevrolet S10,HFY7172,2,CD Serra,Serra,ES,CD São Carlos,São Carlos,SP,2026-06-09 07:29:57,2026-06-17 07:29:57,,548.52,783.467
+644,972,Igor Caldeira,Mendonça de Nogueira,SC,23,Fiat Ducato,AUR0775,3,CD Maringá,Maringá,PR,CD Brasília,Brasília,DF,2026-01-01 09:10:32,2026-01-09 09:10:32,2026-01-05 09:10:32,880.53,1497.229
+981,972,Igor Caldeira,Mendonça de Nogueira,SC,27,Scania P320,DCB9288,3,CD Guarulhos,Guarulhos,SP,CD Teresina,Teresina,PI,2026-02-04 10:04:17,2026-02-15 10:04:17,,523.33,1096.57
+999,972,Igor Caldeira,Mendonça de Nogueira,SC,22,Renault Master,JVZ8251,3,CD Araguaína,Araguaína,TO,CD Palmas,Palmas,TO,2026-03-30 13:27:15,2026-04-11 13:27:15,2026-04-04 13:27:15,1339.04,1452.614
+608,973,Yago Silveira,Almeida de Nogueira,PE,17,Toyota Hilux,XHD6644,2,CD Ponta Grossa,Ponta Grossa,PR,CD Foz do Iguaçu,Foz do Iguaçu,PR,2026-02-27 20:59:50,2026-03-04 20:59:50,2026-03-17 20:59:50,543.57,532.232
+833,973,Yago Silveira,Almeida de Nogueira,PE,26,Volkswagen Constellation 24.280,AEV8053,3,CD Franca,Franca,SP,CD Presidente Prudente,Presidente Prudente,SP,2026-02-25 11:12:33,2026-02-28 11:12:33,2026-03-03 11:12:33,940.94,1658.237
+76,974,Luiza Vieira,Rocha,CE,30,DAF XF 480,KSZ8486,3,CD Rio Branco,Rio Branco,AC,CD Boa Vista,Boa Vista,RR,2026-05-02 12:14:35,2026-05-06 12:14:35,2026-05-05 12:14:35,965.16,1594.456
+169,974,Luiza Vieira,Rocha,CE,19,Ford Ranger,YTU8726,2,CD Sinop,Sinop,MT,CD Curitiba,Curitiba,PR,2026-05-02 01:27:07,2026-05-13 01:27:07,2026-05-11 01:27:07,755.9,648.052
+186,974,Luiza Vieira,Rocha,CE,19,Ford Ranger,YTU8726,2,CD Natal,Natal,RN,CD Feira de Santana,Feira de Santana,BA,2026-06-25 17:35:29,2026-07-02 17:35:29,2026-06-27 17:35:29,282.55,333.055
+231,974,Luiza Vieira,Rocha,CE,27,Scania P320,DCB9288,3,CD Uberlândia,Uberlândia,MG,CD Osasco,Osasco,SP,2026-02-12 02:53:02,2026-02-14 02:53:02,2026-02-14 02:53:02,798.89,1142.295
+501,974,Luiza Vieira,Rocha,CE,16,Fiat Toro,COX0501,2,CD Palmas,Palmas,TO,CD Pelotas,Pelotas,RS,2026-06-05 13:42:57,2026-06-17 13:42:57,2026-06-22 13:42:57,348.15,303.903
+333,975,Isabelly Souza,Mendes,RR,23,Fiat Ducato,AUR0775,3,CD Maringá,Maringá,PR,CD Parnaíba,Parnaíba,PI,2026-05-18 13:23:06,2026-05-22 13:23:06,2026-05-20 13:23:06,1034.88,1573.223
+496,976,Juliana Garcia,Araújo,RJ,30,DAF XF 480,KSZ8486,3,CD Chapecó,Chapecó,SC,CD Jaboatão dos Guararapes,Jaboatão dos Guararapes,PE,2026-03-02 11:46:55,2026-03-10 11:46:55,,848.42,1860.678
+63,977,Luiz Henrique Gonçalves,Monteiro do Amparo,PE,29,Iveco Tector 240E30,KIW4424,3,CD São José dos Campos,São José dos Campos,SP,CD Caxias do Sul,Caxias do Sul,RS,2025-12-29 15:36:03,2025-12-30 15:36:03,,1230.13,1674.642
+335,977,Luiz Henrique Gonçalves,Monteiro do Amparo,PE,28,Volvo VM 270,NOG4159,3,CD Joinville,Joinville,SC,CD Imperatriz,Imperatriz,MA,2026-02-16 20:33:12,2026-02-26 20:33:12,2026-02-27 20:33:12,1053.94,1907.207
+682,977,Luiz Henrique Gonçalves,Monteiro do Amparo,PE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Contagem,Contagem,MG,CD Belo Horizonte,Belo Horizonte,MG,2026-02-11 21:34:55,2026-02-13 21:34:55,2026-02-21 21:34:55,1332.7,1100.996
+745,977,Luiz Henrique Gonçalves,Monteiro do Amparo,PE,24,Volkswagen Delivery 11.180,SBS6419,3,CD Jundiaí,Jundiaí,SP,CD Maringá,Maringá,PR,2026-01-07 13:00:51,2026-01-09 13:00:51,2026-01-10 13:00:51,1740.27,1586.95
+956,977,Luiz Henrique Gonçalves,Monteiro do Amparo,PE,20,Volkswagen Amarok,LDU5797,2,CD Marabá,Marabá,PA,CD Porto Alegre,Porto Alegre,RS,2026-03-24 10:17:57,2026-04-05 10:17:57,2026-04-01 10:17:57,787.28,792.289
+9,979,Mateus Dias,Alves da Serra,AM,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Brasília,Brasília,DF,CD Mossoró,Mossoró,RN,2026-02-14 17:31:15,2026-03-01 17:31:15,2026-02-27 17:31:15,788.67,1195.68
+743,979,Mateus Dias,Alves da Serra,AM,12,Renault Kwid,FSP8142,1,CD Belém,Belém,PA,CD Contagem,Contagem,MG,2026-05-10 06:11:37,2026-05-17 06:11:37,2026-05-26 06:11:37,72.3,90.243
+153,983,Ravi Lucca Castro,Peixoto da Serra,AC,30,DAF XF 480,KSZ8486,3,CD Presidente Prudente,Presidente Prudente,SP,CD Canoas,Canoas,RS,2026-02-07 09:44:40,2026-02-19 09:44:40,,1527.92,1826.493
+32,984,Sr. José Pedro Rodrigues,Vieira de Moreira,PB,18,Chevrolet S10,HFY7172,2,CD Niterói,Niterói,RJ,CD Rio de Janeiro,Rio de Janeiro,RJ,2026-05-14 10:49:50,2026-05-18 10:49:50,,157.76,124.049
+257,984,Sr. José Pedro Rodrigues,Vieira de Moreira,PB,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Governador Valadares,Governador Valadares,MG,CD Petrolina,Petrolina,PE,2026-02-26 12:57:52,2026-03-06 12:57:52,2026-03-10 12:57:52,610.43,1014.229
+297,985,Luara Lopes,Sales do Sul,ES,27,Scania P320,DCB9288,3,CD Governador Valadares,Governador Valadares,MG,CD Niterói,Niterói,RJ,2026-05-14 11:03:23,2026-05-19 11:03:23,2026-05-16 11:03:23,1305.58,1833.133
+31,987,Paulo Abreu,Sá Grande,RN,19,Ford Ranger,YTU8726,2,CD Ananindeua,Ananindeua,PA,CD Ribeirão Preto,Ribeirão Preto,SP,2026-04-18 00:53:38,2026-05-03 00:53:38,2026-04-19 00:53:38,173.52,276.287
+124,987,Paulo Abreu,Sá Grande,RN,12,Renault Kwid,FSP8142,1,CD Uberaba,Uberaba,MG,CD Franca,Franca,SP,2026-06-06 20:17:52,2026-06-16 20:17:52,2026-06-20 20:17:52,60.74,86.441
+219,987,Paulo Abreu,Sá Grande,RN,24,Volkswagen Delivery 11.180,SBS6419,3,CD Jundiaí,Jundiaí,SP,CD Recife,Recife,PE,2026-06-15 16:40:13,2026-06-25 16:40:13,,1142.39,1146.032
+345,991,Ana Liz das Neves,Andrade de Sales,MG,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Ribeirão Preto,Ribeirão Preto,SP,CD Canoas,Canoas,RS,2026-04-14 01:23:54,2026-04-15 01:23:54,2026-04-27 01:23:54,567.69,1099.852
+575,991,Ana Liz das Neves,Andrade de Sales,MG,23,Fiat Ducato,AUR0775,3,CD Cuiabá,Cuiabá,MT,CD São Carlos,São Carlos,SP,2026-02-04 09:57:28,2026-02-11 09:57:28,2026-02-21 09:57:28,1091.04,1137.077
+592,993,Ana Júlia da Cruz,da Rocha,RO,27,Scania P320,DCB9288,3,CD Duque de Caxias,Duque de Caxias,RJ,CD Goiânia,Goiânia,GO,2026-01-18 01:29:34,2026-01-19 01:29:34,2026-02-05 01:29:34,1070.59,1908.551
+640,993,Ana Júlia da Cruz,da Rocha,RO,24,Volkswagen Delivery 11.180,SBS6419,3,CD Franca,Franca,SP,CD Marabá,Marabá,PA,2026-02-27 08:26:52,2026-03-10 08:26:52,2026-03-12 08:26:52,1152.99,1270.991
+750,993,Ana Júlia da Cruz,da Rocha,RO,14,Peugeot 208,IKO3579,1,CD Rio de Janeiro,Rio de Janeiro,RJ,CD Bauru,Bauru,SP,2026-05-02 02:01:44,2026-05-16 02:01:44,2026-05-12 02:01:44,38.74,24.062
+773,993,Ana Júlia da Cruz,da Rocha,RO,24,Volkswagen Delivery 11.180,SBS6419,3,CD Feira de Santana,Feira de Santana,BA,CD Marília,Marília,SP,2026-05-20 08:00:37,2026-06-02 08:00:37,,1359.08,1264.241
+712,994,Juliana Almeida,Siqueira Alegre,RS,26,Volkswagen Constellation 24.280,AEV8053,3,CD Uberaba,Uberaba,MG,CD Vitória,Vitória,ES,2026-02-09 06:08:20,2026-02-23 06:08:20,,1690.87,1855.244
+751,995,Sra. Luiza Correia,Cavalcante,PA,25,Mercedes-Benz Atego 1719,XOR7165,3,CD Montes Claros,Montes Claros,MG,CD Aracaju,Aracaju,SE,2026-02-16 09:39:22,2026-03-02 09:39:22,,860.18,1926.012
+114,996,Stella Cirino,Pacheco de Goiás,PR,26,Volkswagen Constellation 24.280,AEV8053,3,CD Itajaí,Itajaí,SC,CD São José dos Campos,São José dos Campos,SP,2026-03-03 22:38:16,2026-03-18 22:38:16,,1420.28,1437.498
+27,1000,Esther Porto,Sampaio do Campo,MG,29,Iveco Tector 240E30,KIW4424,3,CD Fortaleza,Fortaleza,CE,CD Cascavel,Cascavel,PR,2026-05-22 16:24:41,2026-06-03 16:24:41,2026-06-09 16:24:41,1704.68,1506.666
