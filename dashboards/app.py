@@ -47,4 +47,11 @@ with tab1:
     
     col1, col2, col3 = st.columns(3)
 
-    col1.metric("Receita total", df["valor_frete"].sum().round(2), "R$")
+def moeda_br(valor):
+    return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+col1.metric(
+    "Receita total",
+    moeda_br(df["valor_frete"].sum()),
+    delta=moeda_br(df["valor_frete"].sum() - df["valor_frete"].sum() * 0.1)
+)
