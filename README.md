@@ -1,375 +1,120 @@
-# 🚚 Sistema de Monitoramento Logístico: Rastreamento de Entregas e Inteligência Operacional
+# 🚚 Monitoramento Logístico: Rastreamento e Inteligência Operacional
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 ![Linguagem](https://img.shields.io/badge/Language-Python-blue)
 ![Banco de Dados](https://img.shields.io/badge/Database-SQL%20Server-red)
-![Área](https://img.shields.io/badge/Area-Logística-green)
+![BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
 
-Este projeto simula uma operação logística completa, permitindo o monitoramento de entregas, rastreamento de encomendas e análise de desempenho operacional através de técnicas de Engenharia de Dados, Banco de Dados, Business Intelligence e Análise de Dados.
+Este projeto simula uma operação logística ponta a ponta. Ele abrange desde a modelagem de um banco de dados relacional no **SQL Server** até a ingestão de dados sintéticos via **Python (Faker)**, engenharia de dados com views estruturadas, análise exploratória (EDA) e criação de dashboards táticos no **Power BI**.
 
-A solução foi desenvolvida para representar cenários reais enfrentados por transportadoras, operadores logísticos e empresas de comércio eletrônico, possibilitando a geração de indicadores estratégicos para apoio à tomada de decisão.
-
----
-
-# 📌 Índice
-
-* [Contexto do Negócio](#-contexto-do-negócio)
-* [Objetivos do Projeto](#-objetivos-do-projeto)
-* [Funcionalidades e Etapas Tecnológicas](#-funcionalidades-e-etapas-tecnológicas)
-* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-* [Estrutura do Banco de Dados](#-estrutura-do-banco-de-dados)
-* [Estrutura do Repositório](#-estrutura-do-repositório)
-* [Como Executar o Projeto](#-como-executar-o-projeto)
-* [Roadmap](#-roadmap)
-* [Autor](#-autor)
+O objetivo é responder a perguntas estratégicas de negócio, como gargalos de entrega, eficiência da frota, receitas de frete e performance dos Centros de Distribuição (CDs).
 
 ---
 
-# 💼 Contexto do Negócio
+## 📌 Conteúdo do Projeto
 
-Empresas de logística precisam monitorar diariamente milhares de entregas, veículos, centros de distribuição e movimentações operacionais.
-
-Sem mecanismos adequados de monitoramento, problemas como atrasos, baixa utilização da frota, aumento dos custos operacionais e gargalos logísticos podem impactar diretamente a qualidade do serviço prestado.
-
-Este projeto foi desenvolvido para transformar dados operacionais em informações estratégicas, permitindo responder perguntas importantes como:
-
-* Qual o volume total de entregas realizadas?
-* Quais centros de distribuição processam mais cargas?
-* Qual o tempo médio de entrega?
-* Quais clientes geram maior receita?
-* Onde estão os principais gargalos da operação?
-* Quais rotas apresentam maior incidência de atrasos?
+* **Modelagem de Dados Relacional**: Tabelas de dimensões e fatos estruturadas para suportar consultas analíticas rápidas.
+* **Geração de Dados Realistas (ETL)**: Pipeline em Python utilizando a biblioteca `Faker` para simular milhares de registros consistentes.
+* **Camada de Visões (SQL Views)**: Criação de views analíticas no SQL Server para simplificar e otimizar o consumo dos dados pelas ferramentas de visualização.
+* **Análise Exploratória (EDA)**: Investigação de métricas de distribuição de carga, tempos de entrega e faturamento via Pandas, Seaborn e Matplotlib.
+* **Dashboard de Performance**: Painel interativo para acompanhamento de KPIs logísticos e financeiros.
 
 ---
 
-# 🎯 Objetivos do Projeto
+## 🗄️ Estrutura do Banco de Dados
 
-O projeto busca simular uma operação logística real, permitindo:
+A arquitetura do banco foi desenhada para rastrear o ciclo de vida de cada envio, associando-o ao veículo correspondente e registrando todo o histórico de transições de status nos hubs.
 
-* Monitorar envios e rastreamentos.
-* Acompanhar movimentações em centros de distribuição.
-* Avaliar o desempenho operacional da frota.
-* Analisar receitas provenientes dos fretes.
-* Identificar gargalos e oportunidades de melhoria.
-* Construir dashboards e indicadores gerenciais.
-* Aplicar conceitos de Engenharia de Dados e Business Intelligence.
-
----
-
-# ⚙️ Funcionalidades e Etapas Tecnológicas
-
-O desenvolvimento do projeto foi dividido em etapas práticas e progressivas.
-
-## ✅ 01. Modelagem e Estruturação do Banco de Dados
-
-* Definição das entidades do sistema.
-* Construção do DER.
-* Definição de chaves primárias e estrangeiras.
-* Implementação física no SQL Server.
-* Validação dos relacionamentos.
+| Tabela | Tipo | Descrição |
+| :--- | :--- | :--- |
+| **`clientes`** | Dimensão | Dados cadastrais e localização geográfica dos clientes. |
+| **`veiculos`** | Dimensão | Cadastro da frota, controle de placas e capacidade em kg. |
+| **`centros_distribuicao`** | Dimensão | Identificação e localização dos hubs logísticos. |
+| **`produtos` / `faixas_peso`** | Dimensão | Classificação dos itens transportados por categoria e faixas de peso. |
+| **`status_entrega`** | Dimensão | Tabela de domínio contendo os possíveis status de uma entrega. |
+| **`fato_envios`** | Fato | Registro principal da carga, datas do ciclo de envio e valor do frete. |
+| **`itens_envio`** | Fato/Ponte | Detalhamento dos produtos contidos em cada envio (quantidade e valores). |
+| **`fato_status_entrega`** | Fato | Histórico temporal do rastreamento de cada envio pelos CDs. |
 
 ---
 
-## ✅ 02. Geração e Alimentação dos Dados
+## 📁 Estrutura do Repositório
 
-* Utilização da biblioteca Faker.
-* Geração de clientes fictícios.
-* Geração de veículos e placas.
-* Criação de centros de distribuição.
-* Simulação de milhares de envios.
-* Simulação de eventos de rastreamento.
-
----
-
-## 🔄 03. Engenharia e Preparação dos Dados
-
-* Conexão Python ↔ SQL Server.
-* Extração dos dados.
-* Tratamento de inconsistências.
-* Criação de variáveis derivadas.
-* Cálculo de prazos e atrasos.
-
----
-
-## 🔄 04. Análise Exploratória de Dados (EDA)
-
-* Volume total de envios.
-* Distribuição dos pesos transportados.
-* Distribuição dos valores de frete.
-* Evolução temporal das entregas.
-* Frequência dos status logísticos.
-* Distribuição geográfica dos clientes.
-
----
-
-## 🔄 05. Construção dos KPIs
-
-### Indicadores Operacionais
-
-* Total de envios.
-* Total de entregas concluídas.
-* Taxa de conclusão.
-
-### Indicadores de Prazo
-
-* Tempo médio de entrega.
-* Percentual de atrasos.
-* Entregas dentro do prazo.
-
-### Indicadores Financeiros
-
-* Receita total.
-* Receita por cliente.
-* Receita por estado.
-
-### Indicadores de Transporte
-
-* Peso total transportado.
-* Utilização da frota.
-* Volume por tipo de veículo.
-
----
-
-## 🔄 06. Diagnóstico e Insights Estratégicos
-
-* Identificação de gargalos.
-* Centros mais congestionados.
-* Veículos mais eficientes.
-* Regiões mais lucrativas.
-* Rotas com maior incidência de atrasos.
-
----
-
-## 🔄 07. Desenvolvimento do Dashboard
-
-* Visão Executiva.
-* Visão Operacional.
-* Visão Financeira.
-* Visão Geográfica.
-* Storytelling dos indicadores.
-
----
-
-# 🛠️ Tecnologias Utilizadas
-
-## Banco de Dados
-
-* SQL Server
-
-## Linguagem
-
-* Python 3.10+
-
-## Bibliotecas
-
-* Pandas
-* NumPy
-* Faker
-* Matplotlib
-* Seaborn
-* PyODBC
-
-## Ferramentas
-
-* SQL Server Management Studio (SSMS)
-* Visual Studio Code
-* Jupyter Notebook
-* Git e GitHub
-* Power BI (planejado)
-
----
-
-# 🗄️ Estrutura do Banco de Dados
-
-A modelagem foi construída utilizando conceitos de banco de dados relacional e modelagem dimensional.
-
-## Tabelas de Dimensão
-
-### Clientes
-
-Armazena informações cadastrais dos clientes:
-
-* Nome
-* Cidade
-* Estado
-
-### Veículos
-
-Armazena informações da frota:
-
-* Modelo
-* Placa
-* Capacidade de carga
-
-### Centros de Distribuição
-
-Representa os hubs logísticos:
-
-* Nome do centro
-* Cidade
-* Estado
-
----
-
-## Tabelas Fato
-
-### Fato Envios
-
-Registra:
-
-* Cliente responsável
-* Veículo utilizado
-* Peso da carga
-* Valor do frete
-* Data de postagem
-* Data prevista de entrega
-
-### Fato Status Entrega
-
-Registra:
-
-* Histórico de rastreamento
-* Status da encomenda
-* Centro de distribuição
-* Data e hora da movimentação
-
----
-
-## Relacionamentos
-
-```text
-CLIENTES
-    │
-    └──< ENVIOS >── VEICULOS
-             │
-             │
-             └──< STATUS_ENTREGA >── CENTROS_DISTRIBUICAO
-```
-
----
-
-# 📁 Estrutura do Repositório
-
-```text
 MONITORAMENTO_LOGISTICO/
-│
-├── app/
-│   └── app.py
-│
-├── data/
-│
+├── dashboards/
+│   ├── app.py                      # Aplicação complementar de suporte ao projeto
+│   └── dashboard.pbix              # Arquivo de desenvolvimento do Dashboard no Power BI
+├── data/                           # Bases de dados extraídas e exportações do pipeline
+│   ├── metricas_basicas.csv
+│   ├── qtd_envio_por_cliente.csv
+│   ├── qtd_envio_por_veiculo.csv
+│   ├── qtd_recebido_por_cd.csv
+│   ├── vw_envio.csv
+│   └── vw_produtos.csv
 ├── documentos/
-│
+│   └── img/                        # Assets e ícones utilizados na documentação e dashboards
 ├── notebooks/
-│   └── 01_populando_faker.ipynb
-│
-├── scripts/
+│   ├── 01_populando_faker.ipynb    # Notebook focado na geração e inserção de dados sintéticos
+│   └── 02_analise_exploratoria.ipynb  # Análise estatística e descoberta de insights (EDA)
+├── scripts/                        # Scripts SQL ordenados para implantação física do banco e views
 │   ├── 01_criando_banco.sql
-│   └── 02_populando_banco_inserts.sql
-│
-├── .venv/
-│
+│   ├── 02_populando_banco_inserts.sql
+│   ├── 03_vw_envio.sql
+│   ├── 04_vw_entrega.sql
+│   ├── 05_vw_itens_envio.sql
+│   ├── 06_vw_faixa_peso.sql
+│   ├── 07_vw_produtos.sql
+│   └── 08_vw_categoria_receita.sql
 ├── .gitignore
-│
 ├── README.md
-│
 └── requirements.txt
-```
 
----
+## 🚀 Como Executar o Projeto
 
-# 🚀 Como Executar o Projeto
+1. Preparação do Ambiente Local
+Clone o repositório e configure o ambiente virtual Python para instalar as dependências necessárias:
 
-## 1. Clonar o Repositório
-
-```bash
-git clone https://github.com/devigorll/monitoramento_logistico.git
-```
-
-## 2. Acessar a Pasta
-
-```bash
+# Clonar o repositório
+git clone [https://github.com/devigorll/monitoramento_logistico.git](https://github.com/devigorll/monitoramento_logistico.git)
 cd monitoramento_logistico
-```
 
-## 3. Criar Ambiente Virtual
-
-```bash
+# Criar e ativar o ambiente virtual (Windows)
 python -m venv .venv
-```
-
-## 4. Ativar Ambiente
-
-### Windows
-
-```bash
 .venv\Scripts\activate
-```
 
-### Linux / Mac
-
-```bash
-source .venv/bin/activate
-```
-
-## 5. Instalar Dependências
-
-```bash
+# Instalar as bibliotecas necessárias
 pip install -r requirements.txt
-```
 
-## 6. Criar Banco de Dados
+2. Configuração do Banco de Dados (SQL Server)
+Abra o SQL Server Management Studio (SSMS) ou sua IDE de preferência.
 
-Execute:
+Execute o arquivo scripts/01_criando_banco.sql para estruturar as tabelas.
 
-```sql
-scripts/01_criando_banco.sql
-```
+Insira as faixas de peso padrões executando o script scripts/02_populando_banco_inserts.sql.
 
-## 7. Popular Banco
+3. Geração dos Dados e Engenharia
+Execute o notebook notebooks/01_populando_faker.ipynb para alimentar o banco de dados via Python.
 
-Execute:
+Com o banco populado, execute os scripts de 03 a 08 da pasta scripts/ para criar as views analíticas diretamente no SQL Server.
 
-```sql
-scripts/02_populando_banco_inserts.sql
-```
+Explore a análise de dados contida no notebook notebooks/02_analise_exploratoria.ipynb para compreender o comportamento da operação.
 
-## 8. Executar Notebook
+## 📈 Roadmap do Projeto
+[x] Modelagem do banco de dados relacional e criação das tabelas
 
-```bash
-notebooks/01_populando_faker.ipynb
-```
+[x] Geração de dados fictícios consistentes com Python Faker
 
----
+[x] Criação de Views SQL otimizadas para consumo de BI
 
-# 📈 Roadmap
+[x] Análise Exploratória de Dados (EDA) no Jupyter Notebook
 
-* [x] Modelagem do banco de dados
-* [x] Criação das tabelas
-* [x] Geração de dados fictícios
-* [x] População inicial do banco
-* [ ] Engenharia de dados
-* [ ] Análise exploratória (EDA)
-* [ ] Construção dos KPIs
-* [ ] Dashboard Power BI
-* [ ] Storytelling Executivo
-* [ ] Publicação do projeto
+[x] Desenvolvimento do Dashboard no Power BI
 
----
+[ ] Implementação de previsões de atrasos com Machine Learning
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
+Igor Cruz
 
-**Igor Cruz**
+Focado em extrair valor de dados e transformar fluxos complexos em soluções simples e funcionais.
 
-Projeto desenvolvido para aprimorar conhecimentos em:
-
-* SQL Server
-* Engenharia de Dados
-* Data Analytics
-* Business Intelligence
-* Modelagem de Dados
-* Desenvolvimento de Portfólio
-
----
-
-⭐ Caso tenha gostado do projeto, considere deixar uma estrela no repositório.
+⭐ Se este projeto te inspirou ou ajudou de alguma forma, sinta-se à vontade para deixar uma estrela no repositório!
