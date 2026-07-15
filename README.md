@@ -72,9 +72,10 @@ MONITORAMENTO_LOGISTICO/
 
 ## 🚀 Como Executar o Projeto
 
-1. Preparação do Ambiente Local
+### 1. Preparação do Ambiente Local
 Clone o repositório e configure o ambiente virtual Python para instalar as dependências necessárias:
 
+```bash
 # Clonar o repositório
 git clone [https://github.com/devigorll/monitoramento_logistico.git](https://github.com/devigorll/monitoramento_logistico.git)
 cd monitoramento_logistico
@@ -85,20 +86,21 @@ python -m venv .venv
 
 # Instalar as bibliotecas necessárias
 pip install -r requirements.txt
+```
 
-2. Configuração do Banco de Dados (SQL Server)
-Abra o SQL Server Management Studio (SSMS) ou sua IDE de preferência.
+### 2. Configuração do Banco de Dados (SQL Server)
+1. Abra o SQL Server Management Studio (SSMS) ou sua IDE de preferência.
 
-Execute o arquivo scripts/01_criando_banco.sql para estruturar as tabelas.
+2. Execute o arquivo scripts/01_criando_banco.sql para estruturar as tabelas.
 
-Insira as faixas de peso padrões executando o script scripts/02_populando_banco_inserts.sql.
+3. Insira as faixas de peso padrões executando o script scripts/02_populando_banco_inserts.sql.
 
-3. Geração dos Dados e Engenharia
-Execute o notebook notebooks/01_populando_faker.ipynb para alimentar o banco de dados via Python.
+### 3. Geração dos Dados e Engenharia
+1. Execute o notebook notebooks/01_populando_faker.ipynb para alimentar o banco de dados via Python.
 
-Com o banco populado, execute os scripts de 03 a 08 da pasta scripts/ para criar as views analíticas diretamente no SQL Server.
+2. Com o banco populado, execute os scripts de 03 a 08 da pasta scripts/ para criar as views analíticas diretamente no SQL Server.
 
-Explore a análise de dados contida no notebook notebooks/02_analise_exploratoria.ipynb para compreender o comportamento da operação.
+3. Explore a análise de dados contida no notebook notebooks/02_analise_exploratoria.ipynb para compreender o comportamento
 
 ## 📈 Roadmap do Projeto
 [x] Modelagem do banco de dados relacional e criação das tabelas
