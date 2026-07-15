@@ -39,7 +39,7 @@ A arquitetura do banco foi desenhada para rastrear o ciclo de vida de cada envio
 ---
 
 ## 📁 Estrutura do Repositório
-
+```
 MONITORAMENTO_LOGISTICO/
 ├── dashboards/
 │   ├── app.py                      # Aplicação complementar de suporte ao projeto
@@ -68,6 +68,7 @@ MONITORAMENTO_LOGISTICO/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## 🚀 Como Executar o Projeto
 
