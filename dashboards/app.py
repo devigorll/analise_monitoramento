@@ -17,7 +17,11 @@ sns.set_theme(style="whitegrid")
 
 # Imprtar dados aqui 
 # Gerar DF com o vw_envio
-df = pd.read_csv("../data/vw_envio.csv")
+BASE_DIR = Path(__file__).resolve().parent
+
+arquivo = BASE_DIR.parent / "data" / "vw_envio.csv"
+
+df = pd.read_csv(arquivo)
 
 # Sidebar
 st.sidebar.title("Filtros Globais")
