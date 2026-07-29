@@ -4,6 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from lifelines import KaplanMeierFitter, CoxPHFitter
+from pathlib import Path
+
 
 # Configuradno titulo da página do streamlit
 st.set_page_config(
